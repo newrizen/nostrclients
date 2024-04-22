@@ -31,8 +31,8 @@ asdf exec jekyll serve
 - [Iris](https://iris.to) 🌐🤖🍎
 - Current 🤖🍎 https://app.getcurrent.io
 - Free From 🤖🍎 https://freefrom.space
-- Amethyst 🤖 https://amethyst.social
-- [Openvibe] (https://openvibe.social) (new Plebstr) 🤖🍎
+- [Amethyst](https://amethyst.social) 🤖 
+- [Openvibe](https://openvibe.social) (new Plebstr) 🤖🍎
 - [Camelus](https://github.com/leo-lox/camelus) [early access] 🤖
 - [Damus](https://damus.io) 🍎
 - Nos 🍎 https://nos.social
@@ -52,7 +52,7 @@ asdf exec jekyll serve
 - Corny Chat - Audio Chat 🌐 cornychat.com
 
 ## Video Streeming:
-- Flare (tipo youtube) 🌐 flare.pub
+- [Flare](https://flare.pub) (tipo youtube) 🌐
 
 ## Download:
 - DTAN - Torrents 🌐 dtan.xyz
