@@ -27,7 +27,7 @@ asdf exec jekyll serve
 
 ## Twitter like:
 - [Nostrmo](web.nostrmo.com) 🌐🤖🍎💻
-- Primal 🌐🤖🍎 primal.net
+- [Primal](primal.net) 🌐🤖🍎
 - Iris 🌐🤖🍎 iris.to
 - Current 🤖🍎 app.getcurrent.io
 - Free From 🤖🍎 freefrom.space
