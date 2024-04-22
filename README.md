@@ -33,7 +33,7 @@ asdf exec jekyll serve
 - Free From 🤖🍎 https://freefrom.space
 - Amethyst 🤖 https://amethyst.social
 - [Openvibe] (https://openvibe.social) (new Plebstr) 🤖🍎
-- [Camelus](https://github.com/leo-lox/camelus) [acesso antecipado] 🤖
+- [Camelus](https://github.com/leo-lox/camelus) [early access] 🤖
 - [Damus](https://damus.io) 🍎
 - Nos 🍎 https://nos.social
 - Nostur 🍎 https://nostur.com
@@ -96,8 +96,8 @@ asdf exec jekyll serve
 - Highlighter - Trocar insights 🌐 highlighter.com
 
 ## Lists:
-- Listr 🌐 listr.lol
-- Nostr potatoes - Lista de filmes 💻 github.com/jrc-dev/nostr-potatoes
+- [Listr](listr.lol) 🌐
+- [Nostr potatoes](github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
 
 ## Market and Jobs:
 - Shopstr - Compra e venda 🌐 shopstr.store
@@ -120,9 +120,9 @@ asdf exec jekyll serve
 
 ## Code:
 - Nostrify - Search Nostr Frameworks 🌐 nostrify.dev
-- Gitstr (github like) [em desenvolvimento] ⏱️ github.com/fiatjaf/gitstr
+- [Gitstr](github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
 
 ## Utilities:
-- RoadRunner (Uber like) [em desenvolvimento] ⏱️ github.com/42Pupusas/RoadRunner
+- [RoadRunner](github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
 
 Some others on nostrapps.com
