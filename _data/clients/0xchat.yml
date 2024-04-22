@@ -4,14 +4,14 @@ repo: https://github.com/0xchat-app/0xchat-core
 latest: 1.1.4
 purpose: Chat
 features:
-  webApp: ❌
-  windowsApp: ❌
-  linuxApp: ❌
-  macApp: ❌
-  iosApp: ✅
-  androidApp: ✅
-  integratedWallet: ❌
-  multipleAccounts: ❌
+  webApp: ❌🌐
+  windowsApp: ❌🪟
+  linuxApp: ❌🐧
+  macApp: ❌🍎
+  iosApp: ✅🍏
+  androidApp: ✅🤖
+  integratedWallet: ❌👛
+  multipleAccounts: ❌📒
   eventRelays: 
   relayList: 
   relayInfo: 
@@ -21,14 +21,14 @@ features:
   algorithmicFeeds: 
   rebroadcast: 
   machineTranslation: 
-  pushNotification: ✅
+  pushNotification: ✅❕️
   eventDeletion: 
   zaps: 
   reactions: 
   customEmoji: 
   microblogging: ❌
-  directMessage: ✅
-  chatrooms: ✅
+  directMessage: ✅ DM
+  chatrooms: ✅ 💬
   communities: 
   longform: 
   report: 
