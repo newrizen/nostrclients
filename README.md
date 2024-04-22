@@ -32,8 +32,8 @@ asdf exec jekyll serve
 - Current 🤖🍎 https://app.getcurrent.io
 - Free From 🤖🍎 https://freefrom.space
 - Amethyst 🤖 https://amethyst.social
-- Openvibe (new Plebstr) 🤖🍎 https://openvibe.social
-- [Camelus [acesso antecipado]](https://github.com/leo-lox/camelus) 🤖
+- [Openvibe] (https://openvibe.social) (new Plebstr) 🤖🍎
+- [Camelus](https://github.com/leo-lox/camelus) [acesso antecipado] 🤖
 - [Damus](https://damus.io) 🍎
 - Nos 🍎 https://nos.social
 - Nostur 🍎 https://nostur.com
