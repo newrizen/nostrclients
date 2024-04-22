@@ -27,22 +27,22 @@ asdf exec jekyll serve
 
 ## Twitter like:
 - [Nostrmo](https://web.nostrmo.com) 🌐🤖🍎💻
-- [Primal](primal.net) 🌐🤖🍎
-- Iris 🌐🤖🍎 iris.to
-- Current 🤖🍎 app.getcurrent.io
-- Free From 🤖🍎 freefrom.space
-- Amethyst 🤖 amethyst.social
-- Openvibe (new Plebstr) 🤖🍎 openvibe.social
-- Camelus [acesso antecipado] 🤖 github.com/leo-lox/camelus
-- Damus 🍎 damus.io
-- Nos 🍎 nos.social
-- Nostur 🍎 nostur.com
-- Nosta 🌐 nosta.me
-- NostrBand 🌐 nostr.band
-- Snort 🌐 snort.social
-- Coracle 🌐 coracle.social
-- Rabbit 🌐 rabbit.syusui.net
-- Lume 💻 lume.nu
+- [Primal](https://primal.net) 🌐🤖🍎
+- [Iris](https://iris.to) 🌐🤖🍎
+- Current 🤖🍎 https://app.getcurrent.io
+- Free From 🤖🍎 https://freefrom.space
+- Amethyst 🤖 https://amethyst.social
+- Openvibe (new Plebstr) 🤖🍎 https://openvibe.social
+- [Camelus [acesso antecipado]](https://github.com/leo-lox/camelus) 🤖
+- [Damus](https://damus.io) 🍎
+- Nos 🍎 https://nos.social
+- Nostur 🍎 https://nostur.com
+- Nosta 🌐 https://nosta.me
+- NostrBand 🌐 https://nostr.band
+- Snort 🌐 https://snort.social
+- Coracle 🌐 https://coracle.social
+- Rabbit 🌐 https://rabbit.syusui.net
+- Lume 💻 https://lume.nu
 
 ## Transmission de audio ou vídeo:
 - Nostr Nests - Audio Chats 🌐 nostrnests.com
