@@ -1,3 +1,5 @@
+# Nostr Clients
+
 ## Viewing
 
 View the deployed webpage [here](https://nostorg.github.io/clients/) or via the link in the sidebar.
@@ -20,3 +22,8 @@ asdf install # install ruby from .tool-versions
 asdf exec bundle install # install from gemfile
 asdf exec jekyll serve
 ```
+## Viewing
+
+View the deployed webpage [here](https://nostorg.github.io/clients/) or via the link in the sidebar.
+
+## Contributing
