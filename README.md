@@ -25,7 +25,7 @@ asdf exec jekyll serve
 
 # Clients and others
 
-## Twitter like:
+## Twitter like
 - [Nostrmo](https://web.nostrmo.com) 🌐🤖🍎💻
 - [Primal](https://primal.net) 🌐🤖🍎
 - [Iris](https://iris.to) 🌐🤖🍎
@@ -44,31 +44,31 @@ asdf exec jekyll serve
 - [Rabbit] 🌐 https://rabbit.syusui.net
 - [Lume] 💻 https://lume.nu
 
-## Transmission de audio ou vídeo:
+## Transmission de audio ou vídeo
 - [Nostr Nests] - Audio Chats 🌐 nostrnests.com
 - [Vida] - Video call 🌐🤖 vida.live
 - [Fountain] - Podcast 🤖🍎 fountain.fm
 - [ZapStream] 🌐 zap.stream
 - [Corny Chat] - Audio Chat 🌐 cornychat.com
 
-## Video Streeming:
+## Video Streeming
 - [Flare](https://flare.pub) (tipo youtube) 🌐
 
-## Download:
+## Download
 - [DTAN] - Torrents 🌐 dtan.xyz
 
-## Music:
+## Music
 - [Tunestr] - Apresentações musicais 🌐 tunestr.io
 - [Stemstr] - Colaboração músical (paga para postar) 🌐 stemstr.app
 - [Wavlake] - Streaming de música 🌐(🤖🍎 [em acesso antecipado]) wavlake.com
 
-## Donation and payments:
+## Donation and payments
 - [Zapper] - Zaps facilitados 🌐 zap.nostraps.org
 - [Autozap] 🌐 zapplepay.com/autozap
 - [Nostr Zap] 💻 https://github.com/SamSamskies/nostr-zap
 - [Creatr] - Inscrição em criadores 🌐 creatr.nostr.wine
 
-## Like other services:
+## Like other services
 - Zapddit (reddit like) 🌐 zapddit.com
 - Blogstack (blog like) 🌐 blogstack.io
 - Pinstr (pinterest like) 🌐 pinstr.app
@@ -76,53 +76,53 @@ asdf exec jekyll serve
 - LowEnt (forum like) 🌐 lowent.xyz
 - Memestr (ifunny like) 🌐 memestr.app
 
-## Communities:
+## Communities
 - noStrudel 🌐 nostrudel.ninja
 - Nostr Kiwi 🌐 nostr.kiwi
 - Satellite 🌐 satellite.earth
 
-## Customization:
+## Customization
 - Emojito - Add “stickers” 🌐 emojito.meme
 
-## Direct Messenges (DM):
+## Direct Messenges (DM)
 - 0xchat 🤖🍎 0xchat.com
 - Nostr Chat 🌐🍎 nostrchat.io
 - Blowater 🌐 blowater.deno.dev
 
-## Writing:
+## Writing
 - Habla 🌐 habla.news
 - YakiHonne 🌐 yakihonne.com
 - Flycat 🌐 flycat.club
 - Highlighter - Trocar insights 🌐 highlighter.com
 
-## Lists:
+## Lists
 - [Listr](listr.lol) 🌐
 - [Nostr potatoes](github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
 
-## Market and Jobs:
+## Market and Jobs
 - Shopstr - Compra e venda 🌐 shopstr.store
 - Nostr Market - Compra e venda 🌐 market.nostr.com
 - Ostrich work - Trabalho 🌐 ostrich.work
 - Nostrocket - Trabalho 🌐 nostrocket.org
 
-## Games:
+## Games
 - Chesstr - Chess 🌐 chesstr.pages.dev 
 
-## General Uses:
+## General Uses
 - Advanced nostr search - Search 🌐 advancednostrsearch.vercel.app
 - Spring - Browser 🌐 spring.site
 
-## Security:
+## Security
 - Secret Border - Generate offline keys 💻 github.com/guilhermegps/secret-border
 
-## Extensions:
+## Extensions
 - Nos2x - Acesso a contas 🌐 github.com/fiatjaf/nos2x
 
-## Code:
+## Code
 - Nostrify - Search Nostr Frameworks 🌐 nostrify.dev
 - [Gitstr](github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
 
-## Utilities:
+## Utilities
 - [RoadRunner](github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
 
 Some others on nostrapps.com
