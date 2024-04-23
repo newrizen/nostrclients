@@ -54,19 +54,19 @@ asdf exec jekyll serve
 ### Video Streaming
 - [Flare](https://flare.pub) (Youtube like) 🌐
 
-### Download
+### Download and upload
 - [DTAN](https://dtan.xyz) - Torrents 🌐
 
 ### Music
 - [Tunestr](https://tunestr.io) - Apresentações musicais 🌐
 - [Stemstr](https://stemstr.app) - Colaboração músical (paga para postar) 🌐
-- [Wavlake](https://wavlake.com) - Streaming de música 🌐(🤖🍎 [em acesso antecipado])
+- [Wavlake](https://wavlake.com) - Streaming de música 🌐(🤖🍎 [early access])
 
 ### Donation and payments
-- [Zapper](https://zap.nostraps.org) - Zaps facilitados 🌐
+- [Zapper](https://zap.nostraps.org) - Easy Zaps 🌐
 - [Autozap](https://zapplepay.com/autozap) 🌐
 - [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻
-- [Creatr](https://creatr.nostr.wine) - Inscrição em criadores 🌐
+- [Creatr](https://creatr.nostr.wine) - Creators subscription 🌐
 
 ### Like other services
 - [Zapddit](https://zapddit.com) (reddit like) 🌐 
@@ -93,17 +93,17 @@ asdf exec jekyll serve
 - [Habla](https://habla.news) 🌐
 - [YakiHonne](https://yakihonne.com) 🌐 
 - [Flycat](https://flycat.club) 🌐 
-- [Highlighter](https://highlighter.com) - Trocar insights 🌐
+- [Highlighter](https://highlighter.com) - Share insights 🌐
 
 ### Lists
 - [Listr](https://listr.lol) 🌐
 - [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
 
 ### Market and Jobs
-- [Shopstr](https://shopstr.store) - Compra e venda 🌐 
-- [Nostr Market](https://market.nostr.com) - Compra e venda 🌐 
-- [Ostrich work](https://ostrich.work) - Trabalho 🌐 
-- [Nostrocket](https://nostrocket.org) - Trabalho 🌐 
+- [Shopstr](https://shopstr.store) - Buy and sell 🌐 
+- [Nostr Market](https://market.nostr.com) - Buy and sell 🌐 
+- [Ostrich](https://ostrich.work) - Jobs 🌐 
+- [Nostrocket](https://nostrocket.org) - Jobs 🌐 
 
 ### Games
 - [Chesstr](https://chesstr.pages.dev) - Chess 🌐 
@@ -116,7 +116,7 @@ asdf exec jekyll serve
 - [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻 
 
 ### Extensions
-- [Nos2x](https://github.com/fiatjaf/nos2x) - Acesso a contas 🌐 
+- [Nos2x](https://github.com/fiatjaf/nos2x) - Acounts access 🌐 
 
 ### Code
 - [Nostrify](https://nostrify.dev) - Search Nostr Frameworks 🌐 
