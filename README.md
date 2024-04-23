@@ -35,94 +35,94 @@ asdf exec jekyll serve
 - [Openvibe](https://openvibe.social) (new Plebstr) 🤖🍎
 - [Camelus](https://github.com/leo-lox/camelus) [early access] 🤖
 - [Damus](https://damus.io) 🍎
-- [Nos] 🍎 https://nos.social
-- [Nostur] 🍎 https://nostur.com
-- [Nosta] 🌐 https://nosta.me
-- [NostrBand] 🌐 https://nostr.band
-- [Snort] 🌐 https://snort.social
-- [Coracle] 🌐 https://coracle.social
-- [Rabbit] 🌐 https://rabbit.syusui.net
-- [Lume] 💻 https://lume.nu
+- [Nos](https://nos.social) 🍎
+- [Nostur](https://nostur.com) 🍎 
+- [Nosta](https://nosta.me) 🌐
+- [NostrBand](https://nostr.band) 🌐 
+- [Snort](https://snort.social) 🌐
+- [Coracle](https://coracle.social) 🌐
+- [Rabbit](https://rabbit.syusui.net) 🌐
+- [Lume](https://lume.nu) 💻
 
 ## Transmission de audio ou vídeo
-- [Nostr Nests] - Audio Chats 🌐 nostrnests.com
-- [Vida] - Video call 🌐🤖 vida.live
-- [Fountain] - Podcast 🤖🍎 fountain.fm
-- [ZapStream] 🌐 zap.stream
-- [Corny Chat] - Audio Chat 🌐 cornychat.com
+- [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
+- [Vida](https://vida.live) - Video call 🌐🤖 
+- [Fountain](https://fountain.fm) - Podcast 🤖🍎 
+- [ZapStream](https://zap.stream) 🌐 
+- [Corny Chat](https://cornychat.com) - Audio Chat 🌐 
 
 ## Video Streeming
 - [Flare](https://flare.pub) (tipo youtube) 🌐
 
 ## Download
-- [DTAN] - Torrents 🌐 dtan.xyz
+- [DTAN](https://dtan.xyz) - Torrents 🌐
 
 ## Music
-- [Tunestr] - Apresentações musicais 🌐 tunestr.io
-- [Stemstr] - Colaboração músical (paga para postar) 🌐 stemstr.app
-- [Wavlake] - Streaming de música 🌐(🤖🍎 [em acesso antecipado]) wavlake.com
+- [Tunestr](https://tunestr.io) - Apresentações musicais 🌐
+- [Stemstr](https://stemstr.app) - Colaboração músical (paga para postar) 🌐
+- [Wavlake](https://wavlake.com) - Streaming de música 🌐(🤖🍎 [em acesso antecipado])
 
 ## Donation and payments
-- [Zapper] - Zaps facilitados 🌐 zap.nostraps.org
-- [Autozap] 🌐 zapplepay.com/autozap
-- [Nostr Zap] 💻 https://github.com/SamSamskies/nostr-zap
-- [Creatr] - Inscrição em criadores 🌐 creatr.nostr.wine
+- [Zapper](https://zap.nostraps.org) - Zaps facilitados 🌐
+- [Autozap](https://zapplepay.com/autozap) 🌐
+- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻
+- [Creatr](https://creatr.nostr.wine) - Inscrição em criadores 🌐
 
 ## Like other services
-- Zapddit (reddit like) 🌐 zapddit.com
-- Blogstack (blog like) 🌐 blogstack.io
-- Pinstr (pinterest like) 🌐 pinstr.app
-- OddBean (forum like) 🌐 oddbean.com
-- LowEnt (forum like) 🌐 lowent.xyz
-- Memestr (ifunny like) 🌐 memestr.app
+- [Zapddit](https://zapddit.com) (reddit like) 🌐 
+- [Blogstack](https://blogstack.io) (blog like) 🌐 
+- [Pinstr](https://pinstr.app) (pinterest like) 🌐 
+- [OddBean](https://oddbean.com) (forum like) 🌐 
+- [LowEnt](https://lowent.xyz) (forum like) 🌐 
+- [Memestr](https://memestr.app) (ifunny like) 🌐 
 
 ## Communities
-- noStrudel 🌐 nostrudel.ninja
-- Nostr Kiwi 🌐 nostr.kiwi
-- Satellite 🌐 satellite.earth
+- [noStrudel](https://nostrudel.ninja) 🌐 
+- [Nostr Kiwi](https://nostr.kiwi) 🌐 
+- [Satellite](https://satellite.earth) 🌐 
 
 ## Customization
-- Emojito - Add “stickers” 🌐 emojito.meme
+- [Emojito](https://emojito.meme) - Add “stickers” 🌐 
 
 ## Direct Messenges (DM)
-- 0xchat 🤖🍎 0xchat.com
-- Nostr Chat 🌐🍎 nostrchat.io
-- Blowater 🌐 blowater.deno.dev
+- [0xchat](https://0xchat.com) 🤖🍎 
+- [Nostr Chat](https://nostrchat.io) 🌐🍎 
+- [Blowater](https://blowater.deno.dev) 🌐 
 
 ## Writing
-- Habla 🌐 habla.news
-- YakiHonne 🌐 yakihonne.com
-- Flycat 🌐 flycat.club
-- Highlighter - Trocar insights 🌐 highlighter.com
+- [Habla](https://habla.news) 🌐
+- [YakiHonne](https://yakihonne.com) 🌐 
+- [Flycat](https://flycat.club) 🌐 
+- [Highlighter](https://highlighter.com) - Trocar insights 🌐
 
 ## Lists
-- [Listr](listr.lol) 🌐
-- [Nostr potatoes](github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
+- [Listr](https://listr.lol) 🌐
+- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
 
 ## Market and Jobs
-- Shopstr - Compra e venda 🌐 shopstr.store
-- Nostr Market - Compra e venda 🌐 market.nostr.com
-- Ostrich work - Trabalho 🌐 ostrich.work
-- Nostrocket - Trabalho 🌐 nostrocket.org
+- Shopstr - Compra e venda 🌐 ](https://shopstr.store
+- Nostr Market - Compra e venda 🌐 ](https://market.nostr.com
+- Ostrich work - Trabalho 🌐 ](https://ostrich.work
+- Nostrocket - Trabalho 🌐 ](https://nostrocket.org
 
 ## Games
-- Chesstr - Chess 🌐 chesstr.pages.dev 
+- Chesstr - Chess 🌐 ](https://chesstr.pages.dev)
 
 ## General Uses
-- Advanced nostr search - Search 🌐 advancednostrsearch.vercel.app
-- Spring - Browser 🌐 spring.site
+- Advanced nostr search - Search 🌐 ](https://advancednostrsearch.vercel.app)
+- Spring - Browser 🌐 ](https://spring.site)
 
 ## Security
-- Secret Border - Generate offline keys 💻 github.com/guilhermegps/secret-border
+- Secret Border - Generate offline keys 💻 ](https://github.com/guilhermegps/secret-border)
 
 ## Extensions
-- Nos2x - Acesso a contas 🌐 github.com/fiatjaf/nos2x
+- Nos2x - Acesso a contas 🌐 ](https://github.com/fiatjaf/nos2x
 
 ## Code
-- Nostrify - Search Nostr Frameworks 🌐 nostrify.dev
-- [Gitstr](github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
+- Nostrify - Search Nostr Frameworks 🌐 ](https://nostrify.dev
+- [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
 
 ## Utilities
 - [RoadRunner](github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
 
-Some others on nostrapps.com
+Some others on https://nostrapps.com
