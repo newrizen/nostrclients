@@ -65,6 +65,10 @@ asdf exec jekyll serve
 ### Download and upload
 - [DTAN](https://dtan.xyz) - Torrents 🌐
 
+### Documents
+- [Docstr](https://docstr.com) 🌐
+- [Sheetstr](github.com/vitorpamplona/sheetstr) [em desenvolvimento]
+
 ### Music
 - [Tunestr](https://tunestr.io) - Apresentações musicais 🌐
 - [Stemstr](https://stemstr.app) - Colaboração músical (paga para postar) 🌐
