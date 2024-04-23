@@ -52,6 +52,7 @@ asdf exec jekyll serve
 - [ZBD](https://zbd.gg/) 🤖🍎 
 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) 🤖🍎
 - [Minibits](minibits.cash) - Cashu mobile wallet 🤖
+- [Blink](blink.sv) 🤖🍎
 
 ###  Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
