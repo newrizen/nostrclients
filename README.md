@@ -23,9 +23,9 @@ asdf exec bundle install # install from gemfile
 asdf exec jekyll serve
 ```
 
-# Clients and others
+## Clients and others
 
-## Twitter like
+### Twitter like
 - [Nostrmo](https://web.nostrmo.com) 🌐🤖🍎💻
 - [Primal](https://primal.net) 🌐🤖🍎
 - [Iris](https://iris.to) 🌐🤖🍎
@@ -44,31 +44,31 @@ asdf exec jekyll serve
 - [Rabbit](https://rabbit.syusui.net) 🌐
 - [Lume](https://lume.nu) 💻
 
-## Transmission de audio ou vídeo
+###  Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
 - [Vida](https://vida.live) - Video call 🌐🤖 
 - [Fountain](https://fountain.fm) - Podcast 🤖🍎 
 - [ZapStream](https://zap.stream) 🌐 
 - [Corny Chat](https://cornychat.com) - Audio Chat 🌐 
 
-## Video Streeming
+### Video Streaming
 - [Flare](https://flare.pub) (Youtube like) 🌐
 
-## Download
+### Download
 - [DTAN](https://dtan.xyz) - Torrents 🌐
 
-## Music
+### Music
 - [Tunestr](https://tunestr.io) - Apresentações musicais 🌐
 - [Stemstr](https://stemstr.app) - Colaboração músical (paga para postar) 🌐
 - [Wavlake](https://wavlake.com) - Streaming de música 🌐(🤖🍎 [em acesso antecipado])
 
-## Donation and payments
+### Donation and payments
 - [Zapper](https://zap.nostraps.org) - Zaps facilitados 🌐
 - [Autozap](https://zapplepay.com/autozap) 🌐
 - [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻
 - [Creatr](https://creatr.nostr.wine) - Inscrição em criadores 🌐
 
-## Like other services
+### Like other services
 - [Zapddit](https://zapddit.com) (reddit like) 🌐 
 - [Blogstack](https://blogstack.io) (blog like) 🌐 
 - [Pinstr](https://pinstr.app) (pinterest like) 🌐 
@@ -76,53 +76,53 @@ asdf exec jekyll serve
 - [LowEnt](https://lowent.xyz) (forum like) 🌐 
 - [Memestr](https://memestr.app) (ifunny like) 🌐 
 
-## Communities
+### Communities
 - [noStrudel](https://nostrudel.ninja) 🌐 
 - [Nostr Kiwi](https://nostr.kiwi) 🌐 
 - [Satellite](https://satellite.earth) 🌐 
 
-## Customization
+### Customization
 - [Emojito](https://emojito.meme) - Add “stickers” 🌐 
 
-## Direct Messenges (DM)
+### Direct Messenges (DM)
 - [0xchat](https://0xchat.com) 🤖🍎 
 - [Nostr Chat](https://nostrchat.io) 🌐🍎 
 - [Blowater](https://blowater.deno.dev) 🌐 
 
-## Writing
+### Writing
 - [Habla](https://habla.news) 🌐
 - [YakiHonne](https://yakihonne.com) 🌐 
 - [Flycat](https://flycat.club) 🌐 
 - [Highlighter](https://highlighter.com) - Trocar insights 🌐
 
-## Lists
+### Lists
 - [Listr](https://listr.lol) 🌐
 - [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
 
-## Market and Jobs
+### Market and Jobs
 - [Shopstr](https://shopstr.store) - Compra e venda 🌐 
 - [Nostr Market](https://market.nostr.com) - Compra e venda 🌐 
 - [Ostrich work](https://ostrich.work) - Trabalho 🌐 
 - [Nostrocket](https://nostrocket.org) - Trabalho 🌐 
 
-## Games
+### Games
 - [Chesstr](https://chesstr.pages.dev) - Chess 🌐 
 
-## General Uses
+### General Uses
 - [Advanced nostr search](https://advancednostrsearch.vercel.app) - Search 🌐 
 - [Spring](https://spring.site) - Browser 🌐 
 
-## Security
+### Security
 - [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻 
 
-## Extensions
+### Extensions
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Acesso a contas 🌐 
 
-## Code
+### Code
 - [Nostrify](https://nostrify.dev) - Search Nostr Frameworks 🌐 
 - [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
 
-## Utilities
+### Utilities
 - [RoadRunner](github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
 
 Some others on https://nostrapps.com
