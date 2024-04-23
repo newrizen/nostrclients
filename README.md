@@ -71,7 +71,7 @@ asdf exec jekyll serve
 
 ### Music
 - [Tunestr](https://tunestr.io) - Apresentações musicais 🌐
-- [Stemstr](https://stemstr.app) - Colaboração músical (paga para postar) 🌐
+- [Stemstr](https://stemstr.app) - Colaboração músical (paid to post) 🌐
 - [Wavlake](https://wavlake.com) - Streaming de música 🌐(🤖🍎 [early access])
 
 ### Donation and payments
