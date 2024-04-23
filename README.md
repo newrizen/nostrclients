@@ -26,7 +26,7 @@ asdf exec jekyll serve
 ## Clients and others
 
 ### Twitter like
-- [Nostrmo](https://web.nostrmo.com) 🌐🤖🍎💻
+- [Nostrmo](https://web.nostrmo.com) 🌐🤖🍎💻(🪟🍎)
 - [Primal](https://primal.net) 🌐🤖🍎
 - [Iris](https://iris.to) 🌐🤖🍎
 - [Current](https://app.getcurrent.io) 🤖🍎
@@ -42,7 +42,7 @@ asdf exec jekyll serve
 - [Snort](https://snort.social) 🌐
 - [Coracle](https://coracle.social) 🌐
 - [Rabbit](https://rabbit.syusui.net) 🌐
-- [Lume](https://lume.nu) 💻
+- [Lume](https://lume.nu) 💻(🐧🪟🍎)
 
 ###  Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
@@ -65,7 +65,7 @@ asdf exec jekyll serve
 ### Donation and payments
 - [Zapper](https://zap.nostraps.org) - Easy Zaps 🌐
 - [Autozap](https://zapplepay.com/autozap) 🌐
-- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻
+- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻(numpy)
 - [Creatr](https://creatr.nostr.wine) - Creators subscription 🌐
 
 ### Like other services
@@ -97,7 +97,7 @@ asdf exec jekyll serve
 
 ### Lists
 - [Listr](https://listr.lol) 🌐
-- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
+- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻(numpy)
 
 ### Market and Jobs
 - [Shopstr](https://shopstr.store) - Buy and sell 🌐 
@@ -113,7 +113,7 @@ asdf exec jekyll serve
 - [Spring](https://spring.site) - Browser 🌐 
 
 ### Security
-- [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻 
+- [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻(java)
 
 ### Extensions
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Acounts access 🌐 
