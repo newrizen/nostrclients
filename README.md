@@ -52,7 +52,7 @@ asdf exec jekyll serve
 - [Corny Chat](https://cornychat.com) - Audio Chat 🌐 
 
 ## Video Streeming
-- [Flare](https://flare.pub) (tipo youtube) 🌐
+- [Flare](https://flare.pub) (Youtube like) 🌐
 
 ## Download
 - [DTAN](https://dtan.xyz) - Torrents 🌐
@@ -100,26 +100,26 @@ asdf exec jekyll serve
 - [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻
 
 ## Market and Jobs
-- Shopstr - Compra e venda 🌐 ](https://shopstr.store
-- Nostr Market - Compra e venda 🌐 ](https://market.nostr.com
-- Ostrich work - Trabalho 🌐 ](https://ostrich.work
-- Nostrocket - Trabalho 🌐 ](https://nostrocket.org
+- [Shopstr](https://shopstr.store) - Compra e venda 🌐 
+- [Nostr Market](https://market.nostr.com) - Compra e venda 🌐 
+- [Ostrich work](https://ostrich.work) - Trabalho 🌐 
+- [Nostrocket](https://nostrocket.org) - Trabalho 🌐 
 
 ## Games
-- Chesstr - Chess 🌐 ](https://chesstr.pages.dev)
+- [Chesstr](https://chesstr.pages.dev) - Chess 🌐 
 
 ## General Uses
-- Advanced nostr search - Search 🌐 ](https://advancednostrsearch.vercel.app)
-- Spring - Browser 🌐 ](https://spring.site)
+- [Advanced nostr search](https://advancednostrsearch.vercel.app) - Search 🌐 
+- [Spring](https://spring.site) - Browser 🌐 
 
 ## Security
-- Secret Border - Generate offline keys 💻 ](https://github.com/guilhermegps/secret-border)
+- [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻 
 
 ## Extensions
-- Nos2x - Acesso a contas 🌐 ](https://github.com/fiatjaf/nos2x
+- [Nos2x](https://github.com/fiatjaf/nos2x) - Acesso a contas 🌐 
 
 ## Code
-- Nostrify - Search Nostr Frameworks 🌐 ](https://nostrify.dev
+- [Nostrify](https://nostrify.dev) - Search Nostr Frameworks 🌐 
 - [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
 
 ## Utilities
