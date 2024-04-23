@@ -46,6 +46,12 @@ asdf exec jekyll serve
 - [Lume](https://lume.nu) 💻(🐧🪟🍎)
 - [Gossip](https://github.com/mikedilger/gossip) 💻
 
+###  Lightning Wallets (zap)
+
+- [Alby](https://getalby.com/) 🌐
+- [ZBD](https://zbd.gg/) 🤖🍎 
+- [Wallet of Satoshi](https://www.walletofsatoshi.com/) 🤖🍎 
+
 ###  Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
 - [Vida](https://vida.live) - Video call 🌐🤖 
@@ -74,9 +80,10 @@ asdf exec jekyll serve
 - [Zapddit](https://zapddit.com) (reddit like) 🌐 
 - [Blogstack](https://blogstack.io) (blog like) 🌐 
 - [Pinstr](https://pinstr.app) (pinterest like) 🌐 
+- [Memestr](https://memestr.app) (ifunny like) 🌐
+- [Staker News](https://stacker.news/) (Hacker News like) 🌐
 - [OddBean](https://oddbean.com) (forum like) 🌐 
 - [LowEnt](https://lowent.xyz) (forum like) 🌐 
-- [Memestr](https://memestr.app) (ifunny like) 🌐 
 
 ### Communities
 - [noStrudel](https://nostrudel.ninja) 🌐 
