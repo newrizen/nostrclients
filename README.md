@@ -42,7 +42,9 @@ asdf exec jekyll serve
 - [Snort](https://snort.social) 🌐
 - [Coracle](https://coracle.social) 🌐
 - [Rabbit](https://rabbit.syusui.net) 🌐
+- [Nostribe](nostribe.com) [on development] 🌐
 - [Lume](https://lume.nu) 💻(🐧🪟🍎)
+- [Gossip](https://github.com/mikedilger/gossip) 💻
 
 ###  Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
@@ -116,11 +118,14 @@ asdf exec jekyll serve
 - [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻(java)
 
 ### Extensions
-- [Nos2x](https://github.com/fiatjaf/nos2x) - Acounts access 🌐 
+- [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
+- [Satcom](https://satcom.app) 🌐
 
 ### Code
-- [Nostrify](https://nostrify.dev) - Search Nostr Frameworks 🌐 
+- [Nostrify](https://nostrify.dev) - Share Nostr Frameworks 🌐 
 - [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
+- [Playground](playgrounnd.nostr.com) 🌐
+- [Osty](osty.dev) 🌐
 
 ### Utilities
 - [RoadRunner](github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
