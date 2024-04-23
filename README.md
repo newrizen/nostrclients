@@ -54,7 +54,7 @@ asdf exec jekyll serve
 - [Minibits](minibits.cash) - Cashu mobile wallet 🤖
 - [Blink](blink.sv) - Opensource custodial wallet 🤖🍎
 - [LNbits](lnbits.com) - App and extesion 🤖🍎💻
-- [LightningTipBot](ln.tips) - Wallet and tip bot on telegram 
+- [LightningTipBot](ln.tips) - Wallet and tip bot on telegram [[info]](https://github.com/LightningTipBot/LightningTipBot)
 
 ###  Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
