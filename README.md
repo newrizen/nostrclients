@@ -99,7 +99,14 @@ asdf exec jekyll serve
 - [Satellite](https://satellite.earth) 🌐 
 
 ### Customization
-- [Emojito](https://emojito.meme) - Add “stickers” 🌐 
+- [Emojito](https://emojito.meme) - Add “stickers” 🌐
+
+### Media Upload (audio, images and videos)
+- [Nostr Build](https://nostr.build) 🌐
+- [Nostr Check](https://nostrcheck.me) 🌐
+- [NostPic](https://nostpic.com) 🌐
+- [Sovbit](https://files.sovbit.com) 🌐
+- [Voidcat](https://void.cat) 🌐
 
 ### Direct Messenges (DM)
 - [0xchat](https://0xchat.com) 🤖🍎 
