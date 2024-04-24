@@ -147,13 +147,13 @@ asdf exec jekyll serve
 
 ### Code
 - [Nostrify](https://nostrify.dev) - Share Nostr Frameworks 🌐
-- [Git Workshop](gitworkshop.dev) (github like) [experimental] 🌐
+- [Git Workshop](https://gitworkshop.dev) (github like) [experimental] 🌐
 - [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
-- [Playground](playgrounnd.nostr.com) 🌐
-- [Osty](osty.dev) 🌐
+- [Playground](https://playgrounnd.nostr.com) 🌐
+- [Osty](https://osty.dev) 🌐
 
 ### Utilities
-- [RoadRunner](github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
+- [RoadRunner](https://github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
 
 
 Some others on https://nostrapps.com
