@@ -33,13 +33,13 @@ asdf exec jekyll serve
 - [Free From](https://freefrom.space) 🤖🍎
 - [Amethyst](https://amethyst.social) 🤖 
 - [Openvibe](https://openvibe.social) (new Plebstr) 🤖🍎
+- [Snort](https://snort.social) 🌐(🤖[early access])
 - [Camelus](https://github.com/leo-lox/camelus) [early access] 🤖
 - [Damus](https://damus.io) 🍎
 - [Nos](https://nos.social) 🍎
 - [Nostur](https://nostur.com) 🍎 
 - [Nosta](https://nosta.me) 🌐
 - [NostrBand](https://nostr.band) 🌐 
-- [Snort](https://snort.social) 🌐
 - [Coracle](https://coracle.social) 🌐
 - [Rabbit](https://rabbit.syusui.net) 🌐
 - [Nostribe](nostribe.com) [on development] 🌐
