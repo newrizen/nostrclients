@@ -104,7 +104,9 @@ asdf exec jekyll serve
 ### Direct Messenges (DM)
 - [0xchat](https://0xchat.com) 🤖🍎 
 - [Nostr Chat](https://nostrchat.io) 🌐🍎 
-- [Blowater](https://blowater.deno.dev) 🌐 
+- [Blowater](https://blowater.deno.dev) 🌐
+- [Anigma](https://anigma.io) (new nostrgram) - Telegram based
+- [Keychat](https://keychat.io) - Signal based [🤖🍎 on development]
 
 ### Writing
 - [Habla](https://habla.news) 🌐
