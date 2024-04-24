@@ -105,7 +105,7 @@ asdf exec jekyll serve
 - [0xchat](https://0xchat.com) 🤖🍎 
 - [Nostr Chat](https://nostrchat.io) 🌐🍎 
 - [Blowater](https://blowater.deno.dev) 🌐
-- [Anigma](https://anigma.io) (new nostrgram) - Telegram based [[info]](https://github.com/brilliancebitcoin/nostrgram) [on development]
+- [Anigma](https://anigma.io) (new nostrgram) - Telegram based [on development] [[info]](https://github.com/brilliancebitcoin/nostrgram)
 - [Keychat](https://keychat.io) - Signal based [🤖🍎 on development] [[info]](https://github.com/rohanharikr/keychat.online)
 
 ### Writing
