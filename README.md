@@ -48,7 +48,7 @@ asdf exec jekyll serve
 
 ###  Lightning Wallets (zap)
 
-- [Alby](https://getalby.com/) 🌐
+- [Alby](https://getalby.com/) - Native and extension 🌐
 - [ZBD](https://zbd.gg/) 🤖🍎 
 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) 🤖🍎
 - [Minibits](minibits.cash) - Cashu mobile wallet 🤖
