@@ -137,7 +137,8 @@ asdf exec jekyll serve
 - [Satcom](https://satcom.app) 🌐
 
 ### Code
-- [Nostrify](https://nostrify.dev) - Share Nostr Frameworks 🌐 
+- [Nostrify](https://nostrify.dev) - Share Nostr Frameworks 🌐
+- [Git Workshop](gitworkshop.dev) [experimental] (github like) 🌐
 - [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
 - [Playground](playgrounnd.nostr.com) 🌐
 - [Osty](osty.dev) 🌐
