@@ -74,9 +74,9 @@ asdf exec jekyll serve
 - [Sheetstr](github.com/vitorpamplona/sheetstr) [em desenvolvimento]
 
 ### Music
-- [Tunestr](https://tunestr.io) - Apresentações musicais 🌐
-- [Stemstr](https://stemstr.app) - Colaboração músical (paid to post) 🌐
-- [Wavlake](https://wavlake.com) - Streaming de música 🌐(🤖🍎 [early access])
+- [Tunestr](https://tunestr.io) - Musical events 🌐
+- [Stemstr](https://stemstr.app) - Musical colab (paid to post) 🌐
+- [Wavlake](https://wavlake.com) - Music streaming 🌐(🤖🍎 [early access])
 
 ### Donation and payments
 - [Zapper](https://zap.nostraps.org) - Easy Zaps 🌐
@@ -114,7 +114,7 @@ asdf exec jekyll serve
 
 ### Lists
 - [Listr](https://listr.lol) 🌐
-- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Lista de filmes 💻(numpy)
+- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Movies list 💻(numpy)
 
 ### Market and Jobs
 - [Shopstr](https://shopstr.store) - Buy and sell 🌐 
