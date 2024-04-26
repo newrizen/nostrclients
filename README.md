@@ -141,6 +141,7 @@ asdf exec jekyll serve
 
 ### Security
 - [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻(java)
+- [Umbrel](Umbrel.com) - Your private relay 🌐
 
 ### Extensions
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
