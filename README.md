@@ -52,7 +52,7 @@ asdf exec jekyll serve
 - [ZBD](https://zbd.gg/) 🤖🍎 
 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) 🤖🍎
 - [Minibits](minibits.cash) - Cashu mobile wallet 🤖
-- [Blink](blink.sv) - Opensource custodial wallet 🤖🍎
+- [Blink](blink.sv) - Opensource custodial wallet (KYC over 1000 usd) 🤖🍎
 - [LNbits](lnbits.com) - App and extesion 🤖🍎💻
 - [LightningTipBot](ln.tips) - LNbits based wallet and tip bot on telegram [[info]](https://github.com/LightningTipBot/LightningTipBot)
 - [Zeus](zeuspay.com) [on development]
