@@ -55,7 +55,7 @@ asdf exec jekyll serve
 - [Blink](blink.sv) - Opensource custodial wallet (KYC over 1000 usd) 🤖🍎 [[info]](https://github.com/GaloyMoney/blinkbtc)
 - [LNbits](lnbits.com) - App and extesion 🤖🍎💻
 - [LightningTipBot](ln.tips) - LNbits based wallet and tip bot on telegram [[info]](https://github.com/LightningTipBot/LightningTipBot)
-- [Zeus](https://zeuspay.com) [on development] [[info]](https://github.com/ZeusLN)
+- [Zeus](https://zeuspay.com) [on development] 🤖 [[info]](https://github.com/ZeusLN)
 
 ###  Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
