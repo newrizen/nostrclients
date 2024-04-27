@@ -72,7 +72,7 @@ asdf exec jekyll serve
 
 ### Documents
 - [Docstr](https://docstr.com) 🌐
-- [Sheetstr](github.com/vitorpamplona/sheetstr) [on development] [[info]](github.com/vitorpamplona/sheetstr)
+- [Sheetstr](https://github.com/vitorpamplona/sheetstr) [on development] [[info]](https://github.com/vitorpamplona/sheetstr)
 
 ### Music
 - [Tunestr](https://tunestr.io) - Musical events 🌐
@@ -141,7 +141,7 @@ asdf exec jekyll serve
 
 ### Security
 - [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻(java)
-- [Umbrel](Umbrel.com) - Your private relay 🌐
+- [Umbrel](https://umbrel.com) - Your private relay 🌐
 
 ### Extensions
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
