@@ -145,7 +145,7 @@ asdf exec jekyll serve
 
 ### Extensions
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
-- [Satcom](https://satcom.app) 🌐
+- [Satcom](https://satcom.app) - Share files to discuss [[info]](https://github.com/jinglescode/web-content-conversation) 🌐
 
 ### Code
 - [Nostrify](https://nostrify.dev) - Share Nostr Frameworks 🌐
