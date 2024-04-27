@@ -72,7 +72,7 @@ asdf exec jekyll serve
 
 ### Documents
 - [Docstr](https://docstr.com) 🌐
-- [Sheetstr](github.com/vitorpamplona/sheetstr) [em desenvolvimento]
+- [Sheetstr](github.com/vitorpamplona/sheetstr) [on development] [[info]](github.com/vitorpamplona/sheetstr)
 
 ### Music
 - [Tunestr](https://tunestr.io) - Musical events 🌐
