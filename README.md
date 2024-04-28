@@ -128,15 +128,18 @@ asdf exec jekyll serve
 
 ### Market and Jobs
 - [Shopstr](https://shopstr.store) - Buy and sell 🌐 
-- [Nostr Market](https://market.nostr.com) - Buy and sell 🌐 
+- [Nostr Market](https://market.nostr.com) - Buy and sell 🌐
+- [Plebeian Market](https://plebeian.market) - Buy and sell 🌐
 - [Ostrich](https://ostrich.work) - Jobs 🌐 
 - [Nostrocket](https://nostrocket.org) - Jobs 🌐 
 
 ### Games
-- [Chesstr](https://chesstr.pages.dev) - Chess 🌐 
+- [Chesstr](https://chesstr.pages.dev) - Chess 🌐
+- [Jestr](https://github.com/jesterui/jesterui) - Chess 
 
 ### General Uses
 - [Njump](https://njump.me) - HTML Nostr gateway 🌐 [[info]](https://github.com/fiatjaf/njump)
+- [Nostree](https://nostree.me/)  - Nostr linktree 🌐 [[info]](https://github.com/gzuuus/linktr-nostr)
 - [Advanced nostr search](https://advancednostrsearch.vercel.app) - Search 🌐 
 - [Spring](https://spring.site) - Browser 🌐 
 
@@ -146,6 +149,11 @@ asdf exec jekyll serve
 
 ### Extensions
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
+- [Nostr.me]()
+- [Highlighter](https://github.com/pablof7z/highlighter)
+- [Nsec.app](https://nsec.app/)
+- [Lume](https://lume.nu/)
+- [Faaans](https://getfaaans.com)
 - [Satcom](https://satcom.app) - Share files to discuss [[info]](https://github.com/jinglescode/web-content-conversation) 🌐
 
 ### Code
