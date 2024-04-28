@@ -47,7 +47,6 @@ asdf exec jekyll serve
 - [Gossip](https://github.com/mikedilger/gossip) 💻
 
 ###  Lightning Wallets (zap)
-
 - [Alby](https://getalby.com/) - Native and extension 🌐
 - [ZBD](https://zbd.gg/) 🤖🍎 
 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) 🤖🍎
@@ -56,6 +55,11 @@ asdf exec jekyll serve
 - [LNbits](lnbits.com) - App and extesion 🤖🍎💻
 - [LightningTipBot](ln.tips) - LNbits based wallet and tip bot on telegram [[info]](https://github.com/LightningTipBot/LightningTipBot)
 - [Zeus](https://zeusln.com) 🤖🍎 [[info]](https://github.com/ZeusLN)
+
+### Communities
+- [noStrudel](https://nostrudel.ninja) 🌐 
+- [Nostr Kiwi](https://nostr.kiwi) 🌐 
+- [Satellite](https://satellite.earth) 🌐 
 
 ### Audio and Video Transmissions
 - [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
@@ -67,17 +71,17 @@ asdf exec jekyll serve
 ### Video Streaming
 - [Flare](https://flare.pub) (Youtube like) 🌐
 
+### Music
+- [Tunestr](https://tunestr.io) - Musical events 🌐
+- [Stemstr](https://stemstr.app) - Musical colab (paid to post) 🌐
+- [Wavlake](https://wavlake.com) - Music streaming 🌐(🤖🍎 [early access])
+
 ### Download and upload
 - [DTAN](https://dtan.xyz) - Torrents 🌐
 
 ### Documents
 - [Docstr](https://docstr.com) 🌐
 - [Sheetstr](https://github.com/vitorpamplona/sheetstr) [on development] [[info]](https://github.com/vitorpamplona/sheetstr)
-
-### Music
-- [Tunestr](https://tunestr.io) - Musical events 🌐
-- [Stemstr](https://stemstr.app) - Musical colab (paid to post) 🌐
-- [Wavlake](https://wavlake.com) - Music streaming 🌐(🤖🍎 [early access])
 
 ### Donation and payments
 - [Zapper](https://zap.nostraps.org) - Easy Zaps 🌐
@@ -93,14 +97,6 @@ asdf exec jekyll serve
 - [Staker News](https://stacker.news/) (Hacker News like) 🌐
 - [OddBean](https://oddbean.com) (forum like) 🌐 
 - [LowEnt](https://lowent.xyz) (forum like) 🌐 
-
-### Communities
-- [noStrudel](https://nostrudel.ninja) 🌐 
-- [Nostr Kiwi](https://nostr.kiwi) 🌐 
-- [Satellite](https://satellite.earth) 🌐 
-
-### Customization
-- [Emojito](https://emojito.meme) - Add “stickers” 🌐
 
 ### Media Upload (audio, images and videos)
 - [Nostr Build](https://nostr.build) 🌐
@@ -132,6 +128,9 @@ asdf exec jekyll serve
 - [Plebeian Market](https://plebeian.market) - Buy and sell 🌐
 - [Ostrich](https://ostrich.work) - Jobs 🌐 
 - [Nostrocket](https://nostrocket.org) - Jobs 🌐 
+
+### Customization
+- [Emojito](https://emojito.meme) - Add “stickers” 🌐
 
 ### Games
 - [Chesstr](https://chesstr.pages.dev) - Chess 🌐
