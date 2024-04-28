@@ -136,6 +136,7 @@ asdf exec jekyll serve
 - [Chesstr](https://chesstr.pages.dev) - Chess 🌐 
 
 ### General Uses
+- [Njump](https://njump.me) - HTML Nostr gateway 🌐
 - [Advanced nostr search](https://advancednostrsearch.vercel.app) - Search 🌐 
 - [Spring](https://spring.site) - Browser 🌐 
 
