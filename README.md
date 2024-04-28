@@ -41,6 +41,7 @@ asdf exec jekyll serve
 - [Nosta](https://nosta.me) 🌐
 - [NostrBand](https://nostr.band) 🌐 
 - [Coracle](https://coracle.social) 🌐
+- [Zephyr](https://zephyr.coracle.social) - Calming to read 🌐
 - [Rabbit](https://rabbit.syusui.net) 🌐
 - [Nostribe](nostribe.com) [on development] 🌐
 - [Lume](https://lume.nu) 💻(🐧🪟🍎)
@@ -83,20 +84,16 @@ asdf exec jekyll serve
 - [Docstr](https://docstr.com) 🌐
 - [Sheetstr](https://github.com/vitorpamplona/sheetstr) [on development] [[info]](https://github.com/vitorpamplona/sheetstr)
 
-### Donation and payments
-- [Zapper](https://zap.nostraps.org) - Easy Zaps 🌐
-- [Autozap](https://zapplepay.com/autozap) 🌐
-- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻(numpy)
-- [Creatr](https://creatr.nostr.wine) - Creators subscription 🌐
-
 ### Like other services
-- [Zapddit](https://zapddit.com) (reddit like) 🌐 
+- [Zapddit](https://zapddit.com) (reddit like) 🌐
+- [Voyage](https://github.com/dluvian/voyage) [on development] 🤖
 - [Blogstack](https://blogstack.io) (blog like) 🌐 
 - [Pinstr](https://pinstr.app) (pinterest like) 🌐 
 - [Memestr](https://memestr.app) (ifunny like) 🌐
 - [Staker News](https://stacker.news/) (Hacker News like) 🌐
 - [OddBean](https://oddbean.com) (forum like) 🌐 
-- [LowEnt](https://lowent.xyz) (forum like) 🌐 
+- [LowEnt](https://lowent.xyz) (forum like) 🌐
+- [Swarmstr](https://swarmstr.com/) (Q&A / FAQ) 🌐
 
 ### Media Upload (audio, images and videos)
 - [Nostr Build](https://nostr.build) 🌐
@@ -127,7 +124,13 @@ asdf exec jekyll serve
 - [Nostr Market](https://market.nostr.com) - Buy and sell 🌐
 - [Plebeian Market](https://plebeian.market) - Buy and sell 🌐
 - [Ostrich](https://ostrich.work) - Jobs 🌐 
-- [Nostrocket](https://nostrocket.org) - Jobs 🌐 
+- [Nostrocket](https://nostrocket.org) - Jobs 🌐
+
+### Donation and payments
+- [Zapper](https://zap.nostraps.org) - Easy Zaps 🌐
+- [Autozap](https://zapplepay.com/autozap) 🌐
+- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻(numpy)
+- [Creatr](https://creatr.nostr.wine) - Creators subscription 🌐
 
 ### Customization
 - [Emojito](https://emojito.meme) - Add “stickers” 🌐
@@ -151,7 +154,7 @@ asdf exec jekyll serve
 - [Nostr.me]()
 - [Highlighter](https://github.com/pablof7z/highlighter)
 - [Nsec.app](https://nsec.app/)
-- [Lume](https://lume.nu/)
+- [Lume](https://lume.nu/)  🌐
 - [Faaans](https://getfaaans.com)
 - [Satcom](https://satcom.app) - Share files to discuss [[info]](https://github.com/jinglescode/web-content-conversation) 🌐
 
