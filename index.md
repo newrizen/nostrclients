@@ -13,7 +13,7 @@ Contribute on github: <{{ site.github.repository_url }}>
 
 ## Legend
 
-🌐 Web | 🤖 Android | 🍎 iPhone | 📱 Mobile | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍏 IOS | ⏱️ Unfinished
+🌐 Web  🤖 Android  🍎 iPhone  📱 Mobile  💻 Desktop  🐧 Linux  🪟 Windows  🍏 IOS  ⏱️ Unfinished
 
 ___
 
@@ -428,7 +428,7 @@ ___
 
 Some other Nostr index on:
 
-[Nostr Apps](https://nostrapps.com) | [Nostorg](https://github.com/nostorg/clients) | [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
+[Nostr Apps](https://nostrapps.com)  [Nostorg](https://github.com/nostorg/clients)  [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
 
 
 <div class="bigtable">
