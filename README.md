@@ -25,8 +25,8 @@ ___
 |[Damus](https://damus.io) ||[[source]](https://github.com/damus-io/damus)|🍎 
 |[Nos](https://nos.social)||[[source]](https://github.com/planetary-social/nos)|🍎
 |[Nostur](https://nostur.com)||[[source]](https://github.com/nostur-com/nostur-ios-public)|🍎
-|[NostrBand](https://nostr.band)|[[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)|🌐 
-|[Yana](https://yana.do)|[[source]](https://github.com/frnandu/yana)|🤖🍎🌐💻(🐧) 
+|[NostrBand](https://nostr.band)||[[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)|🌐 
+|[Yana](https://yana.do)||[[source]](https://github.com/frnandu/yana)|🤖🍎🌐💻(🐧) 
 |[Nostribe](https://nostribe.com)|[on development]|[[source]](https://github.com/sepehr-safari/nostribe-web-client)|🌐
 |[Lume](https://lume.nu)||[[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)|💻(🐧🪟🍎) 
 |[Gossip](https://github.com/mikedilger/gossip)||[[source]](https://github.com/mikedilger/gossip)|💻(🐧🪟🍎)
