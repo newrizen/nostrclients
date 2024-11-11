@@ -361,7 +361,17 @@ ___
 ## NOT RELATED TO NOSTR
 ___
 
-### Android Keyboards
+### Fundamentals
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|A-2 | One of the primary Free and Open Source Software made by UNIVAC (1953) - A-2 is a compiler like a loader or linker | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf) |
+|Git || [[source]] (https://git.kernel.org/pub/scm/git/git.git) |
+|Linux || [[source]] (https://github.com/torvalds/linux) |
+|Bitcoin || [[source]] (https://github.com/bitcoin) |
+|Nostr || [[source]]() |
+
+
+### Keyboards
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 | [Futo](https://keyboard.futo.org/) | Gboard like | [[source]](https://github.com/futo-org/android-keyboard/releases)|
