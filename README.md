@@ -224,7 +224,7 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Emojito](https://emojito.meme) | Send Funny Stickers to React | [[creator]](https://github.com/verbiricha) | 🌐
-|[]() | Customize Npub | ||
+|[Eschanostr](https://github.com/antonioconselheiro/eschanostr) | Customize your Npub | [[source]](https://github.com/antonioconselheiro/eschanostr) | 💻🐧
 ___
 
 ### Like other Services
@@ -234,7 +234,7 @@ ___
 |[Rabbit](https://rabbit.syusui.net) | TweetDeck like | [[info]](https://github.com/syusui-s/rabbit) | 🌐
 |[Zaplinks](zaplinks.lol) | Nostr links || 🌐
 |[Omeglestr](https://antonioconselheiro.github.io/omeglestr/#links) | Omegle-like Random Chats | [[source]](https://github.com/antonioconselheiro/omeglestr) | 🌐
-|[Hivetalk](https://hivetalk.org/) | Omegle-like Random Video Chats | [[source]] (https://github.com/HiveTalk) |
+|[Hivetalk](https://hivetalk.org/) | Omegle-like Random Video Chats | [[source]](https://github.com/HiveTalk) |
 ___
 
 ### General Uses
@@ -244,7 +244,7 @@ ___
 |[Filestr](https://filestr.vercel.app) | HTML midia gateway | [[source]](https://github.com/verbiricha/filestr) | 🌐
 |[W3](w3.do) | Nostr URL shortener | [[source]](https://github.com/jinglescode/nostr-url-shortener) | 🌐
 |[Playground](https://playground.nostr.com) | Test Nostr filters | [[source]](https://github.com/sepehr-safari/nostr-playground) | 🌐
-|[Spring](https://spring.site) | Browser || 🌐 
+|[Spring](https://spring.site) | Browser |  | 🌐 
 ___
 
 ### Places
