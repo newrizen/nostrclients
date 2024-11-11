@@ -38,11 +38,10 @@ ___
 |---|---|---|---|
 |[noStrudel](https://nostrudel.ninja) | Gamified Experience [[info]](https://github.com/hzrd149/nostrudel) | 🌐
 |[Nostr Kiwi](https://nostr.kiwi) || [[creator]](https://github.com/jinglescode) | 🌐
-|[Satellite](https://satellite.earth) | [[info]](https://github.com/lovvtide/satellite-web) | 🌐
+|[Satellite](https://satellite.earth) || [[info]](https://github.com/lovvtide/satellite-web) | 🌐
 |[Soapbox](https://soapbox.pub/) | Comunnity server [[info]](https://soapbox.pub/about/) | [[source]](https://github.com/soapbox-pub/soapbox) 🌐
-|[Ditto](https://ditto.pub/) | Soapbox comunnity server | [[source]](https://gitlab.com/soapbox-pub/ditto) 🌐
-|[Cobrafuma](cobrafuma.com) | Nostr brazilian community on Ditto | [[info]](https://soapbox.pub/servers/)
- 🌐
+|[Ditto](https://ditto.pub/) | Soapbox comunnity server | [[source]](https://gitlab.com/soapbox-pub/ditto) | 🌐
+|[Cobrafuma](cobrafuma.com) | Nostr brazilian community on Ditto | [[info]](https://soapbox.pub/servers/) | 🌐
 |[Zapddit](https://zapddit.com) | Reddit like | [[source]](https://github.com/vivganes/zapddit) | 🌐
 |[Voyage](https://github.com/dluvian/voyage) | (Reddit like) [on development] || 🤖
 ---
