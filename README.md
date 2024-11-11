@@ -8,7 +8,7 @@
 
 Legend
 
-🌐 Web | 🤖 Android | 🍎 iPhone | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍎 IOS
+🌐 Web | 🤖 Android | 🍎 iPhone | 📱 Mobile | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍏 IOS
 ___
 
 ## CLIENTS
