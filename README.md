@@ -322,6 +322,7 @@ ___
 |---|---|---|---|
 |[Secret Border](https://github.com/guilhermegps/secret-border) | Generate offline keys | | 💻(java)
 |[Umbrel](https://umbrel.com) | Your private relay | [[source]](https://github.com/getumbrel) | 🌐
+|[Private QRcode](https://antonioconselheiro.github.io/private-qrcode) | Read and Generate encrypted QR code| [[source]](https://github.com/antonioconselheiro/private-qrcode) | 🌐
 ___
 
 ### Extensions
