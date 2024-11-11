@@ -16,15 +16,15 @@ ___
 |[Nostrmo](https://web.nostrmo.com)||[[source]](https://github.com/haorendashu/nostrmo)|🌐🤖🍎💻(🐧🪟🍎)
 |[Coracle](https://coracle.social)|Super App|[[source]](https://github.com/coracle-social/coracle)|🌐
 |[Amethyst](https://amethyst.social)|Super App with note edit, delete and other stuff with Tor|[[source]](https://github.com/vitorpamplona/amethyst)|🤖
-|[Primal](https://primal.net)| - Social and wallet |[[source]](https://github.com/PrimalHQ) |🌐🤖🍎
-|[Iris](https://iris.to) |- |[[source]](https://github.com/irislib) |🌐🤖🍎
+|[Primal](https://primal.net)| Social and wallet |[[source]](https://github.com/PrimalHQ) |🌐🤖🍎
+|[Iris](https://iris.to) |-|[[source]](https://github.com/irislib) |🌐🤖🍎
 |[Current](https://app.getcurrent.io)| - |[[source]](https://github.com/starbackr-com/current)| 🤖🍎
-|[FreeFrom](https://freefrom.space)||| 🤖🍎 
-|[Openvibe](https://openvibe.social)| - Nostr and others (new Plebstr) |[[source]](https://github.com/Tweetoshi)| 🤖🍎
-|[Snort](https://snort.social)| 🌐(🤖[early access]) |[[source]](https://git.v0l.io/Kieran/snort)|
-|[Damus](https://damus.io) |🍎 |[[source]](https://github.com/damus-io/damus)|
-|[Nos](https://nos.social)| 🍎 |[[source]](https://github.com/planetary-social/nos)|
-|[Nostur](https://nostur.com)| 🍎 |[[source]](https://github.com/nostur-com/nostur-ios-public)|
+|[FreeFrom](https://freefrom.space)|-|-| 🤖🍎 
+|[Openvibe](https://openvibe.social)|Nostr and others (new Plebstr)|[[source]](https://github.com/Tweetoshi)| 🤖🍎
+|[Snort](https://snort.social)||[[source]](https://git.v0l.io/Kieran/snort)|🌐(🤖[early access]) 
+|[Damus](https://damus.io) ||[[source]](https://github.com/damus-io/damus)|🍎 
+|[Nos](https://nos.social)||[[source]](https://github.com/planetary-social/nos)|🍎
+|[Nostur](https://nostur.com)||[[source]](https://github.com/nostur-com/nostur-ios-public)|🍎
 |[NostrBand](https://nostr.band)|[[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)|🌐 
 |[Yana](https://yana.do)|[[source]](https://github.com/frnandu/yana)|🤖🍎🌐💻(🐧) 
 |[Nostribe](https://nostribe.com)|[on development]|[[source]](https://github.com/sepehr-safari/nostribe-web-client)|🌐
