@@ -207,7 +207,7 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[source]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
-|[Animal Sunset](https://animalsunset.com) | | Gererate videos by Lightning | [source](https://github.com/satoshipuzzles/luma-ai-app) | 🌐
+|[Animal Sunset](https://animalsunset.com) | Gererate videos by Lightning | [source](https://github.com/satoshipuzzles/luma-ai-app) | 🌐
 |[Ai Rand](https://github.com/pubky/ai-rand) | Generate text with Pubky by Lightning | [source](https://github.com/pubky/ai-rand) |
 ___
 
@@ -251,14 +251,14 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Wherostr](https://wherostr.social) | Travel and show where you are ||
-|[Arc Map (Mapstr)](https://mapstr.xyz) - Bitcoin Map | [[info]](https://geyser.fund/project/arcmap) |
+|[Arc Map (Mapstr)](https://mapstr.xyz) | Bitcoin Map | [[info]](https://geyser.fund/project/arcmap) |
 ___
 
 ### Driver and Delivery
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-|[RoadRunner](https://github.com/42Pupusas/RoadRunner) | Uber like [on development] | ⏱️
-|[Arcade City](https://arcade.city) | Uber like [on development] | ⏱️ [[info]](https://github.com/ArcadeCity) | ⏱️
+|[RoadRunner](https://github.com/42Pupusas/RoadRunner) | Uber like [on development] || ⏱️
+|[Arcade City](https://arcade.city) | Uber like [on development] | [[info]](https://github.com/ArcadeCity) | ⏱️
 |[Nostrlivery](https://github.com/ODevLibertario/nostrlivery) | iFood like [on development] || ⏱️
 ___
 
@@ -293,7 +293,7 @@ Nip-96:
 |[Nostr Media](https://nostrmedia.com) | Blossom server wuth Max 25mb images and 100mb videos | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
 |||| 
 |[Nostr Build](https://nostr.build) | Max 25mb | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
-|[Nostr Check](https://nostrcheck.me) | [[info]](https://nostrcheck.me/about/) [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
+|[Nostr Check](https://nostrcheck.me) | | [[info]](https://nostrcheck.me/about/) [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
 |[NostPic](https://nostpic.com) | | [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
 |[Sovbit](https://files.sovbit.com) || | 🌐
 |[Voidcat](https://void.cat) | | [[source]](https://git.v0l.io/Kieran/void.cat/) | 🌐
@@ -356,9 +356,9 @@ ___
 |---|---|---|---|
 |[Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) | Between Matrix & Nostr ||
 |[Mostr](https://gitlab.com/soapbox-pub/mostr) | Between Nostr & Fediverse ||
-| [Nostrss](https://github.com/Asone/nostrss) | RSS to Nostr ||
-| [Rsslay](https://rss.nos.social/) | Optimized RSS to Nostr | [[source]](https://github.com/piraces/rsslay)| 🌐
-| [Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr | [[source]](https://git.sr.ht/~psic4t/atomstr) | 🌐
+|[Nostrss](https://github.com/Asone/nostrss) | RSS to Nostr ||
+|[Rsslay](https://rss.nos.social/) | Optimized RSS to Nostr | [[source]](https://github.com/piraces/rsslay)| 🌐
+|[Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr | [[source]](https://git.sr.ht/~psic4t/atomstr) | 🌐
 ___
 
 ## NOT RELATED TO NOSTR
