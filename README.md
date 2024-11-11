@@ -1,31 +1,5 @@
-# Nostr Clients
-
-## Viewing
-
-View the deployed webpage [here](https://nostorg.github.io/clients/) or via the link in the sidebar.
-
-## Contributing
-
-Where to make changes:
-
-- [landing page](index.md)
-- [feature columns](_data/features.yml)
-- [client row order](_data/order.yml)
-- [client info & features](_data/clients/)
-
-Serve locally for testing:
-
-```bash
-brew install asdf
-asdf plugin add ruby
-asdf install # install ruby from .tool-versions
-asdf exec bundle install # install from gemfile
-asdf exec jekyll serve
-```
-
-## NOstr Clients and Other Stuff
-
 # Nostr Clients and Other Stuff
+
 #list #descentralismo
 
 *These clients are generally applications on the Nostr network that allow you to use the same account, regardless of the app used, keeping your messages and profile intact.
@@ -358,3 +332,26 @@ ___
 Some other Nostr index on:
 
 [Nostr Apps](https://nostrapps.com) | [Nostorg](https://github.com/nostorg/clients) | [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
+
+## Viewing (outdated)
+
+View the deployed webpage [here](https://nostorg.github.io/clients/) or via the link in the sidebar.
+
+## Contributing (outdated)
+
+Where to make changes:
+
+- [landing page](index.md)
+- [feature columns](_data/features.yml)
+- [client row order](_data/order.yml)
+- [client info & features](_data/clients/)
+
+Serve locally for testing:
+
+```bash
+brew install asdf
+asdf plugin add ruby
+asdf install # install ruby from .tool-versions
+asdf exec bundle install # install from gemfile
+asdf exec jekyll serve
+```
