@@ -34,52 +34,64 @@ ___
 ---
 
 ### Communities
-- [noStrudel](https://nostrudel.ninja) - Gamified Experience [[info]](https://github.com/hzrd149/nostrudel) 🌐
-- [Nostr Kiwi](https://nostr.kiwi) [[creator]](https://github.com/jinglescode) 🌐
-- [Satellite](https://satellite.earth) [[info]](https://github.com/lovvtide/satellite-web) 🌐
-- [Soapbox](https://soapbox.pub/) - Comunnity server [[info]](https://soapbox.pub/about/) [[source]](https://github.com/soapbox-pub/soapbox) 🌐
-- [Ditto](https://ditto.pub/) - Soapbox comunnity server 🌐 [[source]](https://gitlab.com/soapbox-pub/ditto) 🌐
-- [Cobrafuma](cobrafuma.com) - Nostr brazilian community on Ditto [[info]](https://soapbox.pub/servers/)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[noStrudel](https://nostrudel.ninja) | Gamified Experience [[info]](https://github.com/hzrd149/nostrudel) | 🌐
+|[Nostr Kiwi](https://nostr.kiwi) || [[creator]](https://github.com/jinglescode) | 🌐
+|[Satellite](https://satellite.earth) | [[info]](https://github.com/lovvtide/satellite-web) | 🌐
+|[Soapbox](https://soapbox.pub/) | Comunnity server [[info]](https://soapbox.pub/about/) | [[source]](https://github.com/soapbox-pub/soapbox) 🌐
+|[Ditto](https://ditto.pub/) | Soapbox comunnity server | [[source]](https://gitlab.com/soapbox-pub/ditto) 🌐
+|[Cobrafuma](cobrafuma.com) | Nostr brazilian community on Ditto | [[info]](https://soapbox.pub/servers/)
  🌐
-- [Zapddit](https://zapddit.com) - Reddit like [[source]](https://github.com/vivganes/zapddit) 🌐
-- [Voyage](https://github.com/dluvian/voyage) (Reddit like) [on development] 🤖
+|[Zapddit](https://zapddit.com) | Reddit like | [[source]](https://github.com/vivganes/zapddit) | 🌐
+|[Voyage](https://github.com/dluvian/voyage) | (Reddit like) [on development] || 🤖
 ---
 
 ### Wiki
-- [Wikifreedia](https://wikifreedia.xyz/) [[source]](https://github.com/fiatjaf/wikifreedia) 🌐
-- [Wikinostr](wikinostr.tijl.xyz) [[source]](https://github.com/github-tijlxyz/wikinostr) 🌐
-- [Wikistr](https://wikistr.com/) [[info]](https://nostrapps.com/wikistr) [[source]](https://github.com/fiatjaf/wikistr) 🌐
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Wikifreedia](https://wikifreedia.xyz/)||[[source]](https://github.com/fiatjaf/wikifreedia)|🌐
+|[Wikinostr](wikinostr.tijl.xyz)||[[source]](https://github.com/github-tijlxyz/wikinostr)|🌐
+|[Wikistr](https://wikistr.com/)||[[info]](https://nostrapps.com/wikistr) [[source]](https://github.com/fiatjaf/wikistr)|🌐
 ___
 
 ### Search
-
-- [Advanced nostr search](https://advancednostrsearch.vercel.app) - Advanced note search by isolated terms related to a npub profile [[source]](https://github.com/SamSamskies/advancednostrsearch) 🌐 
-- [Nos Today](https://nos.today) - Global note search by isolated terms [[info]](https://nos.today/about) [[source]](https://github.com/darashi/searchnos) 🌐
-- [Nostr Search Engine](https://find.nosbook.org/) - API for Nostr clients [[source]](https://github.com/misesdev/nostr-search-api)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Advanced nostr search](https://advancednostrsearch.vercel.app) | Advanced note search by isolated terms related to a npub profile | [[source]](https://github.com/SamSamskies/advancednostrsearch) | 🌐 
+|[Nos Today](https://nos.today) | Global note search by isolated terms [[info]](https://nos.today/about) [[source]](https://github.com/darashi/searchnos) | 🌐
+|[Nostr Search Engine](https://find.nosbook.org/) | API for Nostr clients | [[source]](https://github.com/misesdev/nostr-search-api) |
 ---
 
 ### Website
-
-- [Npub pro](npub.pro) - Your site on Nostr [[source]](https://github.com/nostrband/nostrsite/)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Npub pro](npub.pro) | Your site on Nostr | [[source]](https://github.com/nostrband/nostrsite/) |  🌐
 ___
 
 ### App Store
 
-- [ZapStore](https://zap.store) - Permitionless App Store [[source]](https://github.com/zapstore)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[ZapStore](https://zap.store) | Permitionless App Store | [[source]](https://github.com/zapstore) | 🤖
 
 ___
 
 ### Audio and Video Transmission
 
-- [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐 [[info]](https://github.com/nostrnests/nests)
-- [Fountain](https://fountain.fm) - Podcast 🤖🍎 [[info]](https://github.com/fountain-fm)
-- [ZapStream](https://zap.stream) - Live streaming 🌐 [[info]](https://github.com/v0l/zap.stream)
-- [Corny Chat](https://cornychat.com) - Audio Chat 🌐 [[info]](https://github.com/vicariousdrama/cornychat)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Nostr Nests](https://nostrnests.com) | Audio Chats | [[info]](https://github.com/nostrnests/nests) | 🌐 
+|[Fountain](https://fountain.fm) | Podcast | [[info]](https://github.com/fountain-fm) | 🤖🍎 
+|[ZapStream](https://zap.stream) | Live streaming | [[info]](https://github.com/v0l/zap.stream) | 🌐 
+|[Corny Chat](https://cornychat.com) | Audio Chat | [[info]](https://github.com/vicariousdrama/cornychat) | 🌐 
 ___
 
 ### Video Streaming
 
-- [Flare](https://flare.pub) - Youtube like 🌐 [[source]](https://github.com/zmeyer44/flare)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Flare](https://flare.pub) | Youtube like | [[source]](https://github.com/zmeyer44/flare) | 🌐 
 ___
 
 ### Music
