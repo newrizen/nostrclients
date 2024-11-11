@@ -133,11 +133,12 @@ ___
 ___
 
 ### Forum
-
-- [OddBean](https://oddbean.com) - Hacker News like [[info]](https://oddbean.com/about) [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web)  🌐
-- [LowEnt](https://lowent.xyz) - Forum [[info]](https://github.com/gzuuus/lowent) 🌐
-- [Swarmstr](https://swarmstr.com/) - Q&A / FAQ [[info]](https://github.com/ptrio42/swarmstr.com) 🌐
-- [Staker News](https://stacker.news/) - Hacker News like 🌐 [[info]](https://github.com/stackernews/stacker.news)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[OddBean](https://oddbean.com) | Hacker News like | [[info]](https://oddbean.com/about) | [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web) | 🌐
+|[LowEnt](https://lowent.xyz) | Forum | [[info]](https://github.com/gzuuus/lowent) | 🌐
+|[Swarmstr](https://swarmstr.com/) | Q&A / FAQ | [[info]](https://github.com/ptrio42/swarmstr.com) | 🌐
+|[Staker News](https://stacker.news/) | Hacker News like | [[info]](https://github.com/stackernews/stacker.news) | 🌐 
 ---
 
 ### Direct Messenges (DM)
@@ -297,57 +298,69 @@ ___
 ___
 
 ### Code
-- [Nostrify](https://nostrify.dev) - Share Nostr Frameworks 🌐
-- [Git Workshop](https://gitworkshop.dev) (github like) [experimental] 🌐
-- [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
-- [Osty](https://osty.dev) [on development] [[info]](https://github.com/ostyjs/create-osty) 🌐
-- [Python Nostr](https://github.com/jeffthibault/python-nostr) - Python Library for Nostr
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Nostrify](https://nostrify.dev) | Share Nostr Frameworks || 🌐
+|[Git Workshop](https://gitworkshop.dev) | (github like) [experimental] || 🌐
+|[Gitstr](https://github.com/fiatjaf/gitstr) | (github like) [on development] || ⏱️
+|[Osty](https://osty.dev) | [on development] | [[info]](https://github.com/ostyjs/create-osty) | 🌐
+|[Python Nostr](https://github.com/jeffthibault/python-nostr) | Python Library for Nostr | |
 ___
 
-### Relay Check and Cloud
-- [Nostr Watch](https://nostr.watch) - See your relay speed 🌐
-- [NosDrive](https://nosdrive.app) - Nostr Relay that saves to Google Drive
+### Relay Check and Backup
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Nostr Watch](https://nostr.watch) | See your relay speed || 🌐
+|[NosDrive](https://nosdrive.app) | Nostr Relay that saves to Google Drive ||
 ___
 
 ### Bidges and Getways
-
-- [Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) - Between Matrix & Nostr 
-- [Mostr](https://gitlab.com/soapbox-pub/mostr) - Between Nostr & Fediverse 
-- [Nostrss](https://github.com/Asone/nostrss) - RSS to Nostr
-- [Rsslay](https://rss.nos.social/) - Optimized RSS to Nostr [[source]](https://github.com/piraces/rsslay)
-- [Atomstr](https://atomstr.data.haus/) - RSS/Atom to Nostr [[source]](https://git.sr.ht/~psic4t/atomstr)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) | Between Matrix & Nostr ||
+|[Mostr](https://gitlab.com/soapbox-pub/mostr) | Between Nostr & Fediverse ||
+| [Nostrss](https://github.com/Asone/nostrss) | RSS to Nostr ||
+| [Rsslay](https://rss.nos.social/) | Optimized RSS to Nostr [[source]](https://github.com/piraces/rsslay)|
+| [Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr [[source]](https://git.sr.ht/~psic4t/atomstr) |
 ___
 
 ## NOT RELATED TO NOSTR
 ___
 
 ### Android Keyboards
-- [Futo](https://keyboard.futo.org/) - Gboard like [[source]](https://github.com/futo-org/android-keyboard/releases)
-- [Florisboard](https://florisboard.org) - [[source]](https://github.com/florisboard/florisboard)
-- [Heliboard](https://github.com/Helium314/HeliBoard) - Openboard based [[source]](https://github.com/Helium314/HeliBoard)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+| [Futo](https://keyboard.futo.org/) | Gboard like | [[source]](https://github.com/futo-org/android-keyboard/releases)|
+| [Florisboard](https://florisboard.org) | | [[source]](https://github.com/florisboard/florisboard) |
+| [Heliboard](https://github.com/Helium314/HeliBoard) | Openboard based | [[source]](https://github.com/Helium314/HeliBoard) |
 ___
 
 ### Personal notes and texts
-
-- [Joplin](https://joplinapp.org/) - privacy-focused note taking app with sync capabilities [[source]](https://github.com/laurent22/joplin) 📱(🤖🍎) - 💻 (🐧🪟🍎)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
 ___
 
 ### Front-ends
-- [Nitter](https://nitter.poast.org/) - Twitter / X without your data [[source]](https://github.com/zedeus/nitter)
-- [NewPipe](https://newpipe.net/) - Youtube, Peertube and others, without account & your data [[source]](https://github.com/TeamNewPipe/NewPipe) 🤖
-- [Tubular](https://github.com/polymorphicshade/Tubular) - A NewPipe fork + SponsorBlock + ReturnYoutubeDislike [[source]](https://github.com/polymorphicshade/Tubular)
-- [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) - A NewPipe fork + SponsorBlock + BitChute + Rumble [[source]](https://github.com/bravenewpipe/NewPipe)
-- [FreeTube](https://freetubeapp.io/) - Youtube frontend for desktop [source](https://github.com/FreeTubeApp/FreeTube)
-- [FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) - Youtube frontend for desktop [source](https://github.com/MarmadileManteater/FreeTubeAndroid)
-- [Piped](https://piped.video) - Youtube web without you data [[source]](https://github.com/TeamPiped/Piped) 🌐
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Nitter](https://nitter.poast.org/) | Twitter / X without your data | [[source]](https://github.com/zedeus/nitter) |
+|[NewPipe](https://newpipe.net/) | Youtube, Peertube and others, without account & your data | [[source]](https://github.com/TeamNewPipe/NewPipe) | 🤖
+|[Tubular](https://github.com/polymorphicshade/Tubular) | A NewPipe fork + SponsorBlock + ReturnYoutubeDislike | [[source]](https://github.com/polymorphicshade/Tubular) |
+|[BraveNewPipe](https://github.com/bravenewpipe/NewPipe) | A NewPipe fork + SponsorBlock + BitChute + Rumble | [[source]](https://github.com/bravenewpipe/NewPipe) |
+|[FreeTube](https://freetubeapp.io/) | Youtube frontend for desktop [source](https://github.com/FreeTubeApp/FreeTube)
+|[FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) | Youtube frontend for desktop | [source](https://github.com/MarmadileManteater/FreeTubeAndroid) |
+|[Piped](https://piped.video) | Youtube web without you data | [[source]](https://github.com/TeamPiped/Piped) | 🌐
 ___
 
 ### Other Services
-- [Brave](https://brave.com) - Browser [[source]](https://github.com/brave/brave-browser)
-- [DuckDuckGo](https://duckduckgo.com) - Search [[source]](https://github.com/deedy5/duckduckgo_search)
-- [LLMA - Meta](https://github.com/meta-llama) - Meta open source AI [[source]](https://github.com/meta-llama)
-- [DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/) - Famous AIs without Login [[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md)
-- [Proton Mail](https://proton.me/mail) - Mail [[source]](https://github.com/ProtonMail)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Brave](https://brave.com) | Browser | [[source]](https://github.com/brave/brave-browser) |
+| [DuckDuckGo](https://duckduckgo.com) | Search | [[source]](https://github.com/deedy5/duckduckgo_search) |
+| [LLMA - Meta](https://github.com/meta-llama) | Meta open source AI | [[source]](https://github.com/meta-llama) |
+| [DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/) | Famous AIs without Login | [[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md) |
+| [Proton Mail](https://proton.me/mail) | Mail | [[source]](https://github.com/ProtonMail) |
 
 Other open source index:
 [Degoogled Apps](https://tycrek.github.io/degoogle/)
