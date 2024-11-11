@@ -144,69 +144,71 @@ ___
 ### Direct Messenges (DM)
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [0xchat](https://0xchat.com) 🤖🍎 [[source]](https://github.com/0xchat-app)
-- [Nostr Chat](https://nostrchat.io) 🌐🍎 [[source]](https://github.com/NostrChat/NostrChat)
-- [Blowater](https://blowater.deno.dev) 🌐 [[source]](https://github.com/BlowaterNostr/blowater)
-- [Anigma](https://anigma.io) (new nostrgram) - Telegram based [on development] [[source]](https://github.com/brilliancebitcoin/nostrgram)
-- [Keychat](https://keychat.io) - Signal based [🤖🍎 on development] [[source]](https://github.com/rohanharikr/keychat.online)
+|[0xchat](https://0xchat.com) || [[source]](https://github.com/0xchat-app) | 🤖🍎 
+|[Nostr Chat](https://nostrchat.io) || [[source]](https://github.com/NostrChat/NostrChat) | 🌐🍎 
+| [Blowater](https://blowater.deno.dev) || [[source]](https://github.com/BlowaterNostr/blowater) | 🌐 
+| [Anigma](https://anigma.io) | (new nostrgram) - Telegram based [on development] | [[source]](https://github.com/brilliancebitcoin/nostrgram) |
+| [Keychat](https://keychat.io) | Signal based | [[source]](https://github.com/rohanharikr/keychat.online) | [🤖🍎 on development]
 ___
 
 ### Reading
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Highlighter](https://highlighter.com) - Insights with a highlighted read 🌐 [[info]](https://github.com/pablof7z/highlighter)
-- [Zephyr](https://zephyr.coracle.social) - Calming to Read 🌐 [[info]](https://github.com/coracle-social/zephyr)
-- [Flycat](https://flycat.club) - Clean and Healthy Feed 🌐 [[info]](https://github.com/digi-monkey/flycat-web)
-- [Nosta](https://nosta.me) - Check Profiles [on development] 🌐 [[info]](https://github.com/GBKS/nosta-me)
-- [Alexandria](https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c) - e-Reader and Nostr Knowledge Base (NKB) [[source]](https://github.com/ShadowySupercode/gc-alexandria)
+| [Highlighter](https://highlighter.com) | Insights with a highlighted read | [[info]](https://github.com/pablof7z/highlighter) | 🌐
+| [Zephyr](https://zephyr.coracle.social) | Calming to Read | [[info]](https://github.com/coracle-social/zephyr) | 🌐
+| [Flycat](https://flycat.club) | Clean and Healthy Feed | [[info]](https://github.com/digi-monkey/flycat-web) | 🌐
+| [Nosta](https://nosta.me) | Check Profiles [on development] | [[info]](https://github.com/GBKS/nosta-me) | 🌐
+| [Alexandria](https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c) | e-Reader and Nostr Knowledge Base (NKB) | [[source]](https://github.com/ShadowySupercode/gc-alexandria) |
 ---
 
 ### Writing
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Habla](https://habla.news) - Blog [[info]](https://github.com/verbiricha/habla.news) 🌐
-- [Blogstack](https://blogstack.io) - Blog [[info]](https://github.com/nodetec/blogstack)🌐
-- [YakiHonne](https://yakihonne.com) - Articles and News [[info]](https://github.com/YakiHonne) 🤖🍎🌐
+|[Habla](https://habla.news) | Blog | [[info]](https://github.com/verbiricha/habla.news) | 🌐
+|[Blogstack](https://blogstack.io) | Blog | [[info]](https://github.com/nodetec/blogstack) | 🌐
+|[YakiHonne](https://yakihonne.com) | Articles and News | [[info]](https://github.com/YakiHonne) | 🤖🍎🌐
 ___
 
 ### Lists
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Listr](https://listr.lol) - Lists [[source]](https://github.com/erskingardner/listr) 🌐
-- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Movies List [source](https://github.com/jrc-dev/nostr-potatoes) 💻(numpy)
+|[Listr](https://listr.lol) | Lists | [[source]](https://github.com/erskingardner/listr) | 🌐
+|[Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) | Movies List | [source](https://github.com/jrc-dev/nostr-potatoes) | 💻(numpy)
 ___
 
 ### Market and Jobs
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Shopstr](https://shopstr.store) - Buy and Sell [[source]](https://github.com/shopstr-eng/shopstr) 🌐
-- [Nostr Market](https://market.nostr.com) - Buy and Sell 🌐 
-- [Plebeian Market](https://plebeian.market) - Buy and Sell [[source]](https://github.com/PlebeianTech/plebeian-market) 🌐
-- [Ostrich Work](https://ostrich.work) - Jobs [[source]](https://github.com/erskingardner/ostrich.work) 🌐
-- [Nostrocket](https://nostrocket.org) - Jobs [[source]](https://github.com/nostrocket) 🌐
+| [Shopstr](https://shopstr.store) | Buy and Sell | [[source]](https://github.com/shopstr-eng/shopstr) | 🌐
+| [Nostr Market](https://market.nostr.com) | Buy and Sell || 🌐 
+|[Plebeian Market](https://plebeian.market) | Buy and Sell | [[source]](https://github.com/PlebeianTech/plebeian-market) | 🌐
+|[Ostrich Work](https://ostrich.work) | Jobs | [[source]](https://github.com/erskingardner/ostrich.work) | 🌐
+|[Nostrocket](https://nostrocket.org) | Jobs | [[source]](https://github.com/nostrocket) | 🌐
 ___
 
 ### Health
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [NosFabrica](https://nosfabrica.com/) -  [[source]]()
-- [LazerEyes](https://lazereyes.nosfabrica.com/) - Eye prescription by DM [[source]](https://github.com/vitorpamplona/lazereyes)
+|[NosFabrica](https://nosfabrica.com/) || [[source]]() |
+|[LazerEyes](https://lazereyes.nosfabrica.com/) | Eye prescription by DM | [[source]](https://github.com/vitorpamplona/lazereyes) |
 ---
 
 ### Data Vending Machines - DVM (NIP90)
 (Data-processing tools)
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Noogle](https://noogle.lol) - [[source]](https://github.com/believethehype/nostrdvm/tree/main/ui/noogle) 🌐 
-- [Vendata](https://vendata.io) - [[source]](https://github.com/pablof7z/vendata.io) 🌐
-- [TaskTiger](https://tasktiger.io) 🌐 
-- [Malware DVMs](https://malware.dvms.app) 🌐
+|[Noogle](https://noogle.lol) || [[source]](https://github.com/believethehype/nostrdvm/tree/main/ui/noogle) | 🌐 
+|[Vendata](https://vendata.io) || [[source]](https://github.com/pablof7z/vendata.io) | 🌐
+|[TaskTiger](https://tasktiger.io) ||| 🌐 
+|[Malware DVMs](https://malware.dvms.app) ||| 🌐
 ___
 
 ### AI
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[souce]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
+|[Animal Sunset](https://animalsunset.com) | | | 🌐
+| | | |
 ___
 
 ### Games
