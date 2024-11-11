@@ -1,6 +1,5 @@
 # Nostr Clients and Other Stuff
 
-#list #descentralismo
 
 *These clients are generally applications on the Nostr network that allow you to use the same account, regardless of the app used, keeping your messages and profile intact.
 
