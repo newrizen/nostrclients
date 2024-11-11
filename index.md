@@ -13,7 +13,7 @@ Contribute on github: <{{ site.github.repository_url }}>
 
 ## Legend
 
-🌐 Web  🤖 Android  🍎 iPhone  📱 Mobile  💻 Desktop  🐧 Linux  🪟 Windows  🍏 IOS  ⏱️ Unfinished
+🌐 Web - 🤖 Android - 🍎 iPhone - 📱 Mobile - 💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 IOS - ⏱️ Unfinished
 
 ___
 <body>
@@ -56,20 +56,88 @@ ___
             <td><a href="https://github.com/irislib">source</a></td>
             <td>🌐🤖🍎</td>
         </tr>
-        <!-- Continue the table rows for each service as above -->
+        <tr>
+            <td><a href="https://app.getcurrent.io">Current</a></td>
+            <td>-</td>
+            <td><a href="https://github.com/starbackr-com/current">source</a></td>
+            <td>🤖🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://freefrom.space">FreeFrom</a></td>
+            <td>-</td>
+            <td>-</td>
+            <td>🤖🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://openvibe.social">Openvibe</a></td>
+            <td>Nostr and others (new Plebstr)</td>
+            <td><a href="https://github.com/Tweetoshi">source</a></td>
+            <td>🤖🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://snort.social">Snort</a></td>
+            <td></td>
+            <td><a href="https://git.v0l.io/Kieran/snort">source</a></td>
+            <td>🌐(🤖 early access)</td>
+        </tr>
+        <tr>
+            <td><a href="https://damus.io">Damus</a></td>
+            <td></td>
+            <td><a href="https://github.com/damus-io/damus">source</a></td>
+            <td>🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://nos.social">Nos</a></td>
+            <td></td>
+            <td><a href="https://github.com/planetary-social/nos">source</a></td>
+            <td>🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://nostur.com">Nostur</a></td>
+            <td></td>
+            <td><a href="https://github.com/nostur-com/nostur-ios-public">source</a></td>
+            <td>🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://nostr.band">NostrBand</a></td>
+            <td></td>
+            <td><a href="https://nostr.band/about.html">info</a> <a href="https://github.com/nostrband">source</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://yana.do">Yana</a></td>
+            <td></td>
+            <td><a href="https://github.com/frnandu/yana">source</a></td>
+            <td>🤖🍎🌐💻(🐧)</td>
+        </tr>
+        <tr>
+            <td><a href="https://nostribe.com">Nostribe</a></td>
+            <td>on development</td>
+            <td><a href="https://github.com/sepehr-safari/nostribe-web-client">source</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://lume.nu">Lume</a></td>
+            <td></td>
+            <td><a href="https://github.com/lumehq/lume">info</a> <a href="https://github.com/lumehq/lume">source</a></td>
+            <td>💻(🐧🪟🍎)</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/mikedilger/gossip">Gossip</a></td>
+            <td></td>
+            <td><a href="https://github.com/mikedilger/gossip">source</a></td>
+            <td>💻(🐧🪟🍎)</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/leo-lox/camelus">Camelus</a></td>
+            <td>early access</td>
+            <td><a href="https://github.com/leo-lox/camelus">source</a></td>
+            <td>🤖</td>
+        </tr>
     </table>
 </body>
 
-___
-### Twitter like
 
-|Service|Description|Links|Plataforms|
-|---|---|---|---|
-|[Nostrmo](https://web.nostrmo.com)||[[source]](https://github.com/haorendashu/nostrmo)|🌐🤖🍎💻(🐧🪟🍎)
-|[Coracle](https://coracle.social)|Super App|[[source]](https://github.com/coracle-social/coracle)|🌐
-|[Amethyst](https://amethyst.social)|Super App with note edit, delete and other stuff with Tor|[[source]](https://github.com/vitorpamplona/amethyst)|🤖
-|[Primal](https://primal.net)| Social and wallet |[[source]](https://github.com/PrimalHQ) |🌐🤖🍎
-|[Iris](https://iris.to) |-|[[source]](https://github.com/irislib) |🌐🤖🍎
 |[Current](https://app.getcurrent.io)| - |[[source]](https://github.com/starbackr-com/current)| 🤖🍎
 |[FreeFrom](https://freefrom.space)|-|-| 🤖🍎 
 |[Openvibe](https://openvibe.social)|Nostr and others (new Plebstr)|[[source]](https://github.com/Tweetoshi)| 🤖🍎
