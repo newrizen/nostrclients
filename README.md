@@ -120,7 +120,7 @@ ___
 ### Download and Upload
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-|[DTAN](https://dtan.xyz) | Distributed Torrent Archive on Nostr | [[info]](https://www.nobsbitcoin.com/dtan-xyz-nostr-torrent-archive/) | [[source]](https://git.v0l.io/Kieran/dtan) | 🌐
+|[DTAN](https://dtan.xyz) | Distributed Torrent Archive on Nostr | [[info]](https://www.nobsbitcoin.com/dtan-xyz-nostr-torrent-archive/) [[source]](https://git.v0l.io/Kieran/dtan) | 🌐
 ___
 
 ### Documents
@@ -135,7 +135,7 @@ ___
 ### Forum
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-|[OddBean](https://oddbean.com) | Hacker News like | [[info]](https://oddbean.com/about) | [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web) | 🌐
+|[OddBean](https://oddbean.com) | Hacker News like | [[info]](https://oddbean.com/about) [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web) | 🌐
 |[LowEnt](https://lowent.xyz) | Forum | [[info]](https://github.com/gzuuus/lowent) | 🌐
 |[Swarmstr](https://swarmstr.com/) | Q&A / FAQ | [[info]](https://github.com/ptrio42/swarmstr.com) | 🌐
 |[Staker News](https://stacker.news/) | Hacker News like | [[info]](https://github.com/stackernews/stacker.news) | 🌐 
