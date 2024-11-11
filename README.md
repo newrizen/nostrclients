@@ -39,7 +39,7 @@ ___
 |[noStrudel](https://nostrudel.ninja) | Gamified Experience | [[info]](https://github.com/hzrd149/nostrudel) | 🌐
 |[Nostr Kiwi](https://nostr.kiwi) || [[creator]](https://github.com/jinglescode) | 🌐
 |[Satellite](https://satellite.earth) || [[info]](https://github.com/lovvtide/satellite-web) | 🌐
-|[Soapbox](https://soapbox.pub/) | Comunnity server | [[info]](https://soapbox.pub/about/) [[source]](https://github.com/soapbox-pub/soapbox) 🌐
+|[Soapbox](https://soapbox.pub/) | Comunnity server | [[info]](https://soapbox.pub/about/) [[source]](https://github.com/soapbox-pub/soapbox) | 🌐
 |[Ditto](https://ditto.pub/) | Soapbox comunnity server | [[source]](https://gitlab.com/soapbox-pub/ditto) | 🌐
 |[Cobrafuma](cobrafuma.com) | Nostr brazilian community on Ditto | [[info]](https://soapbox.pub/servers/) | 🌐
 |[Zapddit](https://zapddit.com) | Reddit like | [[source]](https://github.com/vivganes/zapddit) | 🌐
@@ -124,11 +124,12 @@ ___
 ___
 
 ### Documents
-
-- [Docstr](https://docstr.app/) - Share Docs 🌐 [[info]](https://nostrapps.com/docstr) [[source]](https://github.com/sepehr-safari/docstr)
-- [Formstr](https://formstr.app) - Share Forms 🌐 [[info]](https://github.com/abhay-raizada/nostr-forms)
-- [Sheetstr](https://sheetstr.amethyst.social/) - Share Spreadsheets [[source]](https://github.com/vitorpamplona/sheetstr)
-- [Slide Maker](https://zaplinks.lol/slides/) - Share slides [[source]]()
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Docstr](https://docstr.app/) | Share Docs | [[info]](https://nostrapps.com/docstr) [[source]](https://github.com/sepehr-safari/docstr) | 🌐
+|[Formstr](https://formstr.app) | Share Forms | [[info]](https://github.com/abhay-raizada/nostr-forms) | 🌐
+|[Sheetstr](https://sheetstr.amethyst.social/) | Share Spreadsheets | [[source]](https://github.com/vitorpamplona/sheetstr) |
+|[Slide Maker](https://zaplinks.lol/slides/) | Share slides | |
 ___
 
 ### Forum
