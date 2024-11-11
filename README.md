@@ -362,21 +362,21 @@ ___
 ___
 
 ### Fundamentals
-|Service|Description|Links|Plataforms|
-|---|---|---|---|
-|A-2 | Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker) | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf) |
-|Git | Repository Kernel | [[source]](https://git.kernel.org/pub/scm/git/git.git) |
-|Linux | OS Kernel| [[source]](https://github.com/torvalds/linux) |
-|Bitcoin | Decentralized cryptocurrency| [[source]](https://github.com/bitcoin) |
-|Nostr | Censorship-resistent notes | [[source]](https://github.com/nostr-protocol/nostr) |
+|Service|Description|Links
+|---|---|---|
+|A-2 | Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker) | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf)
+|Git | Repository Kernel | [[source]](https://git.kernel.org/pub/scm/git/git.git)
+|Linux | OS Kernel| [[source]](https://github.com/torvalds/linux) 
+|Bitcoin | Decentralized cryptocurrency| [[source]](https://github.com/bitcoin)
+|Nostr | Censorship-resistent notes | [[source]](https://github.com/nostr-protocol/nostr)
 
 
 ### Keyboards
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-| [Futo](https://keyboard.futo.org/) | Gboard like | [[source]](https://github.com/futo-org/android-keyboard/releases)|
-| [Florisboard](https://florisboard.org) | | [[source]](https://github.com/florisboard/florisboard) |
-| [Heliboard](https://github.com/Helium314/HeliBoard) | Openboard based | [[source]](https://github.com/Helium314/HeliBoard) |
+| [Futo](https://keyboard.futo.org/) | Gboard like | [[source]](https://github.com/futo-org/android-keyboard/releases)| 🤖
+| [Florisboard](https://florisboard.org) | | [[source]](https://github.com/florisboard/florisboard) | 🤖
+| [Heliboard](https://github.com/Helium314/HeliBoard) | Openboard based | [[source]](https://github.com/Helium314/HeliBoard) | 🤖
 ___
 
 ### Personal notes and texts
