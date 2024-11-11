@@ -189,7 +189,7 @@ ___
 ### Health
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-|[NosFabrica](https://nosfabrica.com/) || [[source]]() |
+|[NosFabrica](https://nosfabrica.com/) || | 🌐🤖🍎
 |[LazerEyes](https://lazereyes.nosfabrica.com/) | Eye prescription by DM | [[source]](https://github.com/vitorpamplona/lazereyes) |
 ---
 
@@ -310,8 +310,8 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Zapper](https://zap.nostraps.org) | Easy Zaps | [[source]](https://github.com/nostrband/zapper) | 🌐
-|[Autozap](https://zapplepay.com/autozap) | [[source]](https://github.com/benthecarman/zapple-pay-backend) | 🌐
-|[Nostr Zap](https://github.com/SamSamskies/nostr-zap) || 💻(numpy)
+|[Autozap](https://zapplepay.com/autozap) || [[source]](https://github.com/benthecarman/zapple-pay-backend) | 🌐
+|[Nostr Zap](https://github.com/SamSamskies/nostr-zap) ||| 💻(numpy)
 |[Creatr](https://creatr.nostr.wine) | Creators subscription || 🌐
 |[Geyzer](https://geyzer.fund) | Crowdfunding | [[info]](https://geyser.fund/about) [[source]](https://github.com/geyserfund/geyser-app) | 🌐
 |[Heya!](https://heya.fund/) | Crowdfunding | [[source]](https://github.com/verbiricha/goalz) |
@@ -382,10 +382,12 @@ ___
 | [Heliboard](https://github.com/Helium314/HeliBoard) | Openboard based | [[source]](https://github.com/Helium314/HeliBoard) | 🤖
 ___
 
-### Personal notes and texts
+### Personal Documents
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
+|[Open]() | Docs cloud | [[source]]() |
+|[CryptPad](cryptpad.org) | Docs cloud instances | [[source]](http://github.com/cryptpad/cryptpad) | 🌐
 ___
 
 ### Front-ends
