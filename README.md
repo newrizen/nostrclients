@@ -306,29 +306,29 @@ ___
 ### Donation and payments
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Zapper](https://zap.nostraps.org) - Easy Zaps [[source]](https://github.com/nostrband/zapper) 🌐
-- [Autozap](https://zapplepay.com/autozap) [[source]](https://github.com/benthecarman/zapple-pay-backend) 🌐
-- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻(numpy)
-- [Creatr](https://creatr.nostr.wine) - Creators subscription 🌐
-- [Geyzer](https://geyzer.fund) - Crowdfunding [[info]](https://geyser.fund/about) [[source]](https://github.com/geyserfund/geyser-app) 🌐
-- [Heya!](https://heya.fund/) - Crowdfunding [[source]](https://github.com/verbiricha/goalz)
+|[Zapper](https://zap.nostraps.org) | Easy Zaps | [[source]](https://github.com/nostrband/zapper) | 🌐
+|[Autozap](https://zapplepay.com/autozap) | [[source]](https://github.com/benthecarman/zapple-pay-backend) | 🌐
+|[Nostr Zap](https://github.com/SamSamskies/nostr-zap) || 💻(numpy)
+|[Creatr](https://creatr.nostr.wine) | Creators subscription || 🌐
+|[Geyzer](https://geyzer.fund) | Crowdfunding | [[info]](https://geyser.fund/about) [[source]](https://github.com/geyserfund/geyser-app) | 🌐
+|[Heya!](https://heya.fund/) | Crowdfunding | [[source]](https://github.com/verbiricha/goalz) |
 ___
 
 ### Security
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻(java)
-- [Umbrel](https://umbrel.com) - Your private relay [[source]](https://github.com/getumbrel) 🌐
+|[Secret Border](https://github.com/guilhermegps/secret-border) | Generate offline keys | 💻(java)
+|[Umbrel](https://umbrel.com) | Your private relay | [[source]](https://github.com/getumbrel) | 🌐
 ___
 
 ### Extensions
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
-- [Nsec.app](https://nsec.app/) 🌐 [[info]](https://github.com/nostrband/noauth)
-- [Lume](https://lume.nu/) - [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)  🐧🪟🍎
-- [Satcom](https://satcom.app) - Share files to discuss - [[info]](https://github.com/jinglescode/web-content-conversation) 🌐
-- [KeysBand](keys.band) - Multi-key signing [[source]](https://github.com/toastr-space/keys-band) 🌐
+|[Nos2x](https://github.com/fiatjaf/nos2x) || Account access keys | 🌐
+|[Nsec.app](https://nsec.app/) || [[info]](https://github.com/nostrband/noauth) | 🌐
+|[Lume](https://lume.nu/) || [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume) |  🐧🪟🍎
+|[Satcom](https://satcom.app) | Share files to discuss | [[info]](https://github.com/jinglescode/web-content-conversation) | 🌐
+|[KeysBand](keys.band) | Multi-key signing | [[source]](https://github.com/toastr-space/keys-band) | 🌐
 ___
 
 ### Code
