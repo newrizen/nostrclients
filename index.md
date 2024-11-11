@@ -16,8 +16,50 @@ Contribute on github: <{{ site.github.repository_url }}>
 🌐 Web  🤖 Android  🍎 iPhone  📱 Mobile  💻 Desktop  🐧 Linux  🪟 Windows  🍏 IOS  ⏱️ Unfinished
 
 ___
+<body>
+    <h2>CLIENTS</h2>
+    <h3>Twitter like</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Platforms</th>
+        </tr>
+        <tr>
+            <td><a href="https://web.nostrmo.com">Nostrmo</a></td>
+            <td></td>
+            <td><a href="https://github.com/haorendashu/nostrmo">source</a></td>
+            <td>🌐🤖🍎💻(🐧🪟🍎)</td>
+        </tr>
+        <tr>
+            <td><a href="https://coracle.social">Coracle</a></td>
+            <td>Super App</td>
+            <td><a href="https://github.com/coracle-social/coracle">source</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://amethyst.social">Amethyst</a></td>
+            <td>Super App with note edit, delete and other stuff with Tor</td>
+            <td><a href="https://github.com/vitorpamplona/amethyst">source</a></td>
+            <td>🤖</td>
+        </tr>
+        <tr>
+            <td><a href="https://primal.net">Primal</a></td>
+            <td>Social and wallet</td>
+            <td><a href="https://github.com/PrimalHQ">source</a></td>
+            <td>🌐🤖🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://iris.to">Iris</a></td>
+            <td>-</td>
+            <td><a href="https://github.com/irislib">source</a></td>
+            <td>🌐🤖🍎</td>
+        </tr>
+        <!-- Continue the table rows for each service as above -->
+    </table>
+</body>
 
-## CLIENTS
 ___
 ### Twitter like
 
