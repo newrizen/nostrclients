@@ -142,7 +142,8 @@ ___
 ---
 
 ### Direct Messenges (DM)
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [0xchat](https://0xchat.com) 🤖🍎 [[source]](https://github.com/0xchat-app)
 - [Nostr Chat](https://nostrchat.io) 🌐🍎 [[source]](https://github.com/NostrChat/NostrChat)
 - [Blowater](https://blowater.deno.dev) 🌐 [[source]](https://github.com/BlowaterNostr/blowater)
@@ -151,7 +152,8 @@ ___
 ___
 
 ### Reading
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Highlighter](https://highlighter.com) - Insights with a highlighted read 🌐 [[info]](https://github.com/pablof7z/highlighter)
 - [Zephyr](https://zephyr.coracle.social) - Calming to Read 🌐 [[info]](https://github.com/coracle-social/zephyr)
 - [Flycat](https://flycat.club) - Clean and Healthy Feed 🌐 [[info]](https://github.com/digi-monkey/flycat-web)
@@ -160,20 +162,23 @@ ___
 ---
 
 ### Writing
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Habla](https://habla.news) - Blog [[info]](https://github.com/verbiricha/habla.news) 🌐
 - [Blogstack](https://blogstack.io) - Blog [[info]](https://github.com/nodetec/blogstack)🌐
 - [YakiHonne](https://yakihonne.com) - Articles and News [[info]](https://github.com/YakiHonne) 🤖🍎🌐
 ___
 
 ### Lists
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Listr](https://listr.lol) - Lists [[source]](https://github.com/erskingardner/listr) 🌐
 - [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Movies List [source](https://github.com/jrc-dev/nostr-potatoes) 💻(numpy)
 ___
 
 ### Market and Jobs
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Shopstr](https://shopstr.store) - Buy and Sell [[source]](https://github.com/shopstr-eng/shopstr) 🌐
 - [Nostr Market](https://market.nostr.com) - Buy and Sell 🌐 
 - [Plebeian Market](https://plebeian.market) - Buy and Sell [[source]](https://github.com/PlebeianTech/plebeian-market) 🌐
@@ -182,14 +187,16 @@ ___
 ___
 
 ### Health
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [NosFabrica](https://nosfabrica.com/) -  [[source]]()
 - [LazerEyes](https://lazereyes.nosfabrica.com/) - Eye prescription by DM [[source]](https://github.com/vitorpamplona/lazereyes)
 ---
 
 ### Data Vending Machines - DVM (NIP90)
 (Data-processing tools)
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Noogle](https://noogle.lol) - [[source]](https://github.com/believethehype/nostrdvm/tree/main/ui/noogle) 🌐 
 - [Vendata](https://vendata.io) - [[source]](https://github.com/pablof7z/vendata.io) 🌐
 - [TaskTiger](https://tasktiger.io) 🌐 
@@ -197,10 +204,14 @@ ___
 ___
 
 ### AI
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [PlebAI](https://plebai.com) - Text and Image [[souce]](https://github.com/lightning-digital-entertainment/plebai) 🌐🤖🍎 [currently with errors]
 ___
 
 ### Games
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Chesstr](https://chesstr.pages.dev) - Chess 🌐 [[source]](https://github.com/bordalix/chesstr)
 - [Jestr](https://github.com/jesterui/jesterui) - Chess [[source]](https://github.com/jesterui/jesterui) 🌐
 - [Snakestr](https://satoshipuzzles.github.io/Snakestr/) - Snake game [[source]](https://github.com/satoshipuzzles/Snakestr) 🌐
@@ -208,10 +219,14 @@ ___
 ___
 
 ### Customization
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Emojito](https://emojito.meme) - Send Funny Stickers to React  🌐 [[creator]](https://github.com/verbiricha)
 ___
 
 ### Like other Services
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Nostree](https://nostree.me) - Linktree like 🌐
 - [Rabbit](https://rabbit.syusui.net) - TweetDeck like [[info]](https://github.com/syusui-s/rabbit) 🌐
 - [Zaplinks](zaplinks.lol) - Nostr links 🌐
@@ -220,6 +235,8 @@ ___
 ___
 
 ### General Uses
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Njump](https://njump.me) - HTML text gateway [source](https://github.com/fiatjaf/njump) 🌐 
 - [Filestr](https://filestr.vercel.app) - HTML midia gateway [[source]](https://github.com/verbiricha/filestr) 🌐
 - [W3](w3.do) - Nostr URL shortener [[source]](https://github.com/jinglescode/nostr-url-shortener) 🌐
@@ -228,11 +245,15 @@ ___
 ___
 
 ### Places
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Wherostr](https://wherostr.social) - Travel and show where you are
 - [Arc Map (Mapstr)](https://mapstr.xyz) - Bitcoin Map [[info]](https://geyser.fund/project/arcmap)
 ___
 
 ### Driver and Delivery
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [RoadRunner](https://github.com/42Pupusas/RoadRunner) - Uber like [on development] ⏱️
 - [Arcade City](https://arcade.city) - Uber like [on development] ⏱️ [[info]](https://github.com/ArcadeCity)
 - [Nostrlivery](https://github.com/ODevLibertario/nostrlivery) - iFood like [on development] ⏱️
@@ -242,6 +263,8 @@ ___
 ___
 
 ###  Lightning Wallets (zap)
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Alby](https://getalby.com/) - Native and extension [[info]](https://github.com/getAlby) 🌐
 - [ZBD](https://zbd.gg/) - Gaming and Social [[info]](https://github.com/zebedeeio/login-zbd-react-native-example) 🤖🍎
 - [Wallet of Satoshi](https://www.walletofsatoshi.com/) [[info]](https://github.com/conduition/wos) 🤖🍎
@@ -252,6 +275,8 @@ ___
 ___
 
 ### Exchange
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Mostro](mostro.network) - P2P lightning exchange on Nostr [[info]](https://github.com/MostroP2P/mostro) 🌐
 - [Emptio](https://github.com/misesdev/emptio) - Bitcoin P2P on Nostr [on development]
 ___
@@ -260,7 +285,8 @@ ___
 audio, image and video
 
 Nip-96:
-
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Nostr Media](https://nostrmedia.com) - Blossom server wuth Max 25mb images and 100mb videos [[source]](https://github.com/nostrbuild/nostr.build) 🌐
   
 - [Nostr Build](https://nostr.build) - Max 25mb [[source]](https://github.com/nostrbuild/nostr.build) 🌐
@@ -270,12 +296,16 @@ Nip-96:
 - [Voidcat](https://void.cat) - [[source]](https://git.v0l.io/Kieran/void.cat/) 🌐
 
 Without Nip:
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Pomf](https://pomf.lain.la/) - Upload larger videos max 1 gb [[source]](https://github.com/pomf/pomf)
 - [Catbox](https://catbox.moe) - Max 200mb [[source]](https://github.com/lunaticsm/catbox-uploader)
 - [x0](https://x0.at) - Max 222mb [[source]](https://github.com/Rouji/single_php_filehost)
 ___
 
 ### Donation and payments
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Zapper](https://zap.nostraps.org) - Easy Zaps [[source]](https://github.com/nostrband/zapper) 🌐
 - [Autozap](https://zapplepay.com/autozap) [[source]](https://github.com/benthecarman/zapple-pay-backend) 🌐
 - [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻(numpy)
@@ -285,11 +315,15 @@ ___
 ___
 
 ### Security
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻(java)
 - [Umbrel](https://umbrel.com) - Your private relay [[source]](https://github.com/getumbrel) 🌐
 ___
 
 ### Extensions
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
 - [Nsec.app](https://nsec.app/) 🌐 [[info]](https://github.com/nostrband/noauth)
 - [Lume](https://lume.nu/) - [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)  🐧🪟🍎
