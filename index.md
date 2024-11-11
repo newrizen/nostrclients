@@ -11,12 +11,13 @@ Contribute on github: <{{ site.github.repository_url }}>
 
 **However, you may need to meet certain requirements regarding access and account NIP for some clients, so that you can access them securely and use their features correctly.
 
+___
 ## Legend
 
 🌐 Web - 🤖 Android - 🍎 iPhone - 📱 Mobile - 💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 IOS - ⏱️ Unfinished
 
 ___
-<body>
+<div>
     <h2>CLIENTS</h2>
     <h3>Twitter like</h3>
     <table>
@@ -137,7 +138,9 @@ ___
             <td>🤖</td>
         </tr>
     </table>
-
+</div>
+---
+<div>
     <h3>Communities</h3>
     <table>
         <tr>
@@ -195,7 +198,7 @@ ___
             <td>🤖</td>
         </tr>
     </table>
-</body>
+</div>
 
 
 
@@ -574,7 +577,7 @@ ___
 
 Some other Nostr index on:
 
-[Nostr Apps](https://nostrapps.com)  [Nostorg](https://github.com/nostorg/clients)  [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
+[Nostr Apps](https://nostrapps.com) - [Nostorg](https://github.com/nostorg/clients) - [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
 
 
 <div class="bigtable">
