@@ -6,15 +6,14 @@ Compendium of nostr clients and known features.
 
 Contribute on github: <{{ site.github.repository_url }}>
 
+
+*These clients are generally applications on the Nostr network that allow you to use the same account, regardless of the app used, keeping your messages and profile intact.
+
+**However, you may need to meet certain requirements regarding access and account NIP for some clients, so that you can access them securely and use their features correctly.
+
 ## Legend
 
-- [NIPs](https://github.com/nostr-protocol/nips)
-- ✅ : mostly supported
-- 🟡 : partially supported
-- ❌ : mostly not supported
-- ⚡ : paid feature
-- `?` : reviewed but inconclusive
-- <code>&nbsp;</code> : not yet reviewed
+🌐 Web | 🤖 Android | 🍎 iPhone | 📱 Mobile | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍏 IOS | ⏱️ Unfinished
 
 <div class="bigtable">
 <table>
@@ -64,6 +63,8 @@ Contribute on github: <{{ site.github.repository_url }}>
 </table>
 </div>
 
+
+- [NIPs](https://github.com/nostr-protocol/nips)
 
 ## Similar projects
 
