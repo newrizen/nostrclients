@@ -25,148 +25,336 @@ asdf exec jekyll serve
 
 ## NOstr Clients and Other Stuff
 
-### Twitter like
-- [Nostrmo](https://web.nostrmo.com) 🌐🤖🍎💻(🪟🍎)
-- [Primal](https://primal.net) 🌐🤖🍎
-- [Iris](https://iris.to) 🌐🤖🍎
-- [Current](https://app.getcurrent.io) 🤖🍎
-- [Free From](https://freefrom.space) 🤖🍎
-- [Amethyst](https://amethyst.social) 🤖 
-- [Openvibe](https://openvibe.social) (new Plebstr) 🤖🍎
-- [Snort](https://snort.social) 🌐(🤖[early access])
-- [Camelus](https://github.com/leo-lox/camelus) [early access] 🤖
-- [Damus](https://damus.io) 🍎
-- [Nos](https://nos.social) 🍎
-- [Nostur](https://nostur.com) 🍎 
-- [Nosta](https://nosta.me) 🌐
-- [NostrBand](https://nostr.band) 🌐 
-- [Coracle](https://coracle.social) 🌐
-- [Zephyr](https://zephyr.coracle.social) - Calming to read 🌐
-- [Rabbit](https://rabbit.syusui.net) 🌐
-- [Nostribe](nostribe.com) [on development] 🌐
-- [Lume](https://lume.nu) 💻(🐧🪟🍎)
-- [Gossip](https://github.com/mikedilger/gossip) 💻
+# Nostr Clients and Other Stuff
+#list #descentralismo
 
-###  Lightning Wallets (zap)
-- [Alby](https://getalby.com/) - Native and extension 🌐
-- [ZBD](https://zbd.gg/) 🤖🍎 
-- [Wallet of Satoshi](https://www.walletofsatoshi.com/) 🤖🍎
-- [Minibits](minibits.cash) - Cashu mobile wallet 🤖
-- [Blink](blink.sv) - Opensource custodial wallet (KYC over 1000 usd) 🤖🍎 [[info]](https://github.com/GaloyMoney/blinkbtc)
-- [LNbits](lnbits.com) - App and extesion 🤖🍎💻
-- [LightningTipBot](ln.tips) - LNbits based wallet and tip bot on telegram [[info]](https://github.com/LightningTipBot/LightningTipBot)
-- [Zeus](https://zeusln.com) 🤖🍎 [[info]](https://github.com/ZeusLN)
+*These clients are generally applications on the Nostr network that allow you to use the same account, regardless of the app used, keeping your messages and profile intact.
+
+**However, you may need to meet certain requirements regarding access and account NIP for some clients, so that you can access them securely and use their features correctly.
+___
+
+## CLIENTS
+___
+### Twitter like
+- [Nostrmo](https://web.nostrmo.com) - [[source]](https://github.com/haorendashu/nostrmo) 🌐🤖🍎💻(🐧🪟🍎)
+- [Coracle](https://coracle.social) - Super App [[source]](https://github.com/coracle-social/coracle) 🌐
+- [Amethyst](https://amethyst.social) - Super App with note edit, delete and other stuff with Tor [[source]](https://github.com/vitorpamplona/amethyst) 🤖
+- [Primal](https://primal.net) - Social and wallet [[source]](https://github.com/PrimalHQ) 🌐🤖🍎
+- [Iris](https://iris.to) - [[source]](https://github.com/irislib) 🌐🤖🍎
+- [Current](https://app.getcurrent.io) - [[source]](https://github.com/starbackr-com/current) 🤖🍎
+- [FreeFrom](https://freefrom.space) 🤖🍎 
+- [Openvibe](https://openvibe.social) - Nostr and others (new Plebstr) [[source]](https://github.com/Tweetoshi) 🤖🍎
+- [Snort](https://snort.social) 🌐(🤖[early access]) [[source]](https://git.v0l.io/Kieran/snort)
+- [Damus](https://damus.io) 🍎 [[source]](https://github.com/damus-io/damus)
+- [Nos](https://nos.social) 🍎 [[source]](https://github.com/planetary-social/nos)
+- [Nostur](https://nostur.com) 🍎 [[source]](https://github.com/nostur-com/nostur-ios-public)
+- [NostrBand](https://nostr.band) 🌐 [[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)
+- [Yana](https://yana.do) 🤖🍎🌐💻(🐧) [[source]](https://github.com/frnandu/yana)
+- [Nostribe](https://nostribe.com) [on development] 🌐 [[source]](https://github.com/sepehr-safari/nostribe-web-client)
+- [Lume](https://lume.nu) 💻(🐧🪟🍎) [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)
+- [Gossip](https://github.com/mikedilger/gossip) - [[source]](https://github.com/mikedilger/gossip) 💻(🐧🪟🍎)
+- [Camelus](https://github.com/leo-lox/camelus) [early access] 🤖 [[source]](https://github.com/leo-lox/camelus)
+---
 
 ### Communities
-- [noStrudel](https://nostrudel.ninja) 🌐 
-- [Nostr Kiwi](https://nostr.kiwi) 🌐 
-- [Satellite](https://satellite.earth) 🌐 
+- [noStrudel](https://nostrudel.ninja) - Gamified Experience [[info]](https://github.com/hzrd149/nostrudel) 🌐
+- [Nostr Kiwi](https://nostr.kiwi) [[creator]](https://github.com/jinglescode) 🌐
+- [Satellite](https://satellite.earth) [[info]](https://github.com/lovvtide/satellite-web) 🌐
+- [Soapbox](https://soapbox.pub/) - Comunnity server [[info]](https://soapbox.pub/about/) [[source]](https://github.com/soapbox-pub/soapbox) 🌐
+- [Ditto](https://ditto.pub/) - Soapbox comunnity server 🌐 [[source]](https://gitlab.com/soapbox-pub/ditto) 🌐
+- [Cobrafuma](cobrafuma.com) - Nostr brazilian community on Ditto [[info]](https://soapbox.pub/servers/)
+ 🌐
+- [Zapddit](https://zapddit.com) - Reddit like [[source]](https://github.com/vivganes/zapddit) 🌐
+- [Voyage](https://github.com/dluvian/voyage) (Reddit like) [on development] 🤖
+---
 
-### Audio and Video Transmissions
-- [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐
-- [Vida](https://vida.live) - Video call 🌐🤖 
-- [Fountain](https://fountain.fm) - Podcast 🤖🍎 
-- [ZapStream](https://zap.stream) 🌐 
-- [Corny Chat](https://cornychat.com) - Audio Chat 🌐 
+### Wiki
+- [Wikifreedia](https://wikifreedia.xyz/) [[source]](https://github.com/fiatjaf/wikifreedia) 🌐
+- [Wikinostr](wikinostr.tijl.xyz) [[source]](https://github.com/github-tijlxyz/wikinostr) 🌐
+- [Wikistr](https://wikistr.com/) [[info]](https://nostrapps.com/wikistr) [[source]](https://github.com/fiatjaf/wikistr) 🌐
+___
+
+### Search
+
+- [Advanced nostr search](https://advancednostrsearch.vercel.app) - Advanced note search by isolated terms related to a npub profile [[source]](https://github.com/SamSamskies/advancednostrsearch) 🌐 
+- [Nos Today](https://nos.today) - Global note search by isolated terms [[info]](https://nos.today/about) [[source]](https://github.com/darashi/searchnos) 🌐
+- [Nostr Search Engine](https://find.nosbook.org/) - API for Nostr clients [[source]](https://github.com/misesdev/nostr-search-api)
+---
+
+### Website
+
+- [Npub pro](npub.pro) - Your site on Nostr [[source]](https://github.com/nostrband/nostrsite/)
+___
+
+### App Store
+
+- [ZapStore](https://zap.store) - Permitionless App Store [[source]](https://github.com/zapstore)
+
+___
+
+### Audio and Video Transmission
+
+- [Nostr Nests](https://nostrnests.com) - Audio Chats 🌐 [[info]](https://github.com/nostrnests/nests)
+- [Fountain](https://fountain.fm) - Podcast 🤖🍎 [[info]](https://github.com/fountain-fm)
+- [ZapStream](https://zap.stream) - Live streaming 🌐 [[info]](https://github.com/v0l/zap.stream)
+- [Corny Chat](https://cornychat.com) - Audio Chat 🌐 [[info]](https://github.com/vicariousdrama/cornychat)
+___
 
 ### Video Streaming
-- [Flare](https://flare.pub) (Youtube like) 🌐
+
+- [Flare](https://flare.pub) - Youtube like 🌐 [[source]](https://github.com/zmeyer44/flare)
+___
 
 ### Music
-- [Tunestr](https://tunestr.io) - Musical events 🌐
-- [Stemstr](https://stemstr.app) - Musical colab (paid to post) 🌐
-- [Wavlake](https://wavlake.com) - Music streaming 🌐(🤖🍎 [early access])
 
-### Download and upload
-- [DTAN](https://dtan.xyz) - Torrents 🌐
+- [Tidal](https://tidal.com) - Music Streaming [[source]](https://github.com/tidal-music) [[about]](https://tidal.com/about) [[info]](https://developer.tidal.com/blog/tidal-embeds-the-other-stuff-transmitted-by-nostr) 🤖🍎🌐
+- [Wavlake](https://wavlake.com) - Music Streaming [[source]](https://github.com/wavlake/) 🌐(🤖🍎 [early access])
+- [Tunestr](https://tunestr.io) - Musical Events [[source]](https://github.com/caineroad/tunestr.io) [[about]](https://nostrapps.com/tunestr) 🌐
+- [Stemstr](https://stemstr.app) - Musical Colab (paid to post) [[source]](https://github.com/stemstr) [[about]](https://nostrapps.com/stemstr) 🌐
+___
+
+### Event Discovery
+
+[Eventro](https://eventro-events.vercel.app/) - Event Ticket and Assistance [[source]](https://github.com/unllamas/eventro_old)
+___
+
+### Images
+
+- [Pinstr](https://pinstr.app) - Pinterest like [[source]](https://github.com/sepehr-safari/pinstr)
+- [Slidestr](https://slidestr.net) (DeviantArt like) 🌐 [[source]](https://git.v0l.io/florian/nostr-slideshow)
+- [Memestr](https://memestr.app) - ifunny like [[source]](https://github.com/AaruBama/memestr) 🌐
+___
+
+### Download and Upload
+
+- [DTAN](https://dtan.xyz) - Distributed Torrent Archive on Nostr [[info]](https://www.nobsbitcoin.com/dtan-xyz-nostr-torrent-archive/) [[source]](https://git.v0l.io/Kieran/dtan) 🌐
+___
 
 ### Documents
-- [Docstr](https://docstr.com) 🌐
-- [Sheetstr](https://github.com/vitorpamplona/sheetstr) [on development] [[info]](https://github.com/vitorpamplona/sheetstr)
 
-### Like other services
-- [Zapddit](https://zapddit.com) (reddit like) 🌐
-- [Voyage](https://github.com/dluvian/voyage) [on development] 🤖
-- [Blogstack](https://blogstack.io) (blog like) 🌐 
-- [Pinstr](https://pinstr.app) (pinterest like) 🌐 
-- [Memestr](https://memestr.app) (ifunny like) 🌐
-- [Staker News](https://stacker.news/) (Hacker News like) 🌐
-- [OddBean](https://oddbean.com) (forum like) 🌐 
-- [LowEnt](https://lowent.xyz) (forum like) 🌐
-- [Swarmstr](https://swarmstr.com/) (Q&A / FAQ) 🌐
+- [Docstr](https://docstr.app/) - Share Docs 🌐 [[info]](https://nostrapps.com/docstr) [[source]](https://github.com/sepehr-safari/docstr)
+- [Formstr](https://formstr.app) - Share Forms 🌐 [[info]](https://github.com/abhay-raizada/nostr-forms)
+- [Sheetstr](https://sheetstr.amethyst.social/) - Share Spreadsheets [[source]](https://github.com/vitorpamplona/sheetstr)
+- [Slide Maker](https://zaplinks.lol/slides/) - Share slides [[source]]()
+___
 
-### Media Upload (audio, images and videos)
-- [Nostr Build](https://nostr.build) 🌐
-- [Nostr Check](https://nostrcheck.me) 🌐
-- [NostPic](https://nostpic.com) 🌐
-- [Sovbit](https://files.sovbit.com) 🌐
-- [Voidcat](https://void.cat) 🌐
+### Forum
+
+- [OddBean](https://oddbean.com) - Hacker News like [[info]](https://oddbean.com/about) [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web)  🌐
+- [LowEnt](https://lowent.xyz) - Forum [[info]](https://github.com/gzuuus/lowent) 🌐
+- [Swarmstr](https://swarmstr.com/) - Q&A / FAQ [[info]](https://github.com/ptrio42/swarmstr.com) 🌐
+- [Staker News](https://stacker.news/) - Hacker News like 🌐 [[info]](https://github.com/stackernews/stacker.news)
+---
 
 ### Direct Messenges (DM)
-- [0xchat](https://0xchat.com) 🤖🍎 
-- [Nostr Chat](https://nostrchat.io) 🌐🍎 
-- [Blowater](https://blowater.deno.dev) 🌐
-- [Anigma](https://anigma.io) (new nostrgram) - Telegram based [on development] [[info]](https://github.com/brilliancebitcoin/nostrgram)
-- [Keychat](https://keychat.io) - Signal based [🤖🍎 on development] [[info]](https://github.com/rohanharikr/keychat.online)
+
+- [0xchat](https://0xchat.com) 🤖🍎 [[source]](https://github.com/0xchat-app)
+- [Nostr Chat](https://nostrchat.io) 🌐🍎 [[source]](https://github.com/NostrChat/NostrChat)
+- [Blowater](https://blowater.deno.dev) 🌐 [[source]](https://github.com/BlowaterNostr/blowater)
+- [Anigma](https://anigma.io) (new nostrgram) - Telegram based [on development] [[source]](https://github.com/brilliancebitcoin/nostrgram)
+- [Keychat](https://keychat.io) - Signal based [🤖🍎 on development] [[source]](https://github.com/rohanharikr/keychat.online)
+___
+
+### Reading
+
+- [Highlighter](https://highlighter.com) - Insights with a highlighted read 🌐 [[info]](https://github.com/pablof7z/highlighter)
+- [Zephyr](https://zephyr.coracle.social) - Calming to Read 🌐 [[info]](https://github.com/coracle-social/zephyr)
+- [Flycat](https://flycat.club) - Clean and Healthy Feed 🌐 [[info]](https://github.com/digi-monkey/flycat-web)
+- [Nosta](https://nosta.me) - Check Profiles [on development] 🌐 [[info]](https://github.com/GBKS/nosta-me)
+- [Alexandria](https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c) - e-Reader and Nostr Knowledge Base (NKB) [[source]](https://github.com/ShadowySupercode/gc-alexandria)
+---
 
 ### Writing
-- [Habla](https://habla.news) 🌐
-- [YakiHonne](https://yakihonne.com) 🌐 
-- [Flycat](https://flycat.club) 🌐 
-- [Highlighter](https://highlighter.com) - Share insights 🌐
+
+- [Habla](https://habla.news) - Blog [[info]](https://github.com/verbiricha/habla.news) 🌐
+- [Blogstack](https://blogstack.io) - Blog [[info]](https://github.com/nodetec/blogstack)🌐
+- [YakiHonne](https://yakihonne.com) - Articles and News [[info]](https://github.com/YakiHonne) 🤖🍎🌐
+___
 
 ### Lists
-- [Listr](https://listr.lol) 🌐
-- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Movies list 💻(numpy)
+
+- [Listr](https://listr.lol) - Lists [[source]](https://github.com/erskingardner/listr) 🌐
+- [Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) - Movies List [source](https://github.com/jrc-dev/nostr-potatoes) 💻(numpy)
+___
 
 ### Market and Jobs
-- [Shopstr](https://shopstr.store) - Buy and sell 🌐 
-- [Nostr Market](https://market.nostr.com) - Buy and sell 🌐
-- [Plebeian Market](https://plebeian.market) - Buy and sell 🌐
-- [Ostrich](https://ostrich.work) - Jobs 🌐 
-- [Nostrocket](https://nostrocket.org) - Jobs 🌐
 
-### Donation and payments
-- [Zapper](https://zap.nostraps.org) - Easy Zaps 🌐
-- [Autozap](https://zapplepay.com/autozap) 🌐
-- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻(numpy)
-- [Creatr](https://creatr.nostr.wine) - Creators subscription 🌐
+- [Shopstr](https://shopstr.store) - Buy and Sell [[source]](https://github.com/shopstr-eng/shopstr) 🌐
+- [Nostr Market](https://market.nostr.com) - Buy and Sell 🌐 
+- [Plebeian Market](https://plebeian.market) - Buy and Sell [[source]](https://github.com/PlebeianTech/plebeian-market) 🌐
+- [Ostrich Work](https://ostrich.work) - Jobs [[source]](https://github.com/erskingardner/ostrich.work) 🌐
+- [Nostrocket](https://nostrocket.org) - Jobs [[source]](https://github.com/nostrocket) 🌐
+___
 
-### Customization
-- [Emojito](https://emojito.meme) - Add “stickers” 🌐
+### Health
+
+- [NosFabrica](https://nosfabrica.com/) -  [[source]]()
+- [LazerEyes](https://lazereyes.nosfabrica.com/) - Eye prescription by DM [[source]](https://github.com/vitorpamplona/lazereyes)
+---
+
+### Data Vending Machines - DVM (NIP90)
+(Data-processing tools)
+
+- [Noogle](https://noogle.lol) - [[source]](https://github.com/believethehype/nostrdvm/tree/main/ui/noogle) 🌐 
+- [Vendata](https://vendata.io) - [[source]](https://github.com/pablof7z/vendata.io) 🌐
+- [TaskTiger](https://tasktiger.io) 🌐 
+- [Malware DVMs](https://malware.dvms.app) 🌐
+___
+
+### AI
+- [PlebAI](https://plebai.com) - Text and Image [[souce]](https://github.com/lightning-digital-entertainment/plebai) 🌐🤖🍎 [currently with errors]
+___
 
 ### Games
-- [Chesstr](https://chesstr.pages.dev) - Chess 🌐
-- [Jestr](https://github.com/jesterui/jesterui) - Chess 
+- [Chesstr](https://chesstr.pages.dev) - Chess 🌐 [[source]](https://github.com/bordalix/chesstr)
+- [Jestr](https://github.com/jesterui/jesterui) - Chess [[source]](https://github.com/jesterui/jesterui) 🌐
+- [Snakestr](https://satoshipuzzles.github.io/Snakestr/) - Snake game [[source]](https://github.com/satoshipuzzles/Snakestr) 🌐
+- [DEG Mods](https://degmods.com) - Decentralized Game Mods [[info]](https://degmods.com/#/about) [[source]](https://github.com/Freakoverse/degmods_design) 🌐
+___
+
+### Customization
+- [Emojito](https://emojito.meme) - Send Funny Stickers to React  🌐 [[creator]](https://github.com/verbiricha)
+___
+
+### Like other Services
+- [Nostree](https://nostree.me) - Linktree like 🌐
+- [Rabbit](https://rabbit.syusui.net) - TweetDeck like [[info]](https://github.com/syusui-s/rabbit) 🌐
+- [Zaplinks](zaplinks.lol) - Nostr links 🌐
+- [Omeglestr](https://antonioconselheiro.github.io/omeglestr/#links) - Omegle-like Random Chats [[source]](https://github.com/antonioconselheiro/omeglestr) 🌐
+- [Hivetalk](https://hivetalk.org/) - Omegle-like Random Video Chats (https://github.com/HiveTalk)
+___
 
 ### General Uses
-- [Njump](https://njump.me) - HTML Nostr gateway 🌐 [[info]](https://github.com/fiatjaf/njump)
-- [Nostree](https://nostree.me/)  - Nostr linktree 🌐 [[info]](https://github.com/gzuuus/linktr-nostr)
-- [Advanced nostr search](https://advancednostrsearch.vercel.app) - Search 🌐 
+- [Njump](https://njump.me) - HTML text gateway [source](https://github.com/fiatjaf/njump) 🌐 
+- [Filestr](https://filestr.vercel.app) - HTML midia gateway [[source]](https://github.com/verbiricha/filestr) 🌐
+- [W3](w3.do) - Nostr URL shortener [[source]](https://github.com/jinglescode/nostr-url-shortener) 🌐
+- [Playground](https://playground.nostr.com) - Test Nostr filters [[source]](https://github.com/sepehr-safari/nostr-playground) 🌐
 - [Spring](https://spring.site) - Browser 🌐 
+___
+
+### Places
+- [Wherostr](https://wherostr.social) - Travel and show where you are
+- [Arc Map (Mapstr)](https://mapstr.xyz) - Bitcoin Map [[info]](https://geyser.fund/project/arcmap)
+___
+
+### Driver and Delivery
+- [RoadRunner](https://github.com/42Pupusas/RoadRunner) - Uber like [on development] ⏱️
+- [Arcade City](https://arcade.city) - Uber like [on development] ⏱️ [[info]](https://github.com/ArcadeCity)
+- [Nostrlivery](https://github.com/ODevLibertario/nostrlivery) - iFood like [on development] ⏱️
+___
+
+## OTHER STUFF
+___
+
+###  Lightning Wallets (zap)
+- [Alby](https://getalby.com/) - Native and extension [[info]](https://github.com/getAlby) 🌐
+- [ZBD](https://zbd.gg/) - Gaming and Social [[info]](https://github.com/zebedeeio/login-zbd-react-native-example) 🤖🍎
+- [Wallet of Satoshi](https://www.walletofsatoshi.com/) [[info]](https://github.com/conduition/wos) 🤖🍎
+- [Minibits](https://minibits.cash) - Cashu mobile wallet [[info]](https://github.com/minibits-cash/minibits_wallet) 🤖
+- [Blink](blink.sv) - Opensource custodial wallet (KYC over 1000 usd) [[source]](https://github.com/GaloyMoney/blinkbtc) 🤖🍎
+- [LNbits](lnbits.com) - App and extesion [[source]](https://github.com/lnbits/lnbits) 🤖🍎💻
+- [Zeus](https://zeusln.com) - [[info]](https://zeusln.com/about) [[source]](https://github.com/ZeusLN) 🤖🍎
+___
+
+### Exchange
+- [Mostro](mostro.network) - P2P lightning exchange on Nostr [[info]](https://github.com/MostroP2P/mostro) 🌐
+- [Emptio](https://github.com/misesdev/emptio) - Bitcoin P2P on Nostr [on development]
+___
+
+### Media Server (Upload Links)
+audio, image and video
+
+- [Nostr Build](https://nostr.build) - Max 25mb [[source]](https://github.com/nostrbuild/nostr.build) 🌐
+- [Nostr Check](https://nostrcheck.me) - [[info]](https://nostrcheck.me/about/) [[source]](https://github.com/quentintaranpino/nostrcheck-server) 🌐
+- [NostPic](https://nostpic.com) - [[source]](https://github.com/quentintaranpino/nostrcheck-server) 🌐
+- [Sovbit](https://files.sovbit.com) 🌐
+- [Voidcat](https://void.cat) - [[source]](https://git.v0l.io/Kieran/void.cat/) 🌐
+
+Without Nip:
+- [Pomf](https://pomf.lain.la/) - Upload larger videos max 1 gb [[source]](https://github.com/pomf/pomf)
+- [Catbox](https://catbox.moe) - Max 200mb [[source]](https://github.com/lunaticsm/catbox-uploader)
+- [x0](https://x0.at) - Max 222mb [[source]](https://github.com/Rouji/single_php_filehost)
+___
+
+### Donation and payments
+- [Zapper](https://zap.nostraps.org) - Easy Zaps [[source]](https://github.com/nostrband/zapper) 🌐
+- [Autozap](https://zapplepay.com/autozap) [[source]](https://github.com/benthecarman/zapple-pay-backend) 🌐
+- [Nostr Zap](https://github.com/SamSamskies/nostr-zap) 💻(numpy)
+- [Creatr](https://creatr.nostr.wine) - Creators subscription 🌐
+- [Geyzer](https://geyzer.fund) - Crowdfunding [[info]](https://geyser.fund/about) [[source]](https://github.com/geyserfund/geyser-app) 🌐
+- [Heya!](https://heya.fund/) - Crowdfunding [[source]](https://github.com/verbiricha/goalz)
+___
 
 ### Security
 - [Secret Border](https://github.com/guilhermegps/secret-border) - Generate offline keys 💻(java)
-- [Umbrel](https://umbrel.com) - Your private relay 🌐
+- [Umbrel](https://umbrel.com) - Your private relay [[source]](https://github.com/getumbrel) 🌐
+___
 
 ### Extensions
 - [Nos2x](https://github.com/fiatjaf/nos2x) - Account access keys 🌐
-- [Nostr.me]()
-- [Highlighter](https://github.com/pablof7z/highlighter)
-- [Nsec.app](https://nsec.app/)
-- [Lume](https://lume.nu/)  🌐
-- [Faaans](https://getfaaans.com)
-- [Satcom](https://satcom.app) - Share files to discuss [[info]](https://github.com/jinglescode/web-content-conversation) 🌐
+- [Nsec.app](https://nsec.app/) 🌐 [[info]](https://github.com/nostrband/noauth)
+- [Lume](https://lume.nu/) - [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)  🐧🪟🍎
+- [Satcom](https://satcom.app) - Share files to discuss - [[info]](https://github.com/jinglescode/web-content-conversation) 🌐
+- [KeysBand](keys.band) - Multi-key signing [[source]](https://github.com/toastr-space/keys-band) 🌐
+___
 
 ### Code
 - [Nostrify](https://nostrify.dev) - Share Nostr Frameworks 🌐
 - [Git Workshop](https://gitworkshop.dev) (github like) [experimental] 🌐
 - [Gitstr](https://github.com/fiatjaf/gitstr) (github like) [on development] ⏱️
-- [Playground](https://playgrounnd.nostr.com) 🌐
-- [Osty](https://osty.dev) 🌐
+- [Osty](https://osty.dev) [on development] [[info]](https://github.com/ostyjs/create-osty) 🌐
+- [Python Nostr](https://github.com/jeffthibault/python-nostr) - Python Library for Nostr
+___
 
-### Utilities
-- [RoadRunner](https://github.com/42Pupusas/RoadRunner) (Uber like) [on development] ⏱️
+### Relay Check and Cloud
+- [Nostr Watch](https://nostr.watch) - See your relay speed 🌐
+- [NosDrive](https://nosdrive.app) - Nostr Relay that saves to Google Drive
+___
 
+### Bidges and Getways
 
-Some others on https://nostrapps.com
+- [Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) - Between Matrix & Nostr 
+- [Mostr](https://gitlab.com/soapbox-pub/mostr) - Between Nostr & Fediverse 
+- [Nostrss](https://github.com/Asone/nostrss) - RSS to Nostr
+- [Rsslay](https://rss.nos.social/) - Optimized RSS to Nostr [[source]](https://github.com/piraces/rsslay)
+- [Atomstr](https://atomstr.data.haus/) - RSS/Atom to Nostr [[source]](https://git.sr.ht/~psic4t/atomstr)
+___
+
+## NOT RELATED TO NOSTR
+___
+
+### Android Keyboards
+- [Futo](https://keyboard.futo.org/) - Gboard like [[source]](https://github.com/futo-org/android-keyboard/releases)
+- [Florisboard](https://florisboard.org) - [[source]](https://github.com/florisboard/florisboard)
+- [Heliboard](https://github.com/Helium314/HeliBoard) - Openboard based [[source]](https://github.com/Helium314/HeliBoard)
+___
+
+### Personal notes and texts
+
+- [Joplin](https://joplinapp.org/) - privacy-focused note taking app with sync capabilities [[source]](https://github.com/laurent22/joplin) 📱(🤖🍎) - 💻 (🐧🪟🍎)
+___
+
+### Front-ends
+- [Nitter](https://nitter.poast.org/) - Twitter / X without your data [[source]](https://github.com/zedeus/nitter)
+- [NewPipe](https://newpipe.net/) - Youtube, Peertube and others, without account & your data [[source]](https://github.com/TeamNewPipe/NewPipe) 🤖
+- [Tubular](https://github.com/polymorphicshade/Tubular) - A NewPipe fork + SponsorBlock + ReturnYoutubeDislike [[source]](https://github.com/polymorphicshade/Tubular)
+- [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) - A NewPipe fork + SponsorBlock + BitChute + Rumble [[source]](https://github.com/bravenewpipe/NewPipe)
+- [FreeTube](https://freetubeapp.io/) - Youtube frontend for desktop [source](https://github.com/FreeTubeApp/FreeTube)
+- [FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) - Youtube frontend for desktop [source](https://github.com/MarmadileManteater/FreeTubeAndroid)
+- [Piped](https://piped.video) - Youtube web without you data [[source]](https://github.com/TeamPiped/Piped) 🌐
+___
+
+### Other Services
+- [Brave](https://brave.com) - Browser [[source]](https://github.com/brave/brave-browser)
+- [DuckDuckGo](https://duckduckgo.com) - Search [[source]](https://github.com/deedy5/duckduckgo_search)
+- [LLMA - Meta](https://github.com/meta-llama) - Meta open source AI [[source]](https://github.com/meta-llama)
+- [DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/) - Famous AIs without Login [[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md)
+- [Proton Mail](https://proton.me/mail) - Mail [[source]](https://github.com/ProtonMail)
+
+Other open source index:
+[Degoogled Apps](https://tycrek.github.io/degoogle/)
+___
+
+Some other Nostr index on:
+
+[Nostr Apps](https://nostrapps.com) | [Nostorg](https://github.com/nostorg/clients) | [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
