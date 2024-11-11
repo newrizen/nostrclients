@@ -206,22 +206,22 @@ ___
 ### AI
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [PlebAI](https://plebai.com) - Text and Image [[souce]](https://github.com/lightning-digital-entertainment/plebai) 🌐🤖🍎 [currently with errors]
+|[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[souce]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
 ___
 
 ### Games
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Chesstr](https://chesstr.pages.dev) - Chess 🌐 [[source]](https://github.com/bordalix/chesstr)
-- [Jestr](https://github.com/jesterui/jesterui) - Chess [[source]](https://github.com/jesterui/jesterui) 🌐
-- [Snakestr](https://satoshipuzzles.github.io/Snakestr/) - Snake game [[source]](https://github.com/satoshipuzzles/Snakestr) 🌐
-- [DEG Mods](https://degmods.com) - Decentralized Game Mods [[info]](https://degmods.com/#/about) [[source]](https://github.com/Freakoverse/degmods_design) 🌐
+|[Chesstr](https://chesstr.pages.dev) | Chess | [[source]](https://github.com/bordalix/chesstr) | 🌐
+|[Jestr](https://github.com/jesterui/jesterui) | Chess | [[source]](https://github.com/jesterui/jesterui) | 🌐
+|[Snakestr](https://satoshipuzzles.github.io/Snakestr/) | Snake game |  [[source]](https://github.com/satoshipuzzles/Snakestr) | 🌐
+|[DEG Mods](https://degmods.com) | Decentralized Game Mods |  [[info]](https://degmods.com/#/about) [[source]](https://github.com/Freakoverse/degmods_design) | 🌐
 ___
 
 ### Customization
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Emojito](https://emojito.meme) - Send Funny Stickers to React  🌐 [[creator]](https://github.com/verbiricha)
+|[Emojito](https://emojito.meme) | Send Funny Stickers to React | [[creator]](https://github.com/verbiricha) | 🌐
 ___
 
 ### Like other Services
