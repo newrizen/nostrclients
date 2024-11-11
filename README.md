@@ -5,6 +5,10 @@
 *These clients are generally applications on the Nostr network that allow you to use the same account, regardless of the app used, keeping your messages and profile intact.
 
 **However, you may need to meet certain requirements regarding access and account NIP for some clients, so that you can access them securely and use their features correctly.
+
+Legend
+
+🌐 Web | 🤖 Android | 🍎 iPhone | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍎 IOS
 ___
 
 ## CLIENTS
