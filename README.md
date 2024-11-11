@@ -5,7 +5,7 @@
 
 **However, you may need to meet certain requirements regarding access and account NIP for some clients, so that you can access them securely and use their features correctly.
 
-Legend
+#### Legend
 
 🌐 Web | 🤖 Android | 🍎 iPhone | 📱 Mobile | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍏 IOS | ⏱️ Unfinished
 ___
