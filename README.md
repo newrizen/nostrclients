@@ -387,8 +387,8 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
-|[Open]() | Docs cloud | [[source]]() |
-|[CryptPad](cryptpad.org) | Docs cloud instances | [[source]](http://github.com/cryptpad/cryptpad) | 🌐
+|[OnlyOffice](https://www.onlyoffice.com/) | Docs cloud | [[source]](https://github.com/ONLYOFFICE/) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
+|[CryptPad](https://cryptpad.org) | Docs cloud instances | [[source]](http://github.com/cryptpad/cryptpad) | 🌐
 ___
 
 ### Front-ends
