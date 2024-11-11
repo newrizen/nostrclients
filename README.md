@@ -23,7 +23,7 @@ asdf exec bundle install # install from gemfile
 asdf exec jekyll serve
 ```
 
-## Clients and others
+## NOstr Clients and Other Stuff
 
 ### Twitter like
 - [Nostrmo](https://web.nostrmo.com) 🌐🤖🍎💻(🪟🍎)
