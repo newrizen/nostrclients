@@ -227,36 +227,36 @@ ___
 ### Like other Services
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Nostree](https://nostree.me) - Linktree like 🌐
-- [Rabbit](https://rabbit.syusui.net) - TweetDeck like [[info]](https://github.com/syusui-s/rabbit) 🌐
-- [Zaplinks](zaplinks.lol) - Nostr links 🌐
-- [Omeglestr](https://antonioconselheiro.github.io/omeglestr/#links) - Omegle-like Random Chats [[source]](https://github.com/antonioconselheiro/omeglestr) 🌐
-- [Hivetalk](https://hivetalk.org/) - Omegle-like Random Video Chats (https://github.com/HiveTalk)
+|[Nostree](https://nostree.me) | Linktree like || 🌐
+|[Rabbit](https://rabbit.syusui.net) | TweetDeck like | [[info]](https://github.com/syusui-s/rabbit) | 🌐
+|[Zaplinks](zaplinks.lol) | Nostr links || 🌐
+|[Omeglestr](https://antonioconselheiro.github.io/omeglestr/#links) | Omegle-like Random Chats | [[source]](https://github.com/antonioconselheiro/omeglestr) | 🌐
+|[Hivetalk](https://hivetalk.org/) | Omegle-like Random Video Chats | [[source]] (https://github.com/HiveTalk) |
 ___
 
 ### General Uses
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Njump](https://njump.me) - HTML text gateway [source](https://github.com/fiatjaf/njump) 🌐 
-- [Filestr](https://filestr.vercel.app) - HTML midia gateway [[source]](https://github.com/verbiricha/filestr) 🌐
-- [W3](w3.do) - Nostr URL shortener [[source]](https://github.com/jinglescode/nostr-url-shortener) 🌐
-- [Playground](https://playground.nostr.com) - Test Nostr filters [[source]](https://github.com/sepehr-safari/nostr-playground) 🌐
-- [Spring](https://spring.site) - Browser 🌐 
+|[Njump](https://njump.me) | HTML text gateway | [source](https://github.com/fiatjaf/njump) | 🌐 
+|[Filestr](https://filestr.vercel.app) | HTML midia gateway | [[source]](https://github.com/verbiricha/filestr) | 🌐
+|[W3](w3.do) | Nostr URL shortener | [[source]](https://github.com/jinglescode/nostr-url-shortener) | 🌐
+|[Playground](https://playground.nostr.com) | Test Nostr filters | [[source]](https://github.com/sepehr-safari/nostr-playground) | 🌐
+|[Spring](https://spring.site) | Browser || 🌐 
 ___
 
 ### Places
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Wherostr](https://wherostr.social) - Travel and show where you are
-- [Arc Map (Mapstr)](https://mapstr.xyz) - Bitcoin Map [[info]](https://geyser.fund/project/arcmap)
+|[Wherostr](https://wherostr.social) | Travel and show where you are ||
+|[Arc Map (Mapstr)](https://mapstr.xyz) - Bitcoin Map | [[info]](https://geyser.fund/project/arcmap) |
 ___
 
 ### Driver and Delivery
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [RoadRunner](https://github.com/42Pupusas/RoadRunner) - Uber like [on development] ⏱️
-- [Arcade City](https://arcade.city) - Uber like [on development] ⏱️ [[info]](https://github.com/ArcadeCity)
-- [Nostrlivery](https://github.com/ODevLibertario/nostrlivery) - iFood like [on development] ⏱️
+|[RoadRunner](https://github.com/42Pupusas/RoadRunner) | Uber like [on development] | ⏱️
+|[Arcade City](https://arcade.city) | Uber like [on development] | ⏱️ [[info]](https://github.com/ArcadeCity) | ⏱️
+|[Nostrlivery](https://github.com/ODevLibertario/nostrlivery) | iFood like [on development] || ⏱️
 ___
 
 ## OTHER STUFF
@@ -265,20 +265,20 @@ ___
 ###  Lightning Wallets (zap)
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Alby](https://getalby.com/) - Native and extension [[info]](https://github.com/getAlby) 🌐
-- [ZBD](https://zbd.gg/) - Gaming and Social [[info]](https://github.com/zebedeeio/login-zbd-react-native-example) 🤖🍎
-- [Wallet of Satoshi](https://www.walletofsatoshi.com/) [[info]](https://github.com/conduition/wos) 🤖🍎
-- [Minibits](https://minibits.cash) - Cashu mobile wallet [[info]](https://github.com/minibits-cash/minibits_wallet) 🤖
-- [Blink](blink.sv) - Opensource custodial wallet (KYC over 1000 usd) [[source]](https://github.com/GaloyMoney/blinkbtc) 🤖🍎
-- [LNbits](lnbits.com) - App and extesion [[source]](https://github.com/lnbits/lnbits) 🤖🍎💻
-- [Zeus](https://zeusln.com) - [[info]](https://zeusln.com/about) [[source]](https://github.com/ZeusLN) 🤖🍎
+|[Alby](https://getalby.com/) | Native and extension | [[info]](https://github.com/getAlby) | 🌐
+|[ZBD](https://zbd.gg/) | Gaming and Social | [[info]](https://github.com/zebedeeio/login-zbd-react-native-example) | 🤖🍎
+|[Wallet of Satoshi](https://www.walletofsatoshi.com/) || [[info]](https://github.com/conduition/wos) | 🤖🍎
+|[Minibits](https://minibits.cash) | Cashu mobile wallet | [[info]](https://github.com/minibits-cash/minibits_wallet) | 🤖
+|[Blink](blink.sv) | Opensource custodial wallet (KYC over 1000 usd) | [[source]](https://github.com/GaloyMoney/blinkbtc) | 🤖🍎
+|[LNbits](lnbits.com) | App and extesion | [[source]](https://github.com/lnbits/lnbits) | 🤖🍎💻
+|[Zeus](https://zeusln.com) || [[info]](https://zeusln.com/about) [[source]](https://github.com/ZeusLN) | 🤖🍎
 ___
 
 ### Exchange
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Mostro](mostro.network) - P2P lightning exchange on Nostr [[info]](https://github.com/MostroP2P/mostro) 🌐
-- [Emptio](https://github.com/misesdev/emptio) - Bitcoin P2P on Nostr [on development]
+|[Mostro](mostro.network) | P2P lightning exchange on Nostr | [[info]](https://github.com/MostroP2P/mostro) | 🌐
+|[Emptio](https://github.com/misesdev/emptio) | Bitcoin P2P on Nostr [on development] | |
 ___
 
 ### Media Server (Upload Links)
@@ -287,20 +287,20 @@ audio, image and video
 Nip-96:
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Nostr Media](https://nostrmedia.com) - Blossom server wuth Max 25mb images and 100mb videos [[source]](https://github.com/nostrbuild/nostr.build) 🌐
-  
-- [Nostr Build](https://nostr.build) - Max 25mb [[source]](https://github.com/nostrbuild/nostr.build) 🌐
-- [Nostr Check](https://nostrcheck.me) - [[info]](https://nostrcheck.me/about/) [[source]](https://github.com/quentintaranpino/nostrcheck-server) 🌐
-- [NostPic](https://nostpic.com) - [[source]](https://github.com/quentintaranpino/nostrcheck-server) 🌐
-- [Sovbit](https://files.sovbit.com) 🌐
-- [Voidcat](https://void.cat) - [[source]](https://git.v0l.io/Kieran/void.cat/) 🌐
+|[Nostr Media](https://nostrmedia.com) | Blossom server wuth Max 25mb images and 100mb videos | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
+|||| 
+|[Nostr Build](https://nostr.build) | Max 25mb | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
+|[Nostr Check](https://nostrcheck.me) | [[info]](https://nostrcheck.me/about/) [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
+|[NostPic](https://nostpic.com) | | [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
+|[Sovbit](https://files.sovbit.com) || | 🌐
+|[Voidcat](https://void.cat) | | [[source]](https://git.v0l.io/Kieran/void.cat/) | 🌐
 
 Without Nip:
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-- [Pomf](https://pomf.lain.la/) - Upload larger videos max 1 gb [[source]](https://github.com/pomf/pomf)
-- [Catbox](https://catbox.moe) - Max 200mb [[source]](https://github.com/lunaticsm/catbox-uploader)
-- [x0](https://x0.at) - Max 222mb [[source]](https://github.com/Rouji/single_php_filehost)
+|[Pomf](https://pomf.lain.la/) | Upload larger videos max 1 gb | [[source]](https://github.com/pomf/pomf)
+|[Catbox](https://catbox.moe) | Max 200mb | [[source]](https://github.com/lunaticsm/catbox-uploader)
+|[x0](https://x0.at) | Max 222mb | [[source]](https://github.com/Rouji/single_php_filehost)
 ___
 
 ### Donation and payments
@@ -354,15 +354,15 @@ ___
 |[Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) | Between Matrix & Nostr ||
 |[Mostr](https://gitlab.com/soapbox-pub/mostr) | Between Nostr & Fediverse ||
 | [Nostrss](https://github.com/Asone/nostrss) | RSS to Nostr ||
-| [Rsslay](https://rss.nos.social/) | Optimized RSS to Nostr [[source]](https://github.com/piraces/rsslay)|
-| [Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr [[source]](https://git.sr.ht/~psic4t/atomstr) |
+| [Rsslay](https://rss.nos.social/) | Optimized RSS to Nostr | [[source]](https://github.com/piraces/rsslay)| 🌐
+| [Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr | [[source]](https://git.sr.ht/~psic4t/atomstr) | 🌐
 ___
 
 ## NOT RELATED TO NOSTR
 ___
 
 ### Fundamentals
-|Service|Description|Links
+|Service|Description|Links|
 |---|---|---|
 |A-2 | Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker) | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf)
 |Git | Repository Kernel | [[source]](https://git.kernel.org/pub/scm/git/git.git)
