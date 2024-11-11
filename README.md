@@ -207,7 +207,7 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[source]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
-|[Animal Sunset](https://animalsunset.com) | | Gererate videos by Lightning | [source]() | 🌐
+|[Animal Sunset](https://animalsunset.com) | | Gererate videos by Lightning | [source](https://github.com/satoshipuzzles/luma-ai-app) | 🌐
 |[Ai Rand](https://github.com/pubky/ai-rand) | Generate text with Pubky by Lightning | [source](https://github.com/pubky/ai-rand) |
 ___
 
@@ -224,6 +224,7 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Emojito](https://emojito.meme) | Send Funny Stickers to React | [[creator]](https://github.com/verbiricha) | 🌐
+|[]() | Customize Npub | ||
 ___
 
 ### Like other Services
