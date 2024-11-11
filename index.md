@@ -30,7 +30,8 @@ ___
             <td><a href="https://web.nostrmo.com">Nostrmo</a></td>
             <td></td>
             <td><a href="https://github.com/haorendashu/nostrmo">source</a></td>
-            <td>🌐🤖🍎💻(🐧🪟🍎)</td>
+            <td>📱 🌐🤖🍎
+                💻 🐧🪟🍏</td>
         </tr>
         <tr>
             <td><a href="https://coracle.social">Coracle</a></td>
@@ -108,7 +109,8 @@ ___
             <td><a href="https://yana.do">Yana</a></td>
             <td></td>
             <td><a href="https://github.com/frnandu/yana">source</a></td>
-            <td>🤖🍎🌐💻(🐧)</td>
+            <td>🤖🍎🌐
+                💻 🐧</td>
         </tr>
         <tr>
             <td><a href="https://nostribe.com">Nostribe</a></td>
@@ -120,13 +122,13 @@ ___
             <td><a href="https://lume.nu">Lume</a></td>
             <td></td>
             <td><a href="https://github.com/lumehq/lume">info</a> <a href="https://github.com/lumehq/lume">source</a></td>
-            <td>💻(🐧🪟🍎)</td>
+            <td>💻 🐧🪟🍎</td>
         </tr>
         <tr>
             <td><a href="https://github.com/mikedilger/gossip">Gossip</a></td>
             <td></td>
             <td><a href="https://github.com/mikedilger/gossip">source</a></td>
-            <td>💻(🐧🪟🍎)</td>
+            <td>💻 🐧🪟🍎</td>
         </tr>
         <tr>
             <td><a href="https://github.com/leo-lox/camelus">Camelus</a></td>
@@ -135,35 +137,69 @@ ___
             <td>🤖</td>
         </tr>
     </table>
+
+    <h3>Communities</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Platforms</th>
+        </tr>
+        <tr>
+            <td><a href="https://nostrudel.ninja">noStrudel</a></td>
+            <td>Gamified Experience</td>
+            <td><a href="https://github.com/hzrd149/nostrudel">info</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://nostr.kiwi">Nostr Kiwi</a></td>
+            <td></td>
+            <td><a href="https://github.com/jinglescode">creator</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://satellite.earth">Satellite</a></td>
+            <td></td>
+            <td><a href="https://github.com/lovvtide/satellite-web">info</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://soapbox.pub/">Soapbox</a></td>
+            <td>Community server</td>
+            <td><a href="https://soapbox.pub/about/">info</a> <a href="https://github.com/soapbox-pub/soapbox">source</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://ditto.pub/">Ditto</a></td>
+            <td>Soapbox community server</td>
+            <td><a href="https://gitlab.com/soapbox-pub/ditto">source</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://cobrafuma.com">Cobrafuma</a></td>
+            <td>Nostr Brazilian community on Ditto</td>
+            <td><a href="https://soapbox.pub/servers/">info</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://zapddit.com">Zapddit</a></td>
+            <td>Reddit like</td>
+            <td><a href="https://github.com/vivganes/zapddit">source</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/dluvian/voyage">Voyage</a></td>
+            <td>(Reddit like) on development</td>
+            <td></td>
+            <td>🤖</td>
+        </tr>
+    </table>
 </body>
 
 
-|[Current](https://app.getcurrent.io)| - |[[source]](https://github.com/starbackr-com/current)| 🤖🍎
-|[FreeFrom](https://freefrom.space)|-|-| 🤖🍎 
-|[Openvibe](https://openvibe.social)|Nostr and others (new Plebstr)|[[source]](https://github.com/Tweetoshi)| 🤖🍎
-|[Snort](https://snort.social)||[[source]](https://git.v0l.io/Kieran/snort)|🌐(🤖[early access]) 
-|[Damus](https://damus.io) ||[[source]](https://github.com/damus-io/damus)|🍎 
-|[Nos](https://nos.social)||[[source]](https://github.com/planetary-social/nos)|🍎
-|[Nostur](https://nostur.com)||[[source]](https://github.com/nostur-com/nostur-ios-public)|🍎
-|[NostrBand](https://nostr.band)||[[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)|🌐 
-|[Yana](https://yana.do)||[[source]](https://github.com/frnandu/yana)|🤖🍎🌐💻(🐧) 
-|[Nostribe](https://nostribe.com)|[on development]|[[source]](https://github.com/sepehr-safari/nostribe-web-client)|🌐
-|[Lume](https://lume.nu)||[[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)|💻(🐧🪟🍎) 
-|[Gossip](https://github.com/mikedilger/gossip)||[[source]](https://github.com/mikedilger/gossip)|💻(🐧🪟🍎)
-|[Camelus](https://github.com/leo-lox/camelus)|[early access]|[[source]](https://github.com/leo-lox/camelus)|🤖
----
 
-### Communities
-|Service|Description|Links|Plataforms|
-|---|---|---|---|
-|[noStrudel](https://nostrudel.ninja) | Gamified Experience | [[info]](https://github.com/hzrd149/nostrudel) | 🌐
-|[Nostr Kiwi](https://nostr.kiwi) || [[creator]](https://github.com/jinglescode) | 🌐
-|[Satellite](https://satellite.earth) || [[info]](https://github.com/lovvtide/satellite-web) | 🌐
-|[Soapbox](https://soapbox.pub/) | Comunnity server | [[info]](https://soapbox.pub/about/) [[source]](https://github.com/soapbox-pub/soapbox) | 🌐
-|[Ditto](https://ditto.pub/) | Soapbox comunnity server | [[source]](https://gitlab.com/soapbox-pub/ditto) | 🌐
-|[Cobrafuma](cobrafuma.com) | Nostr brazilian community on Ditto | [[info]](https://soapbox.pub/servers/) | 🌐
-|[Zapddit](https://zapddit.com) | Reddit like | [[source]](https://github.com/vivganes/zapddit) | 🌐
-|[Voyage](https://github.com/dluvian/voyage) | (Reddit like) [on development] || 🤖
+
 ---
 
 ### Wiki
