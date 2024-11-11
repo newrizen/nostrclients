@@ -206,9 +206,9 @@ ___
 ### AI
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-|[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[souce]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
-|[Animal Sunset](https://animalsunset.com) | | | 🌐
-| | | |
+|[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[source]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
+|[Animal Sunset](https://animalsunset.com) | | Gererate videos by Lightning | [source]() | 🌐
+|[Ai Rand](https://github.com/pubky/ai-rand) | Generate text with Pubky by Lightning | [source](https://github.com/pubky/ai-rand) |
 ___
 
 ### Games
