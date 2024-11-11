@@ -10,24 +10,27 @@ ___
 ## CLIENTS
 ___
 ### Twitter like
-- [Nostrmo](https://web.nostrmo.com) - [[source]](https://github.com/haorendashu/nostrmo) 🌐🤖🍎💻(🐧🪟🍎)
-- [Coracle](https://coracle.social) - Super App [[source]](https://github.com/coracle-social/coracle) 🌐
-- [Amethyst](https://amethyst.social) - Super App with note edit, delete and other stuff with Tor [[source]](https://github.com/vitorpamplona/amethyst) 🤖
-- [Primal](https://primal.net) - Social and wallet [[source]](https://github.com/PrimalHQ) 🌐🤖🍎
-- [Iris](https://iris.to) - [[source]](https://github.com/irislib) 🌐🤖🍎
-- [Current](https://app.getcurrent.io) - [[source]](https://github.com/starbackr-com/current) 🤖🍎
-- [FreeFrom](https://freefrom.space) 🤖🍎 
-- [Openvibe](https://openvibe.social) - Nostr and others (new Plebstr) [[source]](https://github.com/Tweetoshi) 🤖🍎
-- [Snort](https://snort.social) 🌐(🤖[early access]) [[source]](https://git.v0l.io/Kieran/snort)
-- [Damus](https://damus.io) 🍎 [[source]](https://github.com/damus-io/damus)
-- [Nos](https://nos.social) 🍎 [[source]](https://github.com/planetary-social/nos)
-- [Nostur](https://nostur.com) 🍎 [[source]](https://github.com/nostur-com/nostur-ios-public)
-- [NostrBand](https://nostr.band) 🌐 [[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)
-- [Yana](https://yana.do) 🤖🍎🌐💻(🐧) [[source]](https://github.com/frnandu/yana)
-- [Nostribe](https://nostribe.com) [on development] 🌐 [[source]](https://github.com/sepehr-safari/nostribe-web-client)
-- [Lume](https://lume.nu) 💻(🐧🪟🍎) [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)
-- [Gossip](https://github.com/mikedilger/gossip) - [[source]](https://github.com/mikedilger/gossip) 💻(🐧🪟🍎)
-- [Camelus](https://github.com/leo-lox/camelus) [early access] 🤖 [[source]](https://github.com/leo-lox/camelus)
+
+|Service|Description|Links|Plataforms|
+|---|---|---|---|
+|[Nostrmo](https://web.nostrmo.com)||[[source]](https://github.com/haorendashu/nostrmo)|🌐🤖🍎💻(🐧🪟🍎)
+|[Coracle](https://coracle.social)|Super App|[[source]](https://github.com/coracle-social/coracle)|🌐
+|[Amethyst](https://amethyst.social)|Super App with note edit, delete and other stuff with Tor|[[source]](https://github.com/vitorpamplona/amethyst)|🤖
+|[Primal](https://primal.net)| - Social and wallet |[[source]](https://github.com/PrimalHQ) |🌐🤖🍎
+|[Iris](https://iris.to) |- |[[source]](https://github.com/irislib) |🌐🤖🍎
+|[Current](https://app.getcurrent.io)| - |[[source]](https://github.com/starbackr-com/current)| 🤖🍎
+|[FreeFrom](https://freefrom.space)||| 🤖🍎 
+|[Openvibe](https://openvibe.social)| - Nostr and others (new Plebstr) |[[source]](https://github.com/Tweetoshi)| 🤖🍎
+|[Snort](https://snort.social)| 🌐(🤖[early access]) |[[source]](https://git.v0l.io/Kieran/snort)|
+|[Damus](https://damus.io) |🍎 |[[source]](https://github.com/damus-io/damus)|
+|[Nos](https://nos.social)| 🍎 |[[source]](https://github.com/planetary-social/nos)|
+|[Nostur](https://nostur.com)| 🍎 |[[source]](https://github.com/nostur-com/nostur-ios-public)|
+|[NostrBand](https://nostr.band)|[[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)|🌐 
+|[Yana](https://yana.do)|[[source]](https://github.com/frnandu/yana)|🤖🍎🌐💻(🐧) 
+|[Nostribe](https://nostribe.com)|[on development]|[[source]](https://github.com/sepehr-safari/nostribe-web-client)|🌐
+|[Lume](https://lume.nu)||[[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)|💻(🐧🪟🍎) 
+|[Gossip](https://github.com/mikedilger/gossip)||[[source]](https://github.com/mikedilger/gossip)|💻(🐧🪟🍎)
+|[Camelus](https://github.com/leo-lox/camelus)|[early access]|[[source]](https://github.com/leo-lox/camelus)|🤖
 ---
 
 ### Communities
@@ -238,6 +241,10 @@ ___
 ### Media Server (Upload Links)
 audio, image and video
 
+Nip-96:
+
+- [Nostr Media](https://nostrmedia.com) - Blossom server wuth Max 25mb images and 100mb videos [[source]](https://github.com/nostrbuild/nostr.build) 🌐
+  
 - [Nostr Build](https://nostr.build) - Max 25mb [[source]](https://github.com/nostrbuild/nostr.build) 🌐
 - [Nostr Check](https://nostrcheck.me) - [[info]](https://nostrcheck.me/about/) [[source]](https://github.com/quentintaranpino/nostrcheck-server) 🌐
 - [NostPic](https://nostpic.com) - [[source]](https://github.com/quentintaranpino/nostrcheck-server) 🌐
