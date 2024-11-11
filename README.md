@@ -407,10 +407,10 @@ ___
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Brave](https://brave.com) | Browser | [[source]](https://github.com/brave/brave-browser) |
-| [DuckDuckGo](https://duckduckgo.com) | Search | [[source]](https://github.com/deedy5/duckduckgo_search) |
-| [LLMA - Meta](https://github.com/meta-llama) | Meta open source AI | [[source]](https://github.com/meta-llama) |
-| [DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/) | Famous AIs without Login | [[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md) |
-| [Proton Mail](https://proton.me/mail) | Mail | [[source]](https://github.com/ProtonMail) |
+|[DuckDuckGo](https://duckduckgo.com) | Search | [[source]](https://github.com/deedy5/duckduckgo_search) |  🌐
+|[LLMA - Meta](https://github.com/meta-llama) | Meta open source AI | [[source]](https://github.com/meta-llama) |
+|[DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/) | Famous AIs without Login | [[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md) | 🌐
+|[Proton Mail](https://proton.me/mail) | Mail | [[source]](https://github.com/ProtonMail) | 🤖
 
 Other open source index:
 [Degoogled Apps](https://tycrek.github.io/degoogle/)
