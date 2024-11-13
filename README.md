@@ -7,7 +7,7 @@
 
 #### Legend
 
-🌐 Web | 🤖 Android | 🍎 iPhone | 📱 Mobile | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍏 IOS | ⏱️ Unfinished
+🌐 Web | 🤖 Android | 🍎 IOS | 📱 Mobile | 💻 Desktop | 🐧 Linux | 🪟 Windows | 🍏 Mac | ⏱️ Unfinished
 ___
 
 ## CLIENTS
@@ -16,7 +16,7 @@ ___
 
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-|[Nostrmo](https://web.nostrmo.com)||[[source]](https://github.com/haorendashu/nostrmo)|🌐🤖🍎💻(🐧🪟🍎)
+|[Nostrmo](https://web.nostrmo.com)||[[source]](https://github.com/haorendashu/nostrmo)|🌐🤖🍎💻(🐧🪟🍏)
 |[Coracle](https://coracle.social)|Super App|[[source]](https://github.com/coracle-social/coracle)|🌐
 |[Amethyst](https://amethyst.social)|Super App with note edit, delete and other stuff with Tor|[[source]](https://github.com/vitorpamplona/amethyst)|🤖
 |[Primal](https://primal.net)| Social and wallet |[[source]](https://github.com/PrimalHQ) |🌐🤖🍎
@@ -31,14 +31,15 @@ ___
 |[NostrBand](https://nostr.band)||[[info]](https://nostr.band/about.html) [[source]](https://github.com/nostrband)|🌐 
 |[Yana](https://yana.do)||[[source]](https://github.com/frnandu/yana)|🤖🍎🌐💻(🐧) 
 |[Nostribe](https://nostribe.com)|[on development]|[[source]](https://github.com/sepehr-safari/nostribe-web-client)|🌐
-|[Lume](https://lume.nu)||[[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)|💻(🐧🪟🍎) 
-|[Gossip](https://github.com/mikedilger/gossip)||[[source]](https://github.com/mikedilger/gossip)|💻(🐧🪟🍎)
+|[Lume](https://lume.nu)||[[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume)|💻(🐧🪟🍏) 
+|[Gossip](https://github.com/mikedilger/gossip)||[[source]](https://github.com/mikedilger/gossip)|💻(🐧🪟🍏)
 |[Camelus](https://github.com/leo-lox/camelus)|[early access]|[[source]](https://github.com/leo-lox/camelus)|🤖
 ---
 
 ### Communities
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
+|[Chachi Chat](https://chachi.chat) | Discord Like | | 🌐
 |[noStrudel](https://nostrudel.ninja) | Gamified Experience | [[info]](https://github.com/hzrd149/nostrudel) | 🌐
 |[Nostr Kiwi](https://nostr.kiwi) || [[creator]](https://github.com/jinglescode) | 🌐
 |[Satellite](https://satellite.earth) || [[info]](https://github.com/lovvtide/satellite-web) | 🌐
@@ -333,7 +334,7 @@ ___
 |---|---|---|---|
 |[Nos2x](https://github.com/fiatjaf/nos2x) || Account access keys | 🌐
 |[Nsec.app](https://nsec.app/) || [[info]](https://github.com/nostrband/noauth) | 🌐
-|[Lume](https://lume.nu/) || [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume) |  🐧🪟🍎
+|[Lume](https://lume.nu/) || [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume) |  🐧🪟🍏
 |[Satcom](https://satcom.app) | Share files to discuss | [[info]](https://github.com/jinglescode/web-content-conversation) | 🌐
 |[KeysBand](keys.band) | Multi-key signing | [[source]](https://github.com/toastr-space/keys-band) | 🌐
 ___
@@ -389,8 +390,8 @@ ___
 ### Personal Documents
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
-|[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
-|[OnlyOffice](https://www.onlyoffice.com/) | Docs cloud | [[source]](https://github.com/ONLYOFFICE/) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
+|[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍏)
+|[OnlyOffice](https://www.onlyoffice.com/) | Docs cloud | [[source]](https://github.com/ONLYOFFICE/) | 📱(🤖🍎) - 💻 (🐧🪟🍏)
 |[CryptPad](https://cryptpad.org) | Docs cloud instances | [[source]](http://github.com/cryptpad/cryptpad) | 🌐
 ___
 
