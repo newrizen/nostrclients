@@ -211,7 +211,7 @@ ___
         <tr>
             <td><a href="https://github.com/dluvian/voyage">Voyage</a></td>
             <td>Reddit like (on development)</td>
-            <td><a href="https://github.com/dluvian/voyage">[source]</a></td></td>
+            <td><a href="https://github.com/dluvian/voyage">[source]</a></td>
             <td>🤖</td>
         </tr>
         </tbody>
@@ -1795,49 +1795,49 @@ ___
 </div>
 
 <div>
-<h3>Other Services</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://brave.com">Brave</a></td>
-      <td>Browser</td>
-      <td><a href="https://github.com/brave/brave-browser">[source]</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://duckduckgo.com">DuckDuckGo</a></td>
-      <td>Search</td>
-      <td><a href="https://github.com/deedy5/duckduckgo_search">[source]</a></td>
-      <td>🌐</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/meta-llama">LLMA - Meta</a></td>
-      <td>Meta library</td>
-      <td><a href="https://github.com/meta-llama/meta-llama-chat-gpt">[source]</a></td>
-      <td>🌐</td>
-    <tr>
-      <td><a href="https://duckduckgo.com/duckduckgo-help-pages/aichat/">DuckDuckGo AI Chat</a></td> 
-      <td>Famous AIs without Login</td> 
-      <td><a href="https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md">[source]</a></td>
-      <td>🌐</td>
-    </tr>
-    <tr>
-        <td><a href="https://proton.me/mail">Proton Mail</a></td>
-        <td>Mail</td>
-        <td><a href="https://github.com/ProtonMail">[source]</a></td>
-        <td>🤖</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
+    <h3>Other Services</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Service</th>
+          <th>Description</th>
+          <th>Links</th>
+          <th>Access</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://brave.com">Brave</a></td>
+          <td>Browser</td>
+          <td><a href="https://github.com/brave/brave-browser">[source]</a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><a href="https://duckduckgo.com">DuckDuckGo</a></td>
+          <td>Search</td>
+          <td><a href="https://github.com/deedy5/duckduckgo_search">[source]</a></td>
+          <td>🌐</td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/meta-llama">LLMA - Meta</a></td>
+          <td>Meta library</td>
+          <td><a href="https://github.com/meta-llama/meta-llama-chat-gpt">[source]</a></td>
+          <td>🌐</td>
+        <tr>
+          <td><a href="https://duckduckgo.com/duckduckgo-help-pages/aichat/">DuckDuckGo AI Chat</a></td> 
+          <td>Famous AIs without Login</td> 
+          <td><a href="https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md">[source]</a></td>
+          <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://proton.me/mail">Proton Mail</a></td>
+            <td>Mail</td>
+            <td><a href="https://github.com/ProtonMail">[source]</a></td>
+            <td>🤖</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
 </div>
 
 Other open source index:
