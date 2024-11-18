@@ -1439,223 +1439,141 @@ ___
         <td>🌐</td>
       </tr>
       <tr>
-        <td><a href="https://browser.nostrs.org">Nostr Browser</a></td>
-        <td></td>
-        <td><a href="https://github.com/jackpotty/nostr-browser">source</a></td>
-        <td>🌐</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/fiatjaf/nostr-browser">Nostr Plugin</a></td>
-        <td>For Browsers</td>
-        <td><a href="https://github.com/fiatjaf/nostr-browser">info</a></td>
-        <td>🧑‍💻🍿</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/fiatjaf/zeus">Zeus</a></td>
-        <td>Relay setup</td>
-        <td><a href="https://github.com/fiatjaf/zeus">info</a></td>
+        <td><a href="https://keys.band">KeysBand</a></td>
+        <td>Multi-key signing</td>
+        <td><a href="https://github.com/toastr-space/keys-band">[source]</a></td>
         <td>🌐</td>
       </tr>
     </tbody>
   </table>
 </div>
+___
+<div>
+  <h3>Code</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://nostrify.dev">Nostrify</a></td>
+        <td>Share Nostr Frameworks</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://gitworkshop.dev">Git Workshop</a></td>
+        <td>(GitHub like) [experimental]</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/fiatjaf/gitstr">Gitstr</a></td>
+        <td>(GitHub like) [on development]</td>
+        <td></td>
+        <td>⏱️</td>
+      </tr>
+      <tr>
+        <td><a href="https://osty.dev">Osty</a></td>
+        <td>[on development]</td>
+        <td><a href="https://github.com/ostyjs/create-osty">info</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/jeffthibault/python-nostr">Python Nostr</a></td>
+        <td>Python Library for Nostr</td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
 
-
-
 <div>
-<h3>Media Server (Upload Links)</h3>
-audio, image and video
-
-Nip-96:
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Nostr Media](https://nostrmedia.com) | Blossom server wuth Max 25mb images and 100mb videos | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
-|||| 
-|[Nostr Build](https://nostr.build) | Max 25mb | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
-|[Nostr Check](https://nostrcheck.me) | | [[info]](https://nostrcheck.me/about/) [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
-|[NostPic](https://nostpic.com) | | [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
-|[Sovbit](https://files.sovbit.com) || | 🌐
-|[Voidcat](https://void.cat) | | [[source]](https://git.v0l.io/Kieran/void.cat/) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
+  <h3>Relay Check and Backup</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://nostr.watch">Nostr Watch</a></td>
+        <td>See your relay speed</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://nosdrive.app">NosDrive</a></td>
+        <td>Nostr Relay that saves to Google Drive</td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
 </div>
 
-Without Nip:
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Pomf](https://pomf.lain.la/) | Upload larger videos max 1 gb | [[source]](https://github.com/pomf/pomf)
-|[Catbox](https://catbox.moe) | Max 200mb | [[source]](https://github.com/lunaticsm/catbox-uploader)
-|[x0](https://x0.at) | Max 222mb | [[source]](https://github.com/Rouji/single_php_filehost)
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
 <div>
-<h3>Donation and payments</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Zapper](https://zap.nostraps.org) | Easy Zaps | [[source]](https://github.com/nostrband/zapper) | 🌐
-|[Autozap](https://zapplepay.com/autozap) || [[source]](https://github.com/benthecarman/zapple-pay-backend) | 🌐
-|[Nostr Zap](https://github.com/SamSamskies/nostr-zap) ||| 💻(numpy)
-|[Creatr](https://creatr.nostr.wine) | Creators subscription || 🌐
-|[Geyzer](https://geyzer.fund) | Crowdfunding | [[info]](https://geyser.fund/about) [[source]](https://github.com/geyserfund/geyser-app) | 🌐
-|[Heya!](https://heya.fund/) | Crowdfunding | [[source]](https://github.com/verbiricha/goalz) |
-    </tr>
-  </tbody>
-</table>
-<hr>
+  <h3>Bridges and Gateways</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/8go/matrix-nostr-bridge">Matrixtr Bridge</a></td>
+        <td>Between Matrix & Nostr</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://gitlab.com/soapbox-pub/mostr">Mostr</a></td>
+        <td>Between Nostr & Fediverse</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Asone/nostrss">Nostrss</a></td>
+        <td>RSS to Nostr</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://rss.nos.social/">Rsslay</a></td>
+        <td>Optimized RSS to Nostr</td>
+        <td><a href="https://github.com/piraces/rsslay">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://atomstr.data.haus/">Atomstr</a></td>
+        <td>RSS/Atom to Nostr</td>
+        <td><a href="https://git.sr.ht/~psic4t/atomstr">source</a></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
 </div>
-___
-<div>
-<h3>Security</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Secret Border](https://github.com/guilhermegps/secret-border) | Generate offline keys | | 💻(java)
-|[Umbrel](https://umbrel.com) | Your private relay | [[source]](https://github.com/getumbrel) | 🌐
-|[Private QRcode](https://antonioconselheiro.github.io/private-qrcode) | Read and Generate encrypted QR code| [[source]](https://github.com/antonioconselheiro/private-qrcode) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Extensions</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Nos2x](https://github.com/fiatjaf/nos2x) || Account access keys | 🌐
-|[Nsec.app](https://nsec.app/) || [[info]](https://github.com/nostrband/noauth) | 🌐
-|[Lume](https://lume.nu/) || [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume) |  🐧🪟🍎
-|[Satcom](https://satcom.app) | Share files to discuss | [[info]](https://github.com/jinglescode/web-content-conversation) | 🌐
-|[KeysBand](keys.band) | Multi-key signing | [[source]](https://github.com/toastr-space/keys-band) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Code</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Nostrify](https://nostrify.dev) | Share Nostr Frameworks || 🌐
-|[Git Workshop](https://gitworkshop.dev) | (github like) [experimental] || 🌐
-|[Gitstr](https://github.com/fiatjaf/gitstr) | (github like) [on development] || ⏱️
-|[Osty](https://osty.dev) | [on development] | [[info]](https://github.com/ostyjs/create-osty) | 🌐
-|[Python Nostr](https://github.com/jeffthibault/python-nostr) | Python Library for Nostr | |
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Relay Check and Backup</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Nostr Watch](https://nostr.watch) | See your relay speed || 🌐
-|[NosDrive](https://nosdrive.app) | Nostr Relay that saves to Google Drive ||
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Bridges and Getways</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) | Between Matrix & Nostr ||
-|[Mostr](https://gitlab.com/soapbox-pub/mostr) | Between Nostr & Fediverse ||
-|[Nostrss](https://github.com/Asone/nostrss) | RSS to Nostr ||
-|[Rsslay](https://rss.nos.social/) | Optimized RSS to Nostr | [[source]](https://github.com/piraces/rsslay)| 🌐
-|[Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr | [[source]](https://git.sr.ht/~psic4t/atomstr) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
+
 <div>
 <h2>NOT RELATED TO NOSTR</h2>
-___
-
+<hr>
 <h3>Fundamentals</h3>
 <table>
   <thead>
@@ -1861,16 +1779,16 @@ ___
       <td><a href="https://github.com/meta-llama/meta-llama-chat-gpt">[source]</a></td>
       <td>🌐</td>
     <tr>
-      <th><a href="https://duckduckgo.com/duckduckgo-help-pages/aichat/">DuckDuckGo AI Chat</a></th> 
-      <th>Famous AIs without Login</th> 
-      <th><a href="https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md">[source]</a></th>
-      <th>🌐</th>
+      <td><a href="https://duckduckgo.com/duckduckgo-help-pages/aichat/">DuckDuckGo AI Chat</a></td> 
+      <td>Famous AIs without Login</td> 
+      <td><a href="https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md">[source]</a></td>
+      <td>🌐</td>
     </tr>
     <tr>
-        <th><a href="https://proton.me/mail">Proton Mail</a></th>
-        <th>Mail</th>
-        <th><a href="https://github.com/ProtonMail">[source]</a></th>
-        <th>🤖</th>
+        <td><a href="https://proton.me/mail">Proton Mail</a></td>
+        <td>Mail</td>
+        <td><a href="https://github.com/ProtonMail">[source]</a></td>
+        <td>🤖</td>
     </tr>
   </tbody>
 </table>
