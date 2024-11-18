@@ -1860,5 +1860,5 @@ More about Nostr:
 - [NIPs](https://github.com/nostr-protocol/nips)
 
 <div>
-<p text-align: center><a href="https://newrizen.github.io/me/">Main Page</a></p>
+<p  style="text-align: center;"><a href="https://newrizen.github.io/me/">Main Page</a></p>
 </div>
