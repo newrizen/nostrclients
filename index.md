@@ -527,7 +527,7 @@ ___
         <td>Hacker News like</td>
         <td>
           <a href="https://oddbean.com/about">info</a>
-          <a href="https://github.com/hoytech/strfry/tree/web/src/apps/web">source</a>
+          <a href="https://github.com/hoytech/strfry/tree/web/src/apps/web">[source]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -576,7 +576,7 @@ ___
         <td><a href="https://0xchat.com">0xchat</a></td>
         <td></td>
         <td>
-          <a href="https://github.com/0xchat-app">source</a>
+          <a href="https://github.com/0xchat-app">[source]</a>
         </td>
         <td>🤖🍎</td>
       </tr>
@@ -584,7 +584,7 @@ ___
         <td><a href="https://nostrchat.io">Nostr Chat</a></td>
         <td></td>
         <td>
-          <a href="https://github.com/NostrChat/NostrChat">source</a>
+          <a href="https://github.com/NostrChat/NostrChat">[source]</a>
         </td>
         <td>🌐🍎</td>
       </tr>
@@ -592,7 +592,7 @@ ___
         <td><a href="https://blowater.deno.dev">Blowater</a></td>
         <td></td>
         <td>
-          <a href="https://github.com/BlowaterNostr/blowater">source</a>
+          <a href="https://github.com/BlowaterNostr/blowater">[source]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -600,7 +600,7 @@ ___
         <td><a href="https://anigma.io">Anigma</a></td>
         <td>(new nostrgram) - Telegram based [on development]</td>
         <td>
-          <a href="https://github.com/brilliancebitcoin/nostrgram">source</a>
+          <a href="https://github.com/brilliancebitcoin/nostrgram">[source]</a>
         </td>
         <td></td>
       </tr>
@@ -608,7 +608,7 @@ ___
         <td><a href="https://keychat.io">Keychat</a></td>
         <td>Signal based</td>
         <td>
-          <a href="https://github.com/rohanharikr/keychat.online">source</a>
+          <a href="https://github.com/rohanharikr/keychat.online">[source]</a>
         </td>
         <td>🤖🍎 [on development]</td>
       </tr>
@@ -665,7 +665,7 @@ ___
         <td><a href="https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c">Alexandria</a></td>
         <td>e-Reader and Nostr Knowledge Base (NKB)</td>
         <td>
-          <a href="https://github.com/ShadowySupercode/gc-alexandria">source</a>
+          <a href="https://github.com/ShadowySupercode/gc-alexandria">[source]</a>
         </td>
         <td></td>
       </tr>
@@ -731,7 +731,7 @@ ___
         <td><a href="https://listr.lol">Listr</a></td>
         <td>Lists</td>
         <td>
-          <a href="https://github.com/erskingardner/listr">source</a>
+          <a href="https://github.com/erskingardner/listr">[source]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -739,7 +739,7 @@ ___
         <td><a href="https://github.com/jrc-dev/nostr-potatoes">Nostr Potatoes</a></td>
         <td>Movies List</td>
         <td>
-          <a href="https://github.com/jrc-dev/nostr-potatoes">source</a>
+          <a href="https://github.com/jrc-dev/nostr-potatoes">[source]</a>
         </td>
         <td>💻 (numpy)</td>
       </tr>
@@ -1005,13 +1005,13 @@ ___
       <tr>
         <td><a href="https://antonioconselheiro.github.io/omeglestr/#links">Omeglestr</a></td>
         <td>Omegle-like Random Chats</td>
-        <td><a href="https://github.com/antonioconselheiro/omeglestr">source</a></td>
+        <td><a href="https://github.com/antonioconselheiro/omeglestr">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://hivetalk.org/">Hivetalk</a></td>
         <td>Omegle-like Random Video Chats</td>
-        <td><a href="https://github.com/HiveTalk">source</a></td>
+        <td><a href="https://github.com/HiveTalk">[source]</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -1034,25 +1034,25 @@ ___
       <tr>
         <td><a href="https://njump.me">Njump</a></td>
         <td>HTML text gateway</td>
-        <td><a href="https://github.com/fiatjaf/njump">source</a></td>
+        <td><a href="https://github.com/fiatjaf/njump">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://filestr.vercel.app">Filestr</a></td>
         <td>HTML media gateway</td>
-        <td><a href="https://github.com/verbiricha/filestr">source</a></td>
+        <td><a href="https://github.com/verbiricha/filestr">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://w3.do">W3</a></td>
         <td>Nostr URL shortener</td>
-        <td><a href="https://github.com/jinglescode/nostr-url-shortener">source</a></td>
+        <td><a href="https://github.com/jinglescode/nostr-url-shortener">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://playground.nostr.com">Playground</a></td>
         <td>Test Nostr filters</td>
-        <td><a href="https://github.com/sepehr-safari/nostr-playground">source</a></td>
+        <td><a href="https://github.com/sepehr-safari/nostr-playground">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
@@ -1171,19 +1171,19 @@ ___
       <tr>
         <td><a href="https://blink.sv">Blink</a></td>
         <td>Opensource custodial wallet (KYC over 1000 USD)</td>
-        <td><a href="https://github.com/GaloyMoney/blinkbtc">source</a></td>
+        <td><a href="https://github.com/GaloyMoney/blinkbtc">[source]</a></td>
         <td>🤖🍎</td>
       </tr>
       <tr>
         <td><a href="https://lnbits.com">LNbits</a></td>
         <td>App and extension</td>
-        <td><a href="https://github.com/lnbits/lnbits">source</a></td>
+        <td><a href="https://github.com/lnbits/lnbits">[source]</a></td>
         <td>🤖🍎💻</td>
       </tr>
       <tr>
         <td><a href="https://zeusln.com">Zeus</a></td>
         <td></td>
-        <td><a href="https://zeusln.com/about">info</a> <a href="https://github.com/ZeusLN">source</a></td>
+        <td><a href="https://zeusln.com/about">info</a> <a href="https://github.com/ZeusLN">[source]</a></td>
         <td>🤖🍎</td>
       </tr>
     </tbody>
@@ -1434,25 +1434,25 @@ ___
     <tr>
       <td><a href="https://git.kernel.org/pub/scm/git/git.git">Git</a></td>
       <td>Repository Kernel</td>
-      <td><a href="https://git.kernel.org/pub/scm/git/git.git">source</a></td>
+      <td><a href="https://git.kernel.org/pub/scm/git/git.git">[source]</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/torvalds/linux">Linux</a></td>
       <td>OS Kernel</td>
-      <td><a href="https://github.com/torvalds/linux">source</a></td>
+      <td><a href="https://github.com/torvalds/linux">[source]</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/bitcoin">Bitcoin</a></td>
       <td>Decentralized cryptocurrency</td>
-      <td><a href="https://github.com/bitcoin">source</a></td>
+      <td><a href="https://github.com/bitcoin">[source]</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/nostr-protocol/nostr">Nostr</a></td>
       <td>Censorship-resistent notes</td>
-      <td><a href="https://github.com/nostr-protocol/nostr">source</a></td>
+      <td><a href="https://github.com/nostr-protocol/nostr">[source]</a></td>
       <td></td>
     </tr>
   </tbody>
@@ -1475,19 +1475,19 @@ ___
     <tr>
       <td><a href="https://keyboard.futo.org/">Futo</a></td>
       <td>Gboard like</td>
-      <td><a href="https://github.com/futo-org/android-keyboard/releases">source</a></td>
+      <td><a href="https://github.com/futo-org/android-keyboard/releases">[source]</a></td>
       <td>🤖</td>
     </tr>
     <tr>
       <td><a href="https://florisboard.org">Florisboard</a></td>
       <td></td>
-      <td><a href="https://github.com/florisboard/florisboard">source</a></td>
+      <td><a href="https://github.com/florisboard/florisboard">[source]</a></td>
       <td>🤖</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Helium314/HeliBoard">Heliboard</a></td>
       <td>Openboard based</td>
-      <td><a href="https://github.com/Helium314/HeliBoard">source</a></td>
+      <td><a href="https://github.com/Helium314/HeliBoard">[source]</a></td>
       <td>🤖</td>
     </tr>
   </tbody>
@@ -1510,19 +1510,19 @@ ___
     <tr>
       <td><a href="https://joplinapp.org/">Joplin</a></td>
       <td>Privacy-focused note taking app with sync capabilities</td>
-      <td><a href="https://github.com/laurent22/joplin">source</a></td>
+      <td><a href="https://github.com/laurent22/joplin">[source]</a></td>
       <td>📱(🤖🍎) - 💻 (🐧🪟🍎)</td>
     </tr>
     <tr>
       <td><a href="https://www.onlyoffice.com/">OnlyOffice</a></td>
       <td>Docs cloud</td>
-      <td><a href="https://github.com/ONLYOFFICE/">source</a></td>
+      <td><a href="https://github.com/ONLYOFFICE/">[source]</a></td>
       <td>📱(🤖🍎) - 💻 (🐧🪟🍎)</td>
     </tr>
     <tr>
       <td><a href="https://cryptpad.org">CryptPad</a></td>
       <td>Docs cloud instances</td>
-      <td><a href="http://github.com/cryptpad/cryptpad">source</a></td>
+      <td><a href="http://github.com/cryptpad/cryptpad">[source]</a></td>
       <td>🌐</td>
     </tr>
   </tbody>
@@ -1545,43 +1545,43 @@ ___
     <tr>
       <td><a href="https://nitter.poast.org/">Nitter</a></td>
       <td>Twitter / X without your data</td>
-      <td><a href="https://github.com/zedeus/nitter">source</a></td>
+      <td><a href="https://github.com/zedeus/nitter">[source]</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://newpipe.net/">NewPipe</a></td>
       <td>YouTube, Peertube and others, without account & your data</td>
-      <td><a href="https://github.com/TeamNewPipe/NewPipe">source</a></td>
+      <td><a href="https://github.com/TeamNewPipe/NewPipe">[source]</a></td>
       <td>🤖</td>
     </tr>
     <tr>
       <td><a href="https://github.com/polymorphicshade/Tubular">Tubular</a></td>
       <td>A NewPipe fork + SponsorBlock + ReturnYoutubeDislike</td>
-      <td><a href="https://github.com/polymorphicshade/Tubular">source</a></td>
+      <td><a href="https://github.com/polymorphicshade/Tubular">[source]</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/bravenewpipe/NewPipe">BraveNewPipe</a></td>
       <td>A NewPipe fork + SponsorBlock + BitChute + Rumble</td>
-      <td><a href="https://github.com/bravenewpipe/NewPipe">source</a></td>
+      <td><a href="https://github.com/bravenewpipe/NewPipe">[source]</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://freetubeapp.io/">FreeTube</a></td>
       <td>YouTube frontend for desktop</td>
-      <td><a href="https://github.com/FreeTubeApp/FreeTube">source</a></td>
+      <td><a href="https://github.com/FreeTubeApp/FreeTube">[source]</a></td>
       <td>💻</td>
     </tr>
     <tr>
       <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">FreeTubeAndroid</a></td>
       <td>Freetube fork for Android</td>
-      <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">source</a></td>
+      <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">[source]</a></td>
       <td>🤖</td>
     </tr>
     <tr>
       <td><a href="https://piped.video">Piped</a></td>
       <td>YouTube web without your data</td>
-      <td><a href="https://github.com/TeamPiped/Piped">source</a></td>
+      <td><a href="https://github.com/TeamPiped/Piped">[source]</a></td>
       <td>🌐</td>
     </tr>
   </tbody>
@@ -1604,19 +1604,19 @@ ___
     <tr>
       <td><a href="https://brave.com">Brave</a></td>
       <td>Browser</td>
-      <td><a href="https://github.com/brave/brave-browser">source</a></td>
+      <td><a href="https://github.com/brave/brave-browser">[source]</a></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://duckduckgo.com">DuckDuckGo</a></td>
       <td>Search</td>
-      <td><a href="https://github.com/deedy5/duckduckgo_search">source</a></td>
+      <td><a href="https://github.com/deedy5/duckduckgo_search">[source]</a></td>
       <td>🌐</td>
     </tr>
     <tr>
       <td><a href="https://github.com/meta-llama">LLMA - Meta</a></td>
       <td>Meta library</td>
-      <td><a href="https://github.com/meta-llama/meta-llama-chat-gpt">source</a></td>
+      <td><a href="https://github.com/meta-llama/meta-llama-chat-gpt">[source]</a></td>
       <td>🌐</td>
     <tr>
       <th><a href="https://duckduckgo.com/duckduckgo-help-pages/aichat/">DuckDuckGo AI Chat</a></th> 
@@ -1627,7 +1627,7 @@ ___
     <tr>
         <th><a href="https://proton.me/mail">Proton Mail</a></th>
         <th>Mail</th>
-        <th><a href="https://github.com/ProtonMail">source</a></th>
+        <th><a href="https://github.com/ProtonMail">[source]</a></th>
         <th>🤖</th>
     </tr>
   </tbody>
