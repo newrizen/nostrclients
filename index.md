@@ -1823,6 +1823,7 @@ ___
           <td>Meta library</td>
           <td><a href="https://github.com/meta-llama/meta-llama-chat-gpt">[source]</a></td>
           <td>🌐</td>
+        </tr>
         <tr>
           <td><a href="https://duckduckgo.com/duckduckgo-help-pages/aichat/">DuckDuckGo AI Chat</a></td> 
           <td>Famous AIs without Login</td> 
