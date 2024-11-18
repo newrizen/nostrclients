@@ -974,7 +974,7 @@ ___
 </div>
 
 ___
-<section>
+<div>
   <h3>Like Other Services</h3>
   <table>
     <thead>
@@ -1019,9 +1019,9 @@ ___
     </tbody>
   </table>
   <hr>
-</section>
+</div>
 
-<section>
+<div>
   <h3>General Uses</h3>
   <table>
     <thead>
@@ -1066,9 +1066,9 @@ ___
     </tbody>
   </table>
   <hr>
-</section>
+</div>
 
-<section>
+<div>
   <h3>Places</h3>
   <table>
     <thead>
@@ -1095,10 +1095,10 @@ ___
     </tbody>
   </table>
   <hr>
-</section>
+</div>
 
 ___
-<section>
+<div>
   <h3>Driver and Delivery</h3>
   <table>
     <thead>
@@ -1131,9 +1131,9 @@ ___
     </tbody>
   </table>
   <hr>
-</section>
+</div>
 
-<section>
+<div>
   <h2>OTHER STUFF</h2>
   <h3>Lightning Wallets (zap)</h3>
   <table>
@@ -1191,9 +1191,9 @@ ___
     </tbody>
   </table>
   <hr>
-</section>
+</div>
 
-<section>
+<div>
   <h3>Exchange</h3>
   <table>
     <thead>
@@ -1220,7 +1220,7 @@ ___
     </tbody>
   </table>
   <hr>
-</section>
+</div>
 ___
 <div>
   <h3>Media Server (Upload Links)</h3>
