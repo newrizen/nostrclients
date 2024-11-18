@@ -147,7 +147,7 @@ ___
             <td>🤖</td>
         </tr>
     </table>
-</div>
+
 ---
 <div>
     <h3>Communities</h3>
@@ -207,7 +207,7 @@ ___
             <td>🤖</td>
         </tr>
     </table>
-</div>
+
 ---
 <div>
     <h3>Wiki</h3>
@@ -237,7 +237,7 @@ ___
             <td>🌐</td>
         </tr>
     </table>
-</div>
+
 ---
 <div>
     <h3>Search</h3>
@@ -267,8 +267,9 @@ ___
             <td></td>
         </tr>
     </table>
+    <hr>
 </div>
----
+
 <div>
     <h3>Website</h3>
     <table>
@@ -285,8 +286,9 @@ ___
             <td>🌐</td>
         </tr>
     </table>
+  <hr>
 </div>
----
+
 <div>
     <h3>App Store</h3>
     <table>
@@ -303,8 +305,9 @@ ___
             <td>🤖</td>
         </tr>
     </table>
+    <hr>
 </div>
----
+
 <div>
     <h3>Audio and Video Transmission</h3>
     <table>
@@ -339,8 +342,9 @@ ___
             <td>🌐</td>
         </tr>
     </table>
+    <hr>
 </div>
----
+
 <div>
     <h3>Video Streaming</h3>
     <table>
@@ -357,8 +361,9 @@ ___
             <td>🌐</td>
         </tr>
     </table>
+    <hr>
 </div>
----
+
 <div>
     <h3>Music</h3>
     <table>
@@ -393,8 +398,9 @@ ___
             <td>🌐</td>
         </tr>
     </table>
+    <hr>
 </div>
----
+
 <div>
     <h3>Event Discovery</h3>
     <table>
@@ -411,8 +417,9 @@ ___
             <td></td>
         </tr>
     </table>
+    <hr>
 </div>
----
+
 <div>
 <h3>Images</h3>
 <table>
