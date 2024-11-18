@@ -14,8 +14,8 @@ Contribute on github: <{{ site.github.repository_url }}>
 ___
 ## Legend
 
-🌐 Web - 📱 Mobile - 🤖 Android - 🍎 iPhone
-💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 IOS
+🌐 Web - 📱 Mobile - 🤖 Android - 🍎 iPhone <br>
+💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 IOS <br>
 ⏱️ Unfinished
 
 ___
