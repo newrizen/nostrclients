@@ -1059,7 +1059,7 @@ ___
         <td>🌐</td>
       </tr>
       <tr>
-        <td><a href="https://antonioconselheiro.github.io/omeglestr/#links">Omeglestr</a></td>
+        <td><a href="https://antonioconselheiro.github.io/omeglestr/">Omeglestr</a></td>
         <td>Omegle-like Random Chats</td>
         <td><a href="https://github.com/antonioconselheiro/omeglestr">[source]</a></td>
         <td>🌐</td>
