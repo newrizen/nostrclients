@@ -412,73 +412,101 @@ ___
         </tr>
     </table>
 </div>
-
-
-
 ---
+<div>
+<h3>Images</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://pinstr.app">Pinstr</a></td>
+      <td>Pinterest like</td>
+      <td><a href="https://github.com/sepehr-safari/pinstr">[source]</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://slidestr.net">Slidestr</a></td>
+      <td>DeviantArt like</td>
+      <td><a href="https://git.v0l.io/florian/nostr-slideshow">[source]</a></td>
+      <td>🌐</td>
+    </tr>
+    <tr>
+      <td><a href="https://memestr.app">Memestr</a></td>
+      <td>ifunny like</td>
+      <td><a href="https://github.com/AaruBama/memestr">[source]</a></td>
+      <td>🌐</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
 
-<h3>Wiki</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Wikifreedia](https://wikifreedia.xyz/)||[[source]](https://github.com/fiatjaf/wikifreedia) | 🌐
-|[Wikinostr](wikinostr.tijl.xyz)||[[source]](https://github.com/github-tijlxyz/wikinostr) | 🌐
-|[Wikistr](https://wikistr.com/)||[[info]](https://nostrapps.com/wikistr) [[source]](https://github.com/fiatjaf/wikistr) | 🌐
-___
+<h3>Download and Upload</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://dtan.xyz">DTAN</a></td>
+      <td>Distributed Torrent Archive on Nostr</td>
+      <td><a href="https://www.nobsbitcoin.com/dtan-xyz-nostr-torrent-archive/">[info]</a> <a href="https://git.v0l.io/Kieran/dtan">[source]</a></td>
+      <td>🌐</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
 
-<h3>Search</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Advanced nostr search](https://advancednostrsearch.vercel.app) | Advanced note search by isolated terms related to a npub profile | [[source]](https://github.com/SamSamskies/advancednostrsearch) | 🌐 
-|[Nos Today](https://nos.today) | Global note search by isolated terms | [[info]](https://nos.today/about) [[source]](https://github.com/darashi/searchnos) | 🌐
-|[Nostr Search Engine](https://find.nosbook.org/) | API for Nostr clients | [[source]](https://github.com/misesdev/nostr-search-api) |
----
-
-<h3>Website</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Npub pro](npub.pro) | Your site on Nostr | [[source]](https://github.com/nostrband/nostrsite/) |  🌐
-___
-
-<h3>App Store</h3>
-
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[ZapStore](https://zap.store) | Permitionless App Store | [[source]](https://github.com/zapstore) | 🤖
-
-___
-
-<h3>Audio and Video Transmission</h3>
-
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Nostr Nests](https://nostrnests.com) | Audio Chats | [[info]](https://github.com/nostrnests/nests) | 🌐 
-|[Fountain](https://fountain.fm) | Podcast | [[info]](https://github.com/fountain-fm) | 🤖🍎 
-|[ZapStream](https://zap.stream) | Live streaming | [[info]](https://github.com/v0l/zap.stream) | 🌐 
-|[Corny Chat](https://cornychat.com) | Audio Chat | [[info]](https://github.com/vicariousdrama/cornychat) | 🌐 
-___
-
-<h3>Video Streaming</h3>
-
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Flare](https://flare.pub) | Youtube like | [[source]](https://github.com/zmeyer44/flare) | 🌐 
-___
-
-<h3>Music</h3>
-
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Tidal](https://tidal.com) | Music Streaming | [[source]](https://github.com/tidal-music) [[about]](https://tidal.com/about) [[info]](https://developer.tidal.com/blog/tidal-embeds-the-other-stuff-transmitted-by-nostr) | 🤖🍎🌐
-|[Wavlake](https://wavlake.com) | Music Streaming | [[source]](https://github.com/wavlake/) | 🌐(🤖🍎 [early access])
-|[Tunestr](https://tunestr.io) | Musical Events | [[source]](https://github.com/caineroad/tunestr.io) [[about]](https://nostrapps.com/tunestr) | 🌐
-|[Stemstr](https://stemstr.app) | Musical Colab (paid to post) | [[source]](https://github.com/stemstr) [[about]](https://nostrapps.com/stemstr) | 🌐
-___
-
-<h3>Event Discovery</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Eventro](https://eventro-events.vercel.app/) | Event Ticket and Assistance | [[source]](https://github.com/unllamas/eventro_old) |
-___
+<h3>Documents</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://docstr.app/">Docstr</a></td>
+      <td>Share Docs</td>
+      <td><a href="https://nostrapps.com/docstr">[info]</a> <a href="https://github.com/sepehr-safari/docstr">[source]</a></td>
+      <td>🌐</td>
+    </tr>
+    <tr>
+      <td><a href="https://formstr.app">Formstr</a></td>
+      <td>Share Forms</td>
+      <td><a href="https://github.com/abhay-raizada/nostr-forms">[info]</a></td>
+      <td>🌐</td>
+    </tr>
+    <tr>
+      <td><a href="https://sheetstr.amethyst.social/">Sheetstr</a></td>
+      <td>Share Spreadsheets</td>
+      <td><a href="https://github.com/vitorpamplona/sheetstr">[source]</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://zaplinks.lol/slides/">Slide Maker</a></td>
+      <td>Share slides</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 
 <h3>Images</h3>
 |Service|Description|Links|Access|
