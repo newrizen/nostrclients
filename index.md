@@ -23,12 +23,15 @@ ___
     <h2>CLIENTS</h2>
     <h3>Twitter like</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://web.nostrmo.com">Nostrmo</a></td>
             <td></td>
@@ -146,6 +149,7 @@ ___
             <td><a href="https://github.com/leo-lox/camelus">[source]</a></td>
             <td>🤖</td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -153,12 +157,15 @@ ___
 <div>
     <h3>Communities</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://nostrudel.ninja">noStrudel</a></td>
             <td>Gamified Experience</td>
@@ -207,6 +214,7 @@ ___
             <td><a href="https://github.com/dluvian/voyage">[source]</a></td></td>
             <td>🤖</td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -214,12 +222,15 @@ ___
 <div>
     <h3>Wiki</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://wikifreedia.xyz/">Wikifreedia</a></td>
             <td></td>
@@ -238,6 +249,7 @@ ___
             <td><a href="https://nostrapps.com/wikistr">[info]</a> <a href="https://github.com/fiatjaf/wikistr">[source]</a></td>
             <td>🌐</td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -245,12 +257,15 @@ ___
 <div>
     <h3>Search</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://advancednostrsearch.vercel.app">Advanced Nostr Search</a></td>
             <td>Advanced note search by isolated terms related to a npub profile</td>
@@ -269,6 +284,7 @@ ___
             <td><a href="https://github.com/misesdev/nostr-search-api">[source]</a></td>
             <td></td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -276,18 +292,22 @@ ___
 <div>
     <h3>Website</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://npub.pro">Npub Pro</a></td>
             <td>Your site on Nostr</td>
             <td><a href="https://github.com/nostrband/nostrsite/">[source]</a></td>
             <td>🌐</td>
         </tr>
+        </tbody>
     </table>
   <hr>
 </div>
@@ -295,18 +315,23 @@ ___
 <div>
     <h3>App Store</h3>
     <table>
+    </table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://zap.store">ZapStore</a></td>
             <td>Permitionless App Store</td>
             <td><a href="https://github.com/zapstore">[source]</a></td>
             <td>🤖</td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -314,12 +339,15 @@ ___
 <div>
     <h3>Audio and Video Transmission</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://nostrnests.com">Nostr Nests</a></td>
             <td>Audio Chats</td>
@@ -344,6 +372,7 @@ ___
             <td><a href="https://github.com/vicariousdrama/cornychat">[info]</a></td>
             <td>🌐</td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -351,18 +380,22 @@ ___
 <div>
     <h3>Video Streaming</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://flare.pub">Flare</a></td>
             <td>Youtube like</td>
             <td><a href="https://github.com/zmeyer44/flare">[source]</a></td>
             <td>🌐</td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -370,12 +403,15 @@ ___
 <div>
     <h3>Music</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://tidal.com">Tidal</a></td>
             <td>Music Streaming</td>
@@ -400,6 +436,7 @@ ___
             <td><a href="https://github.com/stemstr">[source]</a> <a href="https://nostrapps.com/stemstr">[about]</a></td>
             <td>🌐</td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -407,18 +444,22 @@ ___
 <div>
     <h3>Event Discovery</h3>
     <table>
+        <thead>
         <tr>
             <th>Service</th>
             <th>Description</th>
             <th>Links</th>
             <th>Access</th>
         </tr>
+        </thead>
+        <tbody>
         <tr>
             <td><a href="https://eventro-events.vercel.app/">Eventro</a></td>
             <td>Event Ticket and Assistance</td>
             <td><a href="https://github.com/unllamas/eventro_old">[source]</a></td>
             <td></td>
         </tr>
+        </tbody>
     </table>
     <hr>
 </div>
@@ -538,7 +579,7 @@ ___
         <td><a href="https://oddbean.com">OddBean</a></td>
         <td>Hacker News like</td>
         <td>
-          <a href="https://oddbean.com/about">info</a>
+          <a href="https://oddbean.com/about">[info]</a>
           <a href="https://github.com/hoytech/strfry/tree/web/src/apps/web">[source]</a>
         </td>
         <td>🌐</td>
@@ -547,7 +588,7 @@ ___
         <td><a href="https://lowent.xyz">LowEnt</a></td>
         <td>Forum</td>
         <td>
-          <a href="https://github.com/gzuuus/lowent">info</a>
+          <a href="https://github.com/gzuuus/lowent">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -555,7 +596,7 @@ ___
         <td><a href="https://swarmstr.com/">Swarmstr</a></td>
         <td>Q&A / FAQ</td>
         <td>
-          <a href="https://github.com/ptrio42/swarmstr.com">info</a>
+          <a href="https://github.com/ptrio42/swarmstr.com">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -563,7 +604,7 @@ ___
         <td><a href="https://stacker.news/">Staker News</a></td>
         <td>Hacker News like</td>
         <td>
-          <a href="https://github.com/stackernews/stacker.news">info</a>
+          <a href="https://github.com/stackernews/stacker.news">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -645,7 +686,7 @@ ___
         <td><a href="https://highlighter.com">Highlighter</a></td>
         <td>Insights with a highlighted read</td>
         <td>
-          <a href="https://github.com/pablof7z/highlighter">info</a>
+          <a href="https://github.com/pablof7z/highlighter">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -653,7 +694,7 @@ ___
         <td><a href="https://zephyr.coracle.social">Zephyr</a></td>
         <td>Calming to Read</td>
         <td>
-          <a href="https://github.com/coracle-social/zephyr">info</a>
+          <a href="https://github.com/coracle-social/zephyr">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -661,7 +702,7 @@ ___
         <td><a href="https://flycat.club">Flycat</a></td>
         <td>Clean and Healthy Feed</td>
         <td>
-          <a href="https://github.com/digi-monkey/flycat-web">info</a>
+          <a href="https://github.com/digi-monkey/flycat-web">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -669,7 +710,7 @@ ___
         <td><a href="https://nosta.me">Nosta</a></td>
         <td>Check Profiles [on development]</td>
         <td>
-          <a href="https://github.com/GBKS/nosta-me">info</a>
+          <a href="https://github.com/GBKS/nosta-me">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -702,7 +743,7 @@ ___
         <td><a href="https://habla.news">Habla</a></td>
         <td>Blog</td>
         <td>
-          <a href="https://github.com/verbiricha/habla.news">info</a>
+          <a href="https://github.com/verbiricha/habla.news">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -710,7 +751,7 @@ ___
         <td><a href="https://blogstack.io">Blogstack</a></td>
         <td>Blog</td>
         <td>
-          <a href="https://github.com/nodetec/blogstack">info</a>
+          <a href="https://github.com/nodetec/blogstack">[info]</a>
         </td>
         <td>🌐</td>
       </tr>
@@ -718,7 +759,7 @@ ___
         <td><a href="https://yakihonne.com">YakiHonne</a></td>
         <td>Articles and News</td>
         <td>
-          <a href="https://github.com/YakiHonne">info</a>
+          <a href="https://github.com/YakiHonne">[info]</a>
         </td>
         <td>🤖🍎🌐</td>
       </tr>
@@ -750,8 +791,7 @@ ___
       <tr>
         <td><a href="https://github.com/jrc-dev/nostr-potatoes">Nostr Potatoes</a></td>
         <td>Movies List</td>
-        <td>
-          <a href="https://github.com/jrc-dev/nostr-potatoes">[source]</a>
+        <td><a href="https://github.com/jrc-dev/nostr-potatoes">[source]</a>
         </td>
         <td>💻 (numpy)</td>
       </tr>
@@ -983,7 +1023,6 @@ ___
   <hr>
 </div>
 
-___
 <div>
   <h3>Like Other Services</h3>
   <table>
@@ -1005,7 +1044,7 @@ ___
       <tr>
         <td><a href="https://rabbit.syusui.net">Rabbit</a></td>
         <td>TweetDeck like</td>
-        <td><a href="https://github.com/syusui-s/rabbit">info</a></td>
+        <td><a href="https://github.com/syusui-s/rabbit">[info]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
@@ -1099,7 +1138,7 @@ ___
       <tr>
         <td><a href="https://mapstr.xyz">Arc Map (Mapstr)</a></td>
         <td>Bitcoin Map</td>
-        <td><a href="https://geyser.fund/project/arcmap">info</a></td>
+        <td><a href="https://geyser.fund/project/arcmap">[info]</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -1128,7 +1167,7 @@ ___
       <tr>
         <td><a href="https://arcade.city">Arcade City</a></td>
         <td>Uber like [on development]</td>
-        <td><a href="https://github.com/ArcadeCity">info</a></td>
+        <td><a href="https://github.com/ArcadeCity">[info]</a></td>
         <td>⏱️</td>
       </tr>
       <tr>
@@ -1158,25 +1197,25 @@ ___
       <tr>
         <td><a href="https://getalby.com/">Alby</a></td>
         <td>Native and extension</td>
-        <td><a href="https://github.com/getAlby">info</a></td>
+        <td><a href="https://github.com/getAlby">[info]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://zbd.gg/">ZBD</a></td>
         <td>Gaming and Social</td>
-        <td><a href="https://github.com/zebedeeio/login-zbd-react-native-example">info</a></td>
+        <td><a href="https://github.com/zebedeeio/login-zbd-react-native-example">[info]</a></td>
         <td>🤖🍎</td>
       </tr>
       <tr>
         <td><a href="https://www.walletofsatoshi.com/">Wallet of Satoshi</a></td>
         <td></td>
-        <td><a href="https://github.com/conduition/wos">info</a></td>
+        <td><a href="https://github.com/conduition/wos">[info]</a></td>
         <td>🤖🍎</td>
       </tr>
       <tr>
         <td><a href="https://minibits.cash">Minibits</a></td>
         <td>Cashu mobile wallet</td>
-        <td><a href="https://github.com/minibits-cash/minibits_wallet">info</a></td>
+        <td><a href="https://github.com/minibits-cash/minibits_wallet">[info]</a></td>
         <td>🤖</td>
       </tr>
       <tr>
@@ -1194,7 +1233,7 @@ ___
       <tr>
         <td><a href="https://zeusln.com">Zeus</a></td>
         <td></td>
-        <td><a href="https://zeusln.com/about">info</a> <a href="https://github.com/ZeusLN">[source]</a></td>
+        <td><a href="https://zeusln.com/about">[info]</a> <a href="https://github.com/ZeusLN">[source]</a></td>
         <td>🤖🍎</td>
       </tr>
     </tbody>
@@ -1217,7 +1256,7 @@ ___
       <tr>
         <td><a href="https://mostro.network">Mostro</a></td>
         <td>P2P lightning exchange on Nostr</td>
-        <td><a href="https://github.com/MostroP2P/mostro">info</a></td>
+        <td><a href="https://github.com/MostroP2P/mostro">[info]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
@@ -1249,25 +1288,25 @@ ___
       <tr>
         <td><a href="https://nostrmedia.com">Nostr Media</a></td>
         <td>Blossom server with Max 25mb images and 100mb videos</td>
-        <td><a href="https://github.com/nostrbuild/nostr.build">source</a></td>
+        <td><a href="https://github.com/nostrbuild/nostr.build">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://nostr.build">Nostr Build</a></td>
         <td>Max 25mb</td>
-        <td><a href="https://github.com/nostrbuild/nostr.build">source</a></td>
+        <td><a href="https://github.com/nostrbuild/nostr.build">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://nostrcheck.me">Nostr Check</a></td>
         <td></td>
-        <td><a href="https://nostrcheck.me/about/">info</a> <a href="https://github.com/quentintaranpino/nostrcheck-server">source</a></td>
+        <td><a href="https://nostrcheck.me/about/">[info]</a> <a href="https://github.com/quentintaranpino/nostrcheck-server">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://nostpic.com">NostPic</a></td>
         <td></td>
-        <td><a href="https://github.com/quentintaranpino/nostrcheck-server">source</a></td>
+        <td><a href="https://github.com/quentintaranpino/nostrcheck-server">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
@@ -1279,7 +1318,7 @@ ___
       <tr>
         <td><a href="https://void.cat">Voidcat</a></td>
         <td></td>
-        <td><a href="https://git.v0l.io/Kieran/void.cat/">source</a></td>
+        <td><a href="https://git.v0l.io/Kieran/void.cat/">[source]</a></td>
         <td>🌐</td>
       </tr>
     </tbody>
@@ -1299,19 +1338,19 @@ ___
       <tr>
         <td><a href="https://pomf.lain.la/">Pomf</a></td>
         <td>Upload larger videos max 1 gb</td>
-        <td><a href="https://github.com/pomf/pomf">source</a></td>
+        <td><a href="https://github.com/pomf/pomf">[source]</a></td>
         <td></td>
       </tr>
       <tr>
         <td><a href="https://catbox.moe">Catbox</a></td>
         <td>Max 200mb</td>
-        <td><a href="https://github.com/lunaticsm/catbox-uploader">source</a></td>
+        <td><a href="https://github.com/lunaticsm/catbox-uploader">[source]</a></td>
         <td></td>
       </tr>
       <tr>
         <td><a href="https://x0.at">x0</a></td>
         <td>Max 222mb</td>
-        <td><a href="https://github.com/Rouji/single_php_filehost">source</a></td>
+        <td><a href="https://github.com/Rouji/single_php_filehost">[source]</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -1334,13 +1373,13 @@ ___
       <tr>
         <td><a href="https://zap.nostraps.org">Zapper</a></td>
         <td>Easy Zaps</td>
-        <td><a href="https://github.com/nostrband/zapper">source</a></td>
+        <td><a href="https://github.com/nostrband/zapper">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://zapplepay.com/autozap">Autozap</a></td>
         <td></td>
-        <td><a href="https://github.com/benthecarman/zapple-pay-backend">source</a></td>
+        <td><a href="https://github.com/benthecarman/zapple-pay-backend">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
@@ -1358,13 +1397,13 @@ ___
       <tr>
         <td><a href="https://geyzer.fund">Geyzer</a></td>
         <td>Crowdfunding</td>
-        <td><a href="https://geyser.fund/about">info</a> <a href="https://github.com/geyserfund/geyser-app">source</a></td>
+        <td><a href="https://geyser.fund/about">[info]</a> <a href="https://github.com/geyserfund/geyser-app">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://heya.fund/">Heya!</a></td>
         <td>Crowdfunding</td>
-        <td><a href="https://github.com/verbiricha/goalz">source</a></td>
+        <td><a href="https://github.com/verbiricha/goalz">[source]</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -1393,13 +1432,13 @@ ___
       <tr>
         <td><a href="https://umbrel.com">Umbrel</a></td>
         <td>Your private relay</td>
-        <td><a href="https://github.com/getumbrel">source</a></td>
+        <td><a href="https://github.com/getumbrel">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://antonioconselheiro.github.io/private-qrcode">Private QRcode</a></td>
         <td>Read and Generate encrypted QR code</td>
-        <td><a href="https://github.com/antonioconselheiro/private-qrcode">source</a></td>
+        <td><a href="https://github.com/antonioconselheiro/private-qrcode">[source]</a></td>
         <td>🌐</td>
       </tr>
     </tbody>
@@ -1428,19 +1467,19 @@ ___
       <tr>
         <td><a href="https://nsec.app/">Nsec.app</a></td>
         <td></td>
-        <td><a href="https://github.com/nostrband/noauth">info</a></td>
+        <td><a href="https://github.com/nostrband/noauth">[info]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://lume.nu/">Lume</a></td>
         <td></td>
-        <td><a href="https://github.com/lumehq/lume">info</a> <a href="https://github.com/lumehq/lume">source</a></td>
+        <td><a href="https://github.com/lumehq/lume">[info]</a> <a href="https://github.com/lumehq/lume">[source]</a></td>
         <td>🐧🪟🍎</td>
       </tr>
       <tr>
         <td><a href="https://satcom.app">Satcom</a></td>
         <td>Share files to discuss</td>
-        <td><a href="https://github.com/jinglescode/web-content-conversation">info</a></td>
+        <td><a href="https://github.com/jinglescode/web-content-conversation">[info]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
@@ -1487,7 +1526,7 @@ ___
       <tr>
         <td><a href="https://osty.dev">Osty</a></td>
         <td>[on development]</td>
-        <td><a href="https://github.com/ostyjs/create-osty">info</a></td>
+        <td><a href="https://github.com/ostyjs/create-osty">[info]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
@@ -1563,13 +1602,13 @@ ___
       <tr>
         <td><a href="https://rss.nos.social/">Rsslay</a></td>
         <td>Optimized RSS to Nostr</td>
-        <td><a href="https://github.com/piraces/rsslay">source</a></td>
+        <td><a href="https://github.com/piraces/rsslay">[source]</a></td>
         <td>🌐</td>
       </tr>
       <tr>
         <td><a href="https://atomstr.data.haus/">Atomstr</a></td>
         <td>RSS/Atom to Nostr</td>
-        <td><a href="https://git.sr.ht/~psic4t/atomstr">source</a></td>
+        <td><a href="https://git.sr.ht/~psic4t/atomstr">[source]</a></td>
         <td>🌐</td>
       </tr>
     </tbody>
