@@ -1843,6 +1843,7 @@ ___
 
 Other open source index:
 [Degoogled Apps](https://tycrek.github.io/degoogle/)
+
 ---
 
 Some other Nostr index on:
