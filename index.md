@@ -167,6 +167,12 @@ ___
         </thead>
         <tbody>
         <tr>
+            <td><a href="https://chachi.chat">Chachi</a></td>
+            <td>Discord Like Chat</td>
+            <td><a href="https://git.v0l.io/verbiricha/chachi.git">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
             <td><a href="https://nostrudel.ninja">noStrudel</a></td>
             <td>Gamified Experience</td>
             <td><a href="https://github.com/hzrd149/nostrudel">[info]</a></td>
@@ -315,7 +321,6 @@ ___
 <div>
     <h3>App Store</h3>
     <table>
-    </table>
         <thead>
         <tr>
             <th>Service</th>
@@ -1854,5 +1859,6 @@ Some other Nostr index on:
 More about Nostr:
 - [NIPs](https://github.com/nostr-protocol/nips)
 
-
-[Main Page](https://newrizen.github.io/me/)
+<div>
+<p text-align: center><a href="https://newrizen.github.io/me/">Main Page</a></p>
+</div>
