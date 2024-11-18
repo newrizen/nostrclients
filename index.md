@@ -33,8 +33,9 @@ ___
             <td><a href="https://web.nostrmo.com">Nostrmo</a></td>
             <td></td>
             <td><a href="https://github.com/haorendashu/nostrmo">source</a></td>
-            <td>📱 🌐🤖🍎 <br>
-                💻 🐧🪟🍏</td>
+            <td>📱💻 <br>
+                🌐🤖🍎 <br>
+                🐧🪟🍏</td>
         </tr>
         <tr>
             <td><a href="https://coracle.social">Coracle</a></td>
@@ -207,7 +208,7 @@ ___
 
 ---
 
-### Wiki
+<h3>Wiki</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Wikifreedia](https://wikifreedia.xyz/)||[[source]](https://github.com/fiatjaf/wikifreedia) | 🌐
@@ -215,7 +216,7 @@ ___
 |[Wikistr](https://wikistr.com/)||[[info]](https://nostrapps.com/wikistr) [[source]](https://github.com/fiatjaf/wikistr) | 🌐
 ___
 
-### Search
+<h3>Search</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Advanced nostr search](https://advancednostrsearch.vercel.app) | Advanced note search by isolated terms related to a npub profile | [[source]](https://github.com/SamSamskies/advancednostrsearch) | 🌐 
@@ -223,13 +224,13 @@ ___
 |[Nostr Search Engine](https://find.nosbook.org/) | API for Nostr clients | [[source]](https://github.com/misesdev/nostr-search-api) |
 ---
 
-### Website
+<h3>Website</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Npub pro](npub.pro) | Your site on Nostr | [[source]](https://github.com/nostrband/nostrsite/) |  🌐
 ___
 
-### App Store
+<h3>App Store</h3>
 
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
@@ -237,7 +238,7 @@ ___
 
 ___
 
-### Audio and Video Transmission
+<h3>Audio and Video Transmission</h3>
 
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
@@ -247,14 +248,14 @@ ___
 |[Corny Chat](https://cornychat.com) | Audio Chat | [[info]](https://github.com/vicariousdrama/cornychat) | 🌐 
 ___
 
-### Video Streaming
+<h3>Video Streaming</h3>
 
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Flare](https://flare.pub) | Youtube like | [[source]](https://github.com/zmeyer44/flare) | 🌐 
 ___
 
-### Music
+<h3>Music</h3>
 
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
@@ -264,13 +265,13 @@ ___
 |[Stemstr](https://stemstr.app) | Musical Colab (paid to post) | [[source]](https://github.com/stemstr) [[about]](https://nostrapps.com/stemstr) | 🌐
 ___
 
-### Event Discovery
+<h3>Event Discovery</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Eventro](https://eventro-events.vercel.app/) | Event Ticket and Assistance | [[source]](https://github.com/unllamas/eventro_old) |
 ___
 
-### Images
+<h3>Images</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Pinstr](https://pinstr.app) | Pinterest like | [[source]](https://github.com/sepehr-safari/pinstr) |
@@ -278,13 +279,13 @@ ___
 |[Memestr](https://memestr.app) | ifunny like | [[source]](https://github.com/AaruBama/memestr) | 🌐
 ___
 
-### Download and Upload
+<h3>Download and Upload</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[DTAN](https://dtan.xyz) | Distributed Torrent Archive on Nostr | [[info]](https://www.nobsbitcoin.com/dtan-xyz-nostr-torrent-archive/) [[source]](https://git.v0l.io/Kieran/dtan) | 🌐
 ___
 
-### Documents
+<h3>Documents</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Docstr](https://docstr.app/) | Share Docs | [[info]](https://nostrapps.com/docstr) [[source]](https://github.com/sepehr-safari/docstr) | 🌐
@@ -293,7 +294,7 @@ ___
 |[Slide Maker](https://zaplinks.lol/slides/) | Share slides | |
 ___
 
-### Forum
+<h3>Forum</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[OddBean](https://oddbean.com) | Hacker News like | [[info]](https://oddbean.com/about) [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web) | 🌐
@@ -302,7 +303,7 @@ ___
 |[Staker News](https://stacker.news/) | Hacker News like | [[info]](https://github.com/stackernews/stacker.news) | 🌐 
 ---
 
-### Direct Messenges (DM)
+<h3>Direct Messenges (DM)</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[0xchat](https://0xchat.com) || [[source]](https://github.com/0xchat-app) | 🤖🍎 
@@ -312,7 +313,7 @@ ___
 | [Keychat](https://keychat.io) | Signal based | [[source]](https://github.com/rohanharikr/keychat.online) | [🤖🍎 on development]
 ___
 
-### Reading
+<h3>Reading</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 | [Highlighter](https://highlighter.com) | Insights with a highlighted read | [[info]](https://github.com/pablof7z/highlighter) | 🌐
@@ -322,7 +323,7 @@ ___
 | [Alexandria](https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c) | e-Reader and Nostr Knowledge Base (NKB) | [[source]](https://github.com/ShadowySupercode/gc-alexandria) |
 ---
 
-### Writing
+<h3>Writing</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Habla](https://habla.news) | Blog | [[info]](https://github.com/verbiricha/habla.news) | 🌐
@@ -330,14 +331,14 @@ ___
 |[YakiHonne](https://yakihonne.com) | Articles and News | [[info]](https://github.com/YakiHonne) | 🤖🍎🌐
 ___
 
-### Lists
+<h3>Lists</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Listr](https://listr.lol) | Lists | [[source]](https://github.com/erskingardner/listr) | 🌐
 |[Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) | Movies List | [source](https://github.com/jrc-dev/nostr-potatoes) | 💻(numpy)
 ___
 
-### Market and Jobs
+<h3>Market and Jobs</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 | [Shopstr](https://shopstr.store) | Buy and Sell | [[source]](https://github.com/shopstr-eng/shopstr) | 🌐
@@ -347,15 +348,15 @@ ___
 |[Nostrocket](https://nostrocket.org) | Jobs | [[source]](https://github.com/nostrocket) | 🌐
 ___
 
-### Health
+<h3>Health</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[NosFabrica](https://nosfabrica.com/) || | 🌐🤖🍎
 |[LazerEyes](https://lazereyes.nosfabrica.com/) | Eye prescription by DM | [[source]](https://github.com/vitorpamplona/lazereyes) |
 ---
 
-### Data Vending Machines - DVM (NIP90)
-(Data-processing tools)
+<h3>Data Vending Machines - DVM </h3>
+(NIP90 Data-processing tools)
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Noogle](https://noogle.lol) || [[source]](https://github.com/believethehype/nostrdvm/tree/main/ui/noogle) | 🌐 
@@ -364,7 +365,7 @@ ___
 |[Malware DVMs](https://malware.dvms.app) ||| 🌐
 ___
 
-### AI
+<h3>AI</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[source]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
@@ -372,7 +373,7 @@ ___
 |[Ai Rand](https://github.com/pubky/ai-rand) | Generate text with Pubky by Lightning | [source](https://github.com/pubky/ai-rand) |
 ___
 
-### Games
+<h3>Games</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Chesstr](https://chesstr.pages.dev) | Chess | [[source]](https://github.com/bordalix/chesstr) | 🌐
@@ -381,14 +382,14 @@ ___
 |[DEG Mods](https://degmods.com) | Decentralized Game Mods |  [[info]](https://degmods.com/#/about) [[source]](https://github.com/Freakoverse/degmods_design) | 🌐
 ___
 
-### Customization
+<h3>Customization</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Emojito](https://emojito.meme) | Send Funny Stickers to React | [[creator]](https://github.com/verbiricha) | 🌐
 |[Eschanostr](https://github.com/antonioconselheiro/eschanostr) | Customize your Npub | [[source]](https://github.com/antonioconselheiro/eschanostr) | 💻🐧
 ___
 
-### Like other Services
+<h3>Like other Services</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Nostree](https://nostree.me) | Linktree like || 🌐
@@ -398,7 +399,7 @@ ___
 |[Hivetalk](https://hivetalk.org/) | Omegle-like Random Video Chats | [[source]](https://github.com/HiveTalk) |
 ___
 
-### General Uses
+<h3>General Uses</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Njump](https://njump.me) | HTML text gateway | [source](https://github.com/fiatjaf/njump) | 🌐 
@@ -408,14 +409,14 @@ ___
 |[Spring](https://spring.site) | Browser |  | 🌐 
 ___
 
-### Places
+<h3>Places</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Wherostr](https://wherostr.social) | Travel and show where you are ||
 |[Arc Map (Mapstr)](https://mapstr.xyz) | Bitcoin Map | [[info]](https://geyser.fund/project/arcmap) |
 ___
 
-### Driver and Delivery
+<h3>Driver and Delivery</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[RoadRunner](https://github.com/42Pupusas/RoadRunner) | Uber like [on development] || ⏱️
@@ -423,10 +424,10 @@ ___
 |[Nostrlivery](https://github.com/ODevLibertario/nostrlivery) | iFood like [on development] || ⏱️
 ___
 
-## OTHER STUFF
+<h2>OTHER STUFF</h2>
 ___
 
-###  Lightning Wallets (zap)
+<h3>Lightning Wallets (zap)</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Alby](https://getalby.com/) | Native and extension | [[info]](https://github.com/getAlby) | 🌐
@@ -438,14 +439,14 @@ ___
 |[Zeus](https://zeusln.com) || [[info]](https://zeusln.com/about) [[source]](https://github.com/ZeusLN) | 🤖🍎
 ___
 
-### Exchange
+<h3>Exchange</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Mostro](mostro.network) | P2P lightning exchange on Nostr | [[info]](https://github.com/MostroP2P/mostro) | 🌐
 |[Emptio](https://github.com/misesdev/emptio) | Bitcoin P2P on Nostr [on development] | |
 ___
 
-### Media Server (Upload Links)
+<h3>Media Server (Upload Links)</h3>
 audio, image and video
 
 Nip-96:
@@ -467,7 +468,7 @@ Without Nip:
 |[x0](https://x0.at) | Max 222mb | [[source]](https://github.com/Rouji/single_php_filehost)
 ___
 
-### Donation and payments
+<h3>Donation and payments</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Zapper](https://zap.nostraps.org) | Easy Zaps | [[source]](https://github.com/nostrband/zapper) | 🌐
@@ -478,7 +479,7 @@ ___
 |[Heya!](https://heya.fund/) | Crowdfunding | [[source]](https://github.com/verbiricha/goalz) |
 ___
 
-### Security
+<h3>Security</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Secret Border](https://github.com/guilhermegps/secret-border) | Generate offline keys | | 💻(java)
@@ -486,7 +487,7 @@ ___
 |[Private QRcode](https://antonioconselheiro.github.io/private-qrcode) | Read and Generate encrypted QR code| [[source]](https://github.com/antonioconselheiro/private-qrcode) | 🌐
 ___
 
-### Extensions
+<h3>Extensions</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Nos2x](https://github.com/fiatjaf/nos2x) || Account access keys | 🌐
@@ -496,7 +497,7 @@ ___
 |[KeysBand](keys.band) | Multi-key signing | [[source]](https://github.com/toastr-space/keys-band) | 🌐
 ___
 
-### Code
+<h3>Code</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Nostrify](https://nostrify.dev) | Share Nostr Frameworks || 🌐
@@ -506,14 +507,14 @@ ___
 |[Python Nostr](https://github.com/jeffthibault/python-nostr) | Python Library for Nostr | |
 ___
 
-### Relay Check and Backup
+<h3>Relay Check and Backup</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Nostr Watch](https://nostr.watch) | See your relay speed || 🌐
 |[NosDrive](https://nosdrive.app) | Nostr Relay that saves to Google Drive ||
 ___
 
-### Bidges and Getways
+<h3>Bridges and Getways</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) | Between Matrix & Nostr ||
@@ -523,10 +524,10 @@ ___
 |[Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr | [[source]](https://git.sr.ht/~psic4t/atomstr) | 🌐
 ___
 
-## NOT RELATED TO NOSTR
+<h2>NOT RELATED TO NOSTR</h2>
 ___
 
-### Fundamentals
+<h3>Fundamentals</h3>
 |Service|Description|Links|
 |---|---|---|
 |A-2 | Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker) | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf)
@@ -536,7 +537,7 @@ ___
 |Nostr | Censorship-resistent notes | [[source]](https://github.com/nostr-protocol/nostr)
 
 
-### Keyboards
+<h3>Keyboards</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 | [Futo](https://keyboard.futo.org/) | Gboard like | [[source]](https://github.com/futo-org/android-keyboard/releases)| 🤖
@@ -544,7 +545,7 @@ ___
 | [Heliboard](https://github.com/Helium314/HeliBoard) | Openboard based | [[source]](https://github.com/Helium314/HeliBoard) | 🤖
 ___
 
-### Personal Documents
+<h3>Personal Documents</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
@@ -552,7 +553,7 @@ ___
 |[CryptPad](https://cryptpad.org) | Docs cloud instances | [[source]](http://github.com/cryptpad/cryptpad) | 🌐
 ___
 
-### Front-ends
+<h3>Front-ends</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Nitter](https://nitter.poast.org/) | Twitter / X without your data | [[source]](https://github.com/zedeus/nitter) |
@@ -564,7 +565,7 @@ ___
 |[Piped](https://piped.video) | Youtube web without you data | [[source]](https://github.com/TeamPiped/Piped) | 🌐
 ___
 
-### Other Services
+<h3>Other Services</h3>
 |Service|Description|Links|Plataforms|
 |---|---|---|---|
 |[Brave](https://brave.com) | Browser | [[source]](https://github.com/brave/brave-browser) |
