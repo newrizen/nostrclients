@@ -1426,6 +1426,229 @@ ___
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf">A-2</a></td>
+      <td>Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker)</td>
+      <td><a href="https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf">Manual</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://git.kernel.org/pub/scm/git/git.git">Git</a></td>
+      <td>Repository Kernel</td>
+      <td><a href="https://git.kernel.org/pub/scm/git/git.git">source</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/torvalds/linux">Linux</a></td>
+      <td>OS Kernel</td>
+      <td><a href="https://github.com/torvalds/linux">source</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bitcoin">Bitcoin</a></td>
+      <td>Decentralized cryptocurrency</td>
+      <td><a href="https://github.com/bitcoin">source</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/nostr-protocol/nostr">Nostr</a></td>
+      <td>Censorship-resistent notes</td>
+      <td><a href="https://github.com/nostr-protocol/nostr">source</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
+
+<div>
+<h3>Keyboards</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://keyboard.futo.org/">Futo</a></td>
+      <td>Gboard like</td>
+      <td><a href="https://github.com/futo-org/android-keyboard/releases">source</a></td>
+      <td>🤖</td>
+    </tr>
+    <tr>
+      <td><a href="https://florisboard.org">Florisboard</a></td>
+      <td></td>
+      <td><a href="https://github.com/florisboard/florisboard">source</a></td>
+      <td>🤖</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Helium314/HeliBoard">Heliboard</a></td>
+      <td>Openboard based</td>
+      <td><a href="https://github.com/Helium314/HeliBoard">source</a></td>
+      <td>🤖</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
+
+<div>
+<h3>Personal Documents</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://joplinapp.org/">Joplin</a></td>
+      <td>Privacy-focused note taking app with sync capabilities</td>
+      <td><a href="https://github.com/laurent22/joplin">source</a></td>
+      <td>📱(🤖🍎) - 💻 (🐧🪟🍎)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.onlyoffice.com/">OnlyOffice</a></td>
+      <td>Docs cloud</td>
+      <td><a href="https://github.com/ONLYOFFICE/">source</a></td>
+      <td>📱(🤖🍎) - 💻 (🐧🪟🍎)</td>
+    </tr>
+    <tr>
+      <td><a href="https://cryptpad.org">CryptPad</a></td>
+      <td>Docs cloud instances</td>
+      <td><a href="http://github.com/cryptpad/cryptpad">source</a></td>
+      <td>🌐</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
+
+<div>
+<h3>Front-ends</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://nitter.poast.org/">Nitter</a></td>
+      <td>Twitter / X without your data</td>
+      <td><a href="https://github.com/zedeus/nitter">source</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://newpipe.net/">NewPipe</a></td>
+      <td>YouTube, Peertube and others, without account & your data</td>
+      <td><a href="https://github.com/TeamNewPipe/NewPipe">source</a></td>
+      <td>🤖</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/polymorphicshade/Tubular">Tubular</a></td>
+      <td>A NewPipe fork + SponsorBlock + ReturnYoutubeDislike</td>
+      <td><a href="https://github.com/polymorphicshade/Tubular">source</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bravenewpipe/NewPipe">BraveNewPipe</a></td>
+      <td>A NewPipe fork + SponsorBlock + BitChute + Rumble</td>
+      <td><a href="https://github.com/bravenewpipe/NewPipe">source</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://freetubeapp.io/">FreeTube</a></td>
+      <td>YouTube frontend for desktop</td>
+      <td><a href="https://github.com/FreeTubeApp/FreeTube">source</a></td>
+      <td>💻</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">FreeTubeAndroid</a></td>
+      <td>Freetube fork for Android</td>
+      <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">source</a></td>
+      <td>🤖</td>
+    </tr>
+    <tr>
+      <td><a href="https://piped.video">Piped</a></td>
+      <td>YouTube web without your data</td>
+      <td><a href="https://github.com/TeamPiped/Piped">source</a></td>
+      <td>🌐</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
+
+<div>
+<h3>Other Services</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://brave.com">Brave</a></td>
+      <td>Browser</td>
+      <td><a href="https://github.com/brave/brave-browser">source</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://duckduckgo.com">DuckDuckGo</a></td>
+      <td>Search</td>
+      <td><a href="https://github.com/deedy5/duckduckgo_search">source</a></td>
+      <td>🌐</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/meta-llama">LLMA - Meta</a></td>
+      <td>Meta library</td>
+      <td><a href="https://github.com/meta-llama/meta-llama-chat-gpt">source</a></td>
+      <td>🌐</td>
+    <tr>
+      <th><a href="https://duckduckgo.com/duckduckgo-help-pages/aichat/">DuckDuckGo AI Chat</a></th> 
+      <th>Famous AIs without Login</th> 
+      <th><a href="https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md">[source]</a></th>
+      <th>🌐</th>
+    </tr>
+    <tr>
+        <th><a href="https://proton.me/mail">Proton Mail</a></th>
+        <th>Mail</th>
+        <th><a href="https://github.com/ProtonMail">source</a></th>
+        <th>🤖</th>
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
+
+
+
+<h3>Fundamentals</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |A-2 | Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker) | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf)
 |Git | Repository Kernel | [[source]](https://git.kernel.org/pub/scm/git/git.git)
 |Linux | OS Kernel| [[source]](https://github.com/torvalds/linux) 
