@@ -1104,7 +1104,6 @@ ___
   <hr>
 </div>
 
-___
 <div>
   <h3>Driver and Delivery</h3>
   <table>
@@ -1228,7 +1227,7 @@ ___
   </table>
   <hr>
 </div>
-___
+
 <div>
   <h3>Media Server (Upload Links)</h3>
   <p>audio, image and video</p>
@@ -1282,10 +1281,7 @@ ___
       </tr>
     </tbody>
   </table>
-  <hr>
-</div>
 
-<div>
   <h4>Without Nip:</h4>
   <table>
     <thead>
