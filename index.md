@@ -14,7 +14,9 @@ Contribute on github: <{{ site.github.repository_url }}>
 ___
 ## Legend
 
-🌐 Web - 🤖 Android - 🍎 iPhone - 📱 Mobile - 💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 IOS - ⏱️ Unfinished
+🌐 Web - 📱 Mobile - 🤖 Android - 🍎 iPhone
+💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 IOS
+⏱️ Unfinished
 
 ___
 <div>
@@ -31,7 +33,7 @@ ___
             <td><a href="https://web.nostrmo.com">Nostrmo</a></td>
             <td></td>
             <td><a href="https://github.com/haorendashu/nostrmo">source</a></td>
-            <td>📱 🌐🤖🍎
+            <td>📱 🌐🤖🍎 <br>
                 💻 🐧🪟🍏</td>
         </tr>
         <tr>
@@ -629,7 +631,7 @@ Some other Nostr index on:
 </div>
 
 
-- [NIPs](https://github.com/nostr-protocol/nips)
+- Learn more: [NIPs](https://github.com/nostr-protocol/nips)
 
 ## Similar projects
 
