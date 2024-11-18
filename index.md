@@ -1851,7 +1851,7 @@ Some other Nostr index on:
 [Nostr Apps](https://nostrapps.com) - [Nostorg](https://github.com/nostorg/clients) - [Awesome Nostr](https://github.com/aljazceru/awesome-nostr)
 
 
-<div class="bigtable">
+<!-- <div class="bigtable">
 <table>
   <thead>
     <tr>
@@ -1864,8 +1864,8 @@ Some other Nostr index on:
       {% for feature in site.data.features %}
       <th>{{ feature[1] }}</th>
       {% endfor %}
-    </tr>
-  </thead>
+    </tr> -->
+<!--   </thead>
   <tbody>
     {% for client_order in site.data.order %}
     {% for client_hash in site.data.clients %}
@@ -1894,15 +1894,15 @@ Some other Nostr index on:
     </tr>
     {% endif %}
     {% endfor %}
-    {% endfor %}
-  </tbody>
+    {% endfor %} -->
+<!--     </tbody>
 </table>
-</div>
+</div> -->
 
 
 - Learn more: [NIPs](https://github.com/nostr-protocol/nips)
 
-## Similar projects
+<!-- ## Similar projects
 
 - <https://github.com/aljazceru/awesome-nostr>
 - <https://github.com/vishalxl/Nostr-Clients-Features-List>
@@ -1910,4 +1910,4 @@ Some other Nostr index on:
 - <https://nostr.info/resources/>
 - <https://nostr.com/clients>
 - <https://www.nostrapps.com/>
-- <https://nostrapp.link/>
+- <https://nostrapp.link/> -->
