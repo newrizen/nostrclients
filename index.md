@@ -508,41 +508,43 @@ ___
 <hr>
 </div>
 
-<h3>Images</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Pinstr](https://pinstr.app) | Pinterest like | [[source]](https://github.com/sepehr-safari/pinstr) |
-|[Slidestr](https://slidestr.net) | (DeviantArt like) | [[source]](https://git.v0l.io/florian/nostr-slideshow) | 🌐
-|[Memestr](https://memestr.app) | ifunny like | [[source]](https://github.com/AaruBama/memestr) | 🌐
-___
-
-<h3>Download and Upload</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[DTAN](https://dtan.xyz) | Distributed Torrent Archive on Nostr | [[info]](https://www.nobsbitcoin.com/dtan-xyz-nostr-torrent-archive/) [[source]](https://git.v0l.io/Kieran/dtan) | 🌐
-___
-
-<h3>Documents</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Docstr](https://docstr.app/) | Share Docs | [[info]](https://nostrapps.com/docstr) [[source]](https://github.com/sepehr-safari/docstr) | 🌐
-|[Formstr](https://formstr.app) | Share Forms | [[info]](https://github.com/abhay-raizada/nostr-forms) | 🌐
-|[Sheetstr](https://sheetstr.amethyst.social/) | Share Spreadsheets | [[source]](https://github.com/vitorpamplona/sheetstr) |
-|[Slide Maker](https://zaplinks.lol/slides/) | Share slides | |
 ___
 
 <h3>Forum</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[OddBean](https://oddbean.com) | Hacker News like | [[info]](https://oddbean.com/about) [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web) | 🌐
 |[LowEnt](https://lowent.xyz) | Forum | [[info]](https://github.com/gzuuus/lowent) | 🌐
 |[Swarmstr](https://swarmstr.com/) | Q&A / FAQ | [[info]](https://github.com/ptrio42/swarmstr.com) | 🌐
 |[Staker News](https://stacker.news/) | Hacker News like | [[info]](https://github.com/stackernews/stacker.news) | 🌐 
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ---
 
 <h3>Direct Messenges (DM)</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[0xchat](https://0xchat.com) || [[source]](https://github.com/0xchat-app) | 🤖🍎 
 |[Nostr Chat](https://nostrchat.io) || [[source]](https://github.com/NostrChat/NostrChat) | 🌐🍎 
 | [Blowater](https://blowater.deno.dev) || [[source]](https://github.com/BlowaterNostr/blowater) | 🌐 
@@ -551,122 +553,313 @@ ___
 ___
 
 <h3>Reading</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 | [Highlighter](https://highlighter.com) | Insights with a highlighted read | [[info]](https://github.com/pablof7z/highlighter) | 🌐
 | [Zephyr](https://zephyr.coracle.social) | Calming to Read | [[info]](https://github.com/coracle-social/zephyr) | 🌐
 | [Flycat](https://flycat.club) | Clean and Healthy Feed | [[info]](https://github.com/digi-monkey/flycat-web) | 🌐
 | [Nosta](https://nosta.me) | Check Profiles [on development] | [[info]](https://github.com/GBKS/nosta-me) | 🌐
 | [Alexandria](https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c) | e-Reader and Nostr Knowledge Base (NKB) | [[source]](https://github.com/ShadowySupercode/gc-alexandria) |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ---
 
 <h3>Writing</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Habla](https://habla.news) | Blog | [[info]](https://github.com/verbiricha/habla.news) | 🌐
 |[Blogstack](https://blogstack.io) | Blog | [[info]](https://github.com/nodetec/blogstack) | 🌐
 |[YakiHonne](https://yakihonne.com) | Articles and News | [[info]](https://github.com/YakiHonne) | 🤖🍎🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Lists</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Listr](https://listr.lol) | Lists | [[source]](https://github.com/erskingardner/listr) | 🌐
 |[Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) | Movies List | [source](https://github.com/jrc-dev/nostr-potatoes) | 💻(numpy)
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Market and Jobs</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 | [Shopstr](https://shopstr.store) | Buy and Sell | [[source]](https://github.com/shopstr-eng/shopstr) | 🌐
 | [Nostr Market](https://market.nostr.com) | Buy and Sell || 🌐 
 |[Plebeian Market](https://plebeian.market) | Buy and Sell | [[source]](https://github.com/PlebeianTech/plebeian-market) | 🌐
 |[Ostrich Work](https://ostrich.work) | Jobs | [[source]](https://github.com/erskingardner/ostrich.work) | 🌐
 |[Nostrocket](https://nostrocket.org) | Jobs | [[source]](https://github.com/nostrocket) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Health</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[NosFabrica](https://nosfabrica.com/) || | 🌐🤖🍎
 |[LazerEyes](https://lazereyes.nosfabrica.com/) | Eye prescription by DM | [[source]](https://github.com/vitorpamplona/lazereyes) |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ---
 
 <h3>Data Vending Machines - DVM </h3>
 (NIP90 Data-processing tools)
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Noogle](https://noogle.lol) || [[source]](https://github.com/believethehype/nostrdvm/tree/main/ui/noogle) | 🌐 
 |[Vendata](https://vendata.io) || [[source]](https://github.com/pablof7z/vendata.io) | 🌐
 |[TaskTiger](https://tasktiger.io) ||| 🌐 
 |[Malware DVMs](https://malware.dvms.app) ||| 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>AI</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[source]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
 |[Animal Sunset](https://animalsunset.com) | Gererate videos by Lightning | [source](https://github.com/satoshipuzzles/luma-ai-app) | 🌐
 |[Ai Rand](https://github.com/pubky/ai-rand) | Generate text with Pubky by Lightning | [source](https://github.com/pubky/ai-rand) |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Games</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Chesstr](https://chesstr.pages.dev) | Chess | [[source]](https://github.com/bordalix/chesstr) | 🌐
 |[Jestr](https://github.com/jesterui/jesterui) | Chess | [[source]](https://github.com/jesterui/jesterui) | 🌐
 |[Snakestr](https://satoshipuzzles.github.io/Snakestr/) | Snake game |  [[source]](https://github.com/satoshipuzzles/Snakestr) | 🌐
 |[DEG Mods](https://degmods.com) | Decentralized Game Mods |  [[info]](https://degmods.com/#/about) [[source]](https://github.com/Freakoverse/degmods_design) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Customization</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Emojito](https://emojito.meme) | Send Funny Stickers to React | [[creator]](https://github.com/verbiricha) | 🌐
 |[Eschanostr](https://github.com/antonioconselheiro/eschanostr) | Customize your Npub | [[source]](https://github.com/antonioconselheiro/eschanostr) | 💻🐧
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Like other Services</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Nostree](https://nostree.me) | Linktree like || 🌐
 |[Rabbit](https://rabbit.syusui.net) | TweetDeck like | [[info]](https://github.com/syusui-s/rabbit) | 🌐
 |[Zaplinks](zaplinks.lol) | Nostr links || 🌐
 |[Omeglestr](https://antonioconselheiro.github.io/omeglestr/#links) | Omegle-like Random Chats | [[source]](https://github.com/antonioconselheiro/omeglestr) | 🌐
 |[Hivetalk](https://hivetalk.org/) | Omegle-like Random Video Chats | [[source]](https://github.com/HiveTalk) |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>General Uses</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Njump](https://njump.me) | HTML text gateway | [source](https://github.com/fiatjaf/njump) | 🌐 
 |[Filestr](https://filestr.vercel.app) | HTML midia gateway | [[source]](https://github.com/verbiricha/filestr) | 🌐
 |[W3](w3.do) | Nostr URL shortener | [[source]](https://github.com/jinglescode/nostr-url-shortener) | 🌐
 |[Playground](https://playground.nostr.com) | Test Nostr filters | [[source]](https://github.com/sepehr-safari/nostr-playground) | 🌐
-|[Spring](https://spring.site) | Browser |  | 🌐 
+|[Spring](https://spring.site) | Browser |  | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Places</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Wherostr](https://wherostr.social) | Travel and show where you are ||
 |[Arc Map (Mapstr)](https://mapstr.xyz) | Bitcoin Map | [[info]](https://geyser.fund/project/arcmap) |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Driver and Delivery</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[RoadRunner](https://github.com/42Pupusas/RoadRunner) | Uber like [on development] || ⏱️
 |[Arcade City](https://arcade.city) | Uber like [on development] | [[info]](https://github.com/ArcadeCity) | ⏱️
 |[Nostrlivery](https://github.com/ODevLibertario/nostrlivery) | iFood like [on development] || ⏱️
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h2>OTHER STUFF</h2>
 ___
 
 <h3>Lightning Wallets (zap)</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Alby](https://getalby.com/) | Native and extension | [[info]](https://github.com/getAlby) | 🌐
 |[ZBD](https://zbd.gg/) | Gaming and Social | [[info]](https://github.com/zebedeeio/login-zbd-react-native-example) | 🤖🍎
 |[Wallet of Satoshi](https://www.walletofsatoshi.com/) || [[info]](https://github.com/conduition/wos) | 🤖🍎
@@ -674,21 +867,49 @@ ___
 |[Blink](blink.sv) | Opensource custodial wallet (KYC over 1000 usd) | [[source]](https://github.com/GaloyMoney/blinkbtc) | 🤖🍎
 |[LNbits](lnbits.com) | App and extesion | [[source]](https://github.com/lnbits/lnbits) | 🤖🍎💻
 |[Zeus](https://zeusln.com) || [[info]](https://zeusln.com/about) [[source]](https://github.com/ZeusLN) | 🤖🍎
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Exchange</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Mostro](mostro.network) | P2P lightning exchange on Nostr | [[info]](https://github.com/MostroP2P/mostro) | 🌐
 |[Emptio](https://github.com/misesdev/emptio) | Bitcoin P2P on Nostr [on development] | |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Media Server (Upload Links)</h3>
 audio, image and video
 
 Nip-96:
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Nostr Media](https://nostrmedia.com) | Blossom server wuth Max 25mb images and 100mb videos | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
 |||| 
 |[Nostr Build](https://nostr.build) | Max 25mb | [[source]](https://github.com/nostrbuild/nostr.build) | 🌐
@@ -696,103 +917,257 @@ Nip-96:
 |[NostPic](https://nostpic.com) | | [[source]](https://github.com/quentintaranpino/nostrcheck-server) | 🌐
 |[Sovbit](https://files.sovbit.com) || | 🌐
 |[Voidcat](https://void.cat) | | [[source]](https://git.v0l.io/Kieran/void.cat/) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 
 Without Nip:
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Pomf](https://pomf.lain.la/) | Upload larger videos max 1 gb | [[source]](https://github.com/pomf/pomf)
 |[Catbox](https://catbox.moe) | Max 200mb | [[source]](https://github.com/lunaticsm/catbox-uploader)
 |[x0](https://x0.at) | Max 222mb | [[source]](https://github.com/Rouji/single_php_filehost)
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Donation and payments</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Zapper](https://zap.nostraps.org) | Easy Zaps | [[source]](https://github.com/nostrband/zapper) | 🌐
 |[Autozap](https://zapplepay.com/autozap) || [[source]](https://github.com/benthecarman/zapple-pay-backend) | 🌐
 |[Nostr Zap](https://github.com/SamSamskies/nostr-zap) ||| 💻(numpy)
 |[Creatr](https://creatr.nostr.wine) | Creators subscription || 🌐
 |[Geyzer](https://geyzer.fund) | Crowdfunding | [[info]](https://geyser.fund/about) [[source]](https://github.com/geyserfund/geyser-app) | 🌐
 |[Heya!](https://heya.fund/) | Crowdfunding | [[source]](https://github.com/verbiricha/goalz) |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Security</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Secret Border](https://github.com/guilhermegps/secret-border) | Generate offline keys | | 💻(java)
 |[Umbrel](https://umbrel.com) | Your private relay | [[source]](https://github.com/getumbrel) | 🌐
 |[Private QRcode](https://antonioconselheiro.github.io/private-qrcode) | Read and Generate encrypted QR code| [[source]](https://github.com/antonioconselheiro/private-qrcode) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Extensions</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Nos2x](https://github.com/fiatjaf/nos2x) || Account access keys | 🌐
 |[Nsec.app](https://nsec.app/) || [[info]](https://github.com/nostrband/noauth) | 🌐
 |[Lume](https://lume.nu/) || [[info]](https://github.com/lumehq/lume) [[source]](https://github.com/lumehq/lume) |  🐧🪟🍎
 |[Satcom](https://satcom.app) | Share files to discuss | [[info]](https://github.com/jinglescode/web-content-conversation) | 🌐
 |[KeysBand](keys.band) | Multi-key signing | [[source]](https://github.com/toastr-space/keys-band) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Code</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Nostrify](https://nostrify.dev) | Share Nostr Frameworks || 🌐
 |[Git Workshop](https://gitworkshop.dev) | (github like) [experimental] || 🌐
 |[Gitstr](https://github.com/fiatjaf/gitstr) | (github like) [on development] || ⏱️
 |[Osty](https://osty.dev) | [on development] | [[info]](https://github.com/ostyjs/create-osty) | 🌐
 |[Python Nostr](https://github.com/jeffthibault/python-nostr) | Python Library for Nostr | |
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Relay Check and Backup</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Nostr Watch](https://nostr.watch) | See your relay speed || 🌐
 |[NosDrive](https://nosdrive.app) | Nostr Relay that saves to Google Drive ||
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Bridges and Getways</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Matrixtr Bridge](https://github.com/8go/matrix-nostr-bridge) | Between Matrix & Nostr ||
 |[Mostr](https://gitlab.com/soapbox-pub/mostr) | Between Nostr & Fediverse ||
 |[Nostrss](https://github.com/Asone/nostrss) | RSS to Nostr ||
 |[Rsslay](https://rss.nos.social/) | Optimized RSS to Nostr | [[source]](https://github.com/piraces/rsslay)| 🌐
 |[Atomstr](https://atomstr.data.haus/) | RSS/Atom to Nostr | [[source]](https://git.sr.ht/~psic4t/atomstr) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h2>NOT RELATED TO NOSTR</h2>
 ___
 
 <h3>Fundamentals</h3>
-|Service|Description|Links|
-|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |A-2 | Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker) | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf)
 |Git | Repository Kernel | [[source]](https://git.kernel.org/pub/scm/git/git.git)
 |Linux | OS Kernel| [[source]](https://github.com/torvalds/linux) 
 |Bitcoin | Decentralized cryptocurrency| [[source]](https://github.com/bitcoin)
 |Nostr | Censorship-resistent notes | [[source]](https://github.com/nostr-protocol/nostr)
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 
 
 <h3>Keyboards</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 | [Futo](https://keyboard.futo.org/) | Gboard like | [[source]](https://github.com/futo-org/android-keyboard/releases)| 🤖
 | [Florisboard](https://florisboard.org) | | [[source]](https://github.com/florisboard/florisboard) | 🤖
 | [Heliboard](https://github.com/Helium314/HeliBoard) | Openboard based | [[source]](https://github.com/Helium314/HeliBoard) | 🤖
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Personal Documents</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
 |[OnlyOffice](https://www.onlyoffice.com/) | Docs cloud | [[source]](https://github.com/ONLYOFFICE/) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
 |[CryptPad](https://cryptpad.org) | Docs cloud instances | [[source]](http://github.com/cryptpad/cryptpad) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Front-ends</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
+<table>
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Description</th>
+      <th>Links</th>
+      <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
 |[Nitter](https://nitter.poast.org/) | Twitter / X without your data | [[source]](https://github.com/zedeus/nitter) |
 |[NewPipe](https://newpipe.net/) | Youtube, Peertube and others, without account & your data | [[source]](https://github.com/TeamNewPipe/NewPipe) | 🤖
 |[Tubular](https://github.com/polymorphicshade/Tubular) | A NewPipe fork + SponsorBlock + ReturnYoutubeDislike | [[source]](https://github.com/polymorphicshade/Tubular) |
@@ -800,16 +1175,32 @@ ___
 |[FreeTube](https://freetubeapp.io/) | Youtube frontend for desktop | [source](https://github.com/FreeTubeApp/FreeTube) | 💻 
 |[FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) | Freetube fork for Android | [source](https://github.com/MarmadileManteater/FreeTubeAndroid) | 🤖
 |[Piped](https://piped.video) | Youtube web without you data | [[source]](https://github.com/TeamPiped/Piped) | 🌐
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 ___
 
 <h3>Other Services</h3>
-|Service|Description|Links|Access|
-|---|---|---|---|
-|[Brave](https://brave.com) | Browser | [[source]](https://github.com/brave/brave-browser) |
-|[DuckDuckGo](https://duckduckgo.com) | Search | [[source]](https://github.com/deedy5/duckduckgo_search) |  🌐
-|[LLMA - Meta](https://github.com/meta-llama) | Meta open source AI | [[source]](https://github.com/meta-llama) |
-|[DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/) | Famous AIs without Login | [[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md) | 🌐
-|[Proton Mail](https://proton.me/mail) | Mail | [[source]](https://github.com/ProtonMail) | 🤖
+<table>
+  <thead>
+    <tr>
+      <th>Service</th> <th>Description</th> <th>Links</th> <th>Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+<th>[Brave](https://brave.com)</th> <th>Browser</th> <th>[[source]](https://github.com/brave/brave-browser)</th>
+<th>[DuckDuckGo](https://duckduckgo.com)</th> <th>Search</th> <th>[[source]](https://github.com/deedy5/duckduckgo_search)</th> <th>🌐</th>
+<th>[LLMA - Meta](https://github.com/meta-llama)</th> <th>Meta open source AI</th> <th>[[source]](https://github.com/meta-llama)</th>
+<th>[DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/)</th> <th>Famous AIs without Login</th> <th>[[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md)</th> <th>🌐</th>
+<th>[Proton Mail](https://proton.me/mail)</th> <th>Mail</th> <th>[[source]](https://github.com/ProtonMail)</th> <th>🤖</th>
+    </tr>
+  </tbody>
+</table>
+<hr>
+</div>
 
 Other open source index:
 [Degoogled Apps](https://tycrek.github.io/degoogle/)
