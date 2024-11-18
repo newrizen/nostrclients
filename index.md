@@ -32,39 +32,42 @@ ___
         <tr>
             <td><a href="https://web.nostrmo.com">Nostrmo</a></td>
             <td></td>
-            <td><a href="https://github.com/haorendashu/nostrmo">source</a></td>
-            <td>📱💻 <br>
-                🌐🤖🍎 <br>
-                🐧🪟🍏</td>
+            <td><a href="https://github.com/haorendashu/nostrmo">[source]</a></td>
+            <td>📱💻<br>
+                🌐🐧<br>
+                🤖🪟<br>
+                🍎🍏</td>
         </tr>
         <tr>
             <td><a href="https://coracle.social">Coracle</a></td>
             <td>Super App</td>
-            <td><a href="https://github.com/coracle-social/coracle">source</a></td>
+            <td><a href="https://github.com/coracle-social/coracle">[source]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://amethyst.social">Amethyst</a></td>
             <td>Super App with note edit, delete and other stuff with Tor</td>
-            <td><a href="https://github.com/vitorpamplona/amethyst">source</a></td>
+            <td><a href="https://github.com/vitorpamplona/amethyst">[source]</a></td>
             <td>🤖</td>
         </tr>
         <tr>
             <td><a href="https://primal.net">Primal</a></td>
             <td>Social and wallet</td>
-            <td><a href="https://github.com/PrimalHQ">source</a></td>
-            <td>🌐🤖🍎</td>
+            <td><a href="https://github.com/PrimalHQ">[source]</a></td>
+            <td>🌐📱<br>
+                🤖🍎</td>
         </tr>
         <tr>
             <td><a href="https://iris.to">Iris</a></td>
             <td>-</td>
-            <td><a href="https://github.com/irislib">source</a></td>
-            <td>🌐🤖🍎</td>
+            <td><a href="https://github.com/irislib">[source]</a></td>
+            <td>🌐📱<br>
+                🤖🍎</td>
         </tr>
         <tr>
             <td><a href="https://app.getcurrent.io">Current</a></td>
             <td>-</td>
-            <td><a href="https://github.com/starbackr-com/current">source</a></td>
+            <td><a href="https://github.com/starbackr-com/current">[source]</a></td>
             <td>🤖🍎</td>
         </tr>
         <tr>
@@ -76,68 +79,71 @@ ___
         <tr>
             <td><a href="https://openvibe.social">Openvibe</a></td>
             <td>Nostr and others (new Plebstr)</td>
-            <td><a href="https://github.com/Tweetoshi">source</a></td>
+            <td><a href="https://github.com/Tweetoshi">[source]</a></td>
             <td>🤖🍎</td>
         </tr>
         <tr>
             <td><a href="https://snort.social">Snort</a></td>
             <td></td>
-            <td><a href="https://git.v0l.io/Kieran/snort">source</a></td>
+            <td><a href="https://git.v0l.io/Kieran/snort">[source]</a></td>
             <td>🌐(🤖 early access)</td>
         </tr>
         <tr>
             <td><a href="https://damus.io">Damus</a></td>
             <td></td>
-            <td><a href="https://github.com/damus-io/damus">source</a></td>
+            <td><a href="https://github.com/damus-io/damus">[source]</a></td>
             <td>🍎</td>
         </tr>
         <tr>
             <td><a href="https://nos.social">Nos</a></td>
             <td></td>
-            <td><a href="https://github.com/planetary-social/nos">source</a></td>
+            <td><a href="https://github.com/planetary-social/nos">[source]</a></td>
             <td>🍎</td>
         </tr>
         <tr>
             <td><a href="https://nostur.com">Nostur</a></td>
             <td></td>
-            <td><a href="https://github.com/nostur-com/nostur-ios-public">source</a></td>
+            <td><a href="https://github.com/nostur-com/nostur-ios-public">[source]</a></td>
             <td>🍎</td>
         </tr>
         <tr>
             <td><a href="https://nostr.band">NostrBand</a></td>
             <td></td>
-            <td><a href="https://nostr.band/about.html">info</a> <a href="https://github.com/nostrband">source</a></td>
+            <td><a href="https://nostr.band/about.html">[info]</a> <a href="https://github.com/nostrband">[source]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://yana.do">Yana</a></td>
             <td></td>
-            <td><a href="https://github.com/frnandu/yana">source</a></td>
-            <td>🤖🍎🌐
-                💻 🐧</td>
+            <td><a href="https://github.com/frnandu/yana">[source]</a></td>
+            <td>🌐📱<br>
+                💻🤖<br>
+                🐧🍏</td>
         </tr>
         <tr>
             <td><a href="https://nostribe.com">Nostribe</a></td>
             <td>on development</td>
-            <td><a href="https://github.com/sepehr-safari/nostribe-web-client">source</a></td>
+            <td><a href="https://github.com/sepehr-safari/nostribe-web-client">[source]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://lume.nu">Lume</a></td>
             <td></td>
-            <td><a href="https://github.com/lumehq/lume">info</a> <a href="https://github.com/lumehq/lume">source</a></td>
-            <td>💻 🐧🪟🍎</td>
+            <td><a href="https://github.com/lumehq/lume">[info]</a> <a href="https://github.com/lumehq/lume">[source]</a></td>
+            <td>💻🐧<br>
+                🪟🍏</td>
         </tr>
         <tr>
             <td><a href="https://github.com/mikedilger/gossip">Gossip</a></td>
             <td></td>
-            <td><a href="https://github.com/mikedilger/gossip">source</a></td>
-            <td>💻 🐧🪟🍎</td>
+            <td><a href="https://github.com/mikedilger/gossip">[source]</a></td>
+            <td>💻🐧<br>
+                🪟🍏</td>
         </tr>
         <tr>
             <td><a href="https://github.com/leo-lox/camelus">Camelus</a></td>
             <td>early access</td>
-            <td><a href="https://github.com/leo-lox/camelus">source</a></td>
+            <td><a href="https://github.com/leo-lox/camelus">[source]</a></td>
             <td>🤖</td>
         </tr>
     </table>
@@ -155,7 +161,7 @@ ___
         <tr>
             <td><a href="https://nostrudel.ninja">noStrudel</a></td>
             <td>Gamified Experience</td>
-            <td><a href="https://github.com/hzrd149/nostrudel">info</a></td>
+            <td><a href="https://github.com/hzrd149/nostrudel">[info]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
@@ -167,42 +173,245 @@ ___
         <tr>
             <td><a href="https://satellite.earth">Satellite</a></td>
             <td></td>
-            <td><a href="https://github.com/lovvtide/satellite-web">info</a></td>
+            <td><a href="https://github.com/lovvtide/satellite-web">[info]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://soapbox.pub/">Soapbox</a></td>
             <td>Community server</td>
-            <td><a href="https://soapbox.pub/about/">info</a> <a href="https://github.com/soapbox-pub/soapbox">source</a></td>
+            <td><a href="https://soapbox.pub/about/">[info]</a> <a href="https://github.com/soapbox-pub/soapbox">[source]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://ditto.pub/">Ditto</a></td>
             <td>Soapbox community server</td>
-            <td><a href="https://gitlab.com/soapbox-pub/ditto">source</a></td>
+            <td><a href="https://gitlab.com/soapbox-pub/ditto">[source]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://cobrafuma.com">Cobrafuma</a></td>
             <td>Nostr Brazilian community on Ditto</td>
-            <td><a href="https://soapbox.pub/servers/">info</a></td>
+            <td><a href="https://soapbox.pub/servers/">[info]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://zapddit.com">Zapddit</a></td>
             <td>Reddit like</td>
-            <td><a href="https://github.com/vivganes/zapddit">source</a></td>
+            <td><a href="https://github.com/vivganes/zapddit">[source]</a></td>
             <td>🌐</td>
         </tr>
         <tr>
             <td><a href="https://github.com/dluvian/voyage">Voyage</a></td>
-            <td>(Reddit like) on development</td>
-            <td></td>
+            <td>Reddit like (on development)</td>
+            <td><a href="https://github.com/dluvian/voyage">[source]</a></td></td>
             <td>🤖</td>
         </tr>
     </table>
 </div>
-
+---
+<div>
+    <h3>Wiki</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://wikifreedia.xyz/">Wikifreedia</a></td>
+            <td></td>
+            <td><a href="https://github.com/fiatjaf/wikifreedia">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://wikinostr.tijl.xyz/">Wikinostr</a></td>
+            <td></td>
+            <td><a href="https://github.com/github-tijlxyz/wikinostr">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://wikistr.com/">Wikistr</a></td>
+            <td></td>
+            <td><a href="https://nostrapps.com/wikistr">[info]</a> <a href="https://github.com/fiatjaf/wikistr">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+    </table>
+</div>
+---
+<div>
+    <h3>Search</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://advancednostrsearch.vercel.app">Advanced Nostr Search</a></td>
+            <td>Advanced note search by isolated terms related to a npub profile</td>
+            <td><a href="https://github.com/SamSamskies/advancednostrsearch">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://nos.today">Nos Today</a></td>
+            <td>Global note search by isolated terms</td>
+            <td><a href="https://nos.today/about">[info]</a> <a href="https://github.com/darashi/searchnos">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://find.nosbook.org/">Nostr Search Engine</a></td>
+            <td>API for Nostr clients</td>
+            <td><a href="https://github.com/misesdev/nostr-search-api">[source]</a></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+---
+<div>
+    <h3>Website</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://npub.pro">Npub Pro</a></td>
+            <td>Your site on Nostr</td>
+            <td><a href="https://github.com/nostrband/nostrsite/">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+    </table>
+</div>
+---
+<div>
+    <h3>App Store</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://zap.store">ZapStore</a></td>
+            <td>Permitionless App Store</td>
+            <td><a href="https://github.com/zapstore">[source]</a></td>
+            <td>🤖</td>
+        </tr>
+    </table>
+</div>
+---
+<div>
+    <h3>Audio and Video Transmission</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://nostrnests.com">Nostr Nests</a></td>
+            <td>Audio Chats</td>
+            <td><a href="https://github.com/nostrnests/nests">[info]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://fountain.fm">Fountain</a></td>
+            <td>Podcast</td>
+            <td><a href="https://github.com/fountain-fm">[info]</a></td>
+            <td>🤖🍎</td>
+        </tr>
+        <tr>
+            <td><a href="https://zap.stream">ZapStream</a></td>
+            <td>Live streaming</td>
+            <td><a href="https://github.com/v0l/zap.stream">[info]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://cornychat.com">Corny Chat</a></td>
+            <td>Audio Chat</td>
+            <td><a href="https://github.com/vicariousdrama/cornychat">[info]</a></td>
+            <td>🌐</td>
+        </tr>
+    </table>
+</div>
+---
+<div>
+    <h3>Video Streaming</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://flare.pub">Flare</a></td>
+            <td>Youtube like</td>
+            <td><a href="https://github.com/zmeyer44/flare">[source]</a></td>
+            <td>🌐</td>
+        </tr>
+    </table>
+</div>
+---
+<div>
+    <h3>Music</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://tidal.com">Tidal</a></td>
+            <td>Music Streaming</td>
+            <td><a href="https://github.com/tidal-music">[source]</a> <a href="https://tidal.com/about">[about]</a> <a href="https://developer.tidal.com/blog/tidal-embeds-the-other-stuff-transmitted-by-nostr">[info]</a></td>
+            <td>🤖🍎🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://wavlake.com">Wavlake</a></td>
+            <td>Music Streaming</td>
+            <td><a href="https://github.com/wavlake/">[source]</a></td>
+            <td>🌐(🤖🍎 [early access])</td>
+        </tr>
+        <tr>
+            <td><a href="https://tunestr.io">Tunestr</a></td>
+            <td>Musical Events</td>
+            <td><a href="https://github.com/caineroad/tunestr.io">[source]</a> <a href="https://nostrapps.com/tunestr">[about]</a></td>
+            <td>🌐</td>
+        </tr>
+        <tr>
+            <td><a href="https://stemstr.app">Stemstr</a></td>
+            <td>Musical Colab (paid to post)</td>
+            <td><a href="https://github.com/stemstr">[source]</a> <a href="https://nostrapps.com/stemstr">[about]</a></td>
+            <td>🌐</td>
+        </tr>
+    </table>
+</div>
+---
+<div>
+    <h3>Event Discovery</h3>
+    <table>
+        <tr>
+            <th>Service</th>
+            <th>Description</th>
+            <th>Links</th>
+            <th>Access</th>
+        </tr>
+        <tr>
+            <td><a href="https://eventro-events.vercel.app/">Eventro</a></td>
+            <td>Event Ticket and Assistance</td>
+            <td><a href="https://github.com/unllamas/eventro_old">[source]</a></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
 
 
 
