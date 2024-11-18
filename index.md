@@ -972,146 +972,253 @@ ___
 </div>
 
 ___
-<div>
-<h3>Like other Services</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Nostree](https://nostree.me) | Linktree like || 🌐
-|[Rabbit](https://rabbit.syusui.net) | TweetDeck like | [[info]](https://github.com/syusui-s/rabbit) | 🌐
-|[Zaplinks](zaplinks.lol) | Nostr links || 🌐
-|[Omeglestr](https://antonioconselheiro.github.io/omeglestr/#links) | Omegle-like Random Chats | [[source]](https://github.com/antonioconselheiro/omeglestr) | 🌐
-|[Hivetalk](https://hivetalk.org/) | Omegle-like Random Video Chats | [[source]](https://github.com/HiveTalk) |
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>General Uses</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Njump](https://njump.me) | HTML text gateway | [source](https://github.com/fiatjaf/njump) | 🌐 
-|[Filestr](https://filestr.vercel.app) | HTML midia gateway | [[source]](https://github.com/verbiricha/filestr) | 🌐
-|[W3](w3.do) | Nostr URL shortener | [[source]](https://github.com/jinglescode/nostr-url-shortener) | 🌐
-|[Playground](https://playground.nostr.com) | Test Nostr filters | [[source]](https://github.com/sepehr-safari/nostr-playground) | 🌐
-|[Spring](https://spring.site) | Browser |  | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Places</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Wherostr](https://wherostr.social) | Travel and show where you are ||
-|[Arc Map (Mapstr)](https://mapstr.xyz) | Bitcoin Map | [[info]](https://geyser.fund/project/arcmap) |
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Driver and Delivery</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[RoadRunner](https://github.com/42Pupusas/RoadRunner) | Uber like [on development] || ⏱️
-|[Arcade City](https://arcade.city) | Uber like [on development] | [[info]](https://github.com/ArcadeCity) | ⏱️
-|[Nostrlivery](https://github.com/ODevLibertario/nostrlivery) | iFood like [on development] || ⏱️
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h2>OTHER STUFF</h2>
-___
+<section>
+  <h3>Like Other Services</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://nostree.me">Nostree</a></td>
+        <td>Linktree like</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://rabbit.syusui.net">Rabbit</a></td>
+        <td>TweetDeck like</td>
+        <td><a href="https://github.com/syusui-s/rabbit">info</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://zaplinks.lol">Zaplinks</a></td>
+        <td>Nostr links</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://antonioconselheiro.github.io/omeglestr/#links">Omeglestr</a></td>
+        <td>Omegle-like Random Chats</td>
+        <td><a href="https://github.com/antonioconselheiro/omeglestr">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://hivetalk.org/">Hivetalk</a></td>
+        <td>Omegle-like Random Video Chats</td>
+        <td><a href="https://github.com/HiveTalk">source</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</section>
 
-<h3>Lightning Wallets (zap)</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Alby](https://getalby.com/) | Native and extension | [[info]](https://github.com/getAlby) | 🌐
-|[ZBD](https://zbd.gg/) | Gaming and Social | [[info]](https://github.com/zebedeeio/login-zbd-react-native-example) | 🤖🍎
-|[Wallet of Satoshi](https://www.walletofsatoshi.com/) || [[info]](https://github.com/conduition/wos) | 🤖🍎
-|[Minibits](https://minibits.cash) | Cashu mobile wallet | [[info]](https://github.com/minibits-cash/minibits_wallet) | 🤖
-|[Blink](blink.sv) | Opensource custodial wallet (KYC over 1000 usd) | [[source]](https://github.com/GaloyMoney/blinkbtc) | 🤖🍎
-|[LNbits](lnbits.com) | App and extesion | [[source]](https://github.com/lnbits/lnbits) | 🤖🍎💻
-|[Zeus](https://zeusln.com) || [[info]](https://zeusln.com/about) [[source]](https://github.com/ZeusLN) | 🤖🍎
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
+<section>
+  <h3>General Uses</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://njump.me">Njump</a></td>
+        <td>HTML text gateway</td>
+        <td><a href="https://github.com/fiatjaf/njump">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://filestr.vercel.app">Filestr</a></td>
+        <td>HTML media gateway</td>
+        <td><a href="https://github.com/verbiricha/filestr">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://w3.do">W3</a></td>
+        <td>Nostr URL shortener</td>
+        <td><a href="https://github.com/jinglescode/nostr-url-shortener">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://playground.nostr.com">Playground</a></td>
+        <td>Test Nostr filters</td>
+        <td><a href="https://github.com/sepehr-safari/nostr-playground">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://spring.site">Spring</a></td>
+        <td>Browser</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</section>
+
+<section>
+  <h3>Places</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://wherostr.social">Wherostr</a></td>
+        <td>Travel and show where you are</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://mapstr.xyz">Arc Map (Mapstr)</a></td>
+        <td>Bitcoin Map</td>
+        <td><a href="https://geyser.fund/project/arcmap">info</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</section>
+
 ___
-<div>
-<h3>Exchange</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Mostro](mostro.network) | P2P lightning exchange on Nostr | [[info]](https://github.com/MostroP2P/mostro) | 🌐
-|[Emptio](https://github.com/misesdev/emptio) | Bitcoin P2P on Nostr [on development] | |
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
+<section>
+  <h3>Driver and Delivery</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/42Pupusas/RoadRunner">RoadRunner</a></td>
+        <td>Uber like [on development]</td>
+        <td></td>
+        <td>⏱️</td>
+      </tr>
+      <tr>
+        <td><a href="https://arcade.city">Arcade City</a></td>
+        <td>Uber like [on development]</td>
+        <td><a href="https://github.com/ArcadeCity">info</a></td>
+        <td>⏱️</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/ODevLibertario/nostrlivery">Nostrlivery</a></td>
+        <td>iFood like [on development]</td>
+        <td></td>
+        <td>⏱️</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</section>
+
+<section>
+  <h2>OTHER STUFF</h2>
+  <h3>Lightning Wallets (zap)</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://getalby.com/">Alby</a></td>
+        <td>Native and extension</td>
+        <td><a href="https://github.com/getAlby">info</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://zbd.gg/">ZBD</a></td>
+        <td>Gaming and Social</td>
+        <td><a href="https://github.com/zebedeeio/login-zbd-react-native-example">info</a></td>
+        <td>🤖🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://www.walletofsatoshi.com/">Wallet of Satoshi</a></td>
+        <td></td>
+        <td><a href="https://github.com/conduition/wos">info</a></td>
+        <td>🤖🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://minibits.cash">Minibits</a></td>
+        <td>Cashu mobile wallet</td>
+        <td><a href="https://github.com/minibits-cash/minibits_wallet">info</a></td>
+        <td>🤖</td>
+      </tr>
+      <tr>
+        <td><a href="https://blink.sv">Blink</a></td>
+        <td>Opensource custodial wallet (KYC over 1000 USD)</td>
+        <td><a href="https://github.com/GaloyMoney/blinkbtc">source</a></td>
+        <td>🤖🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://lnbits.com">LNbits</a></td>
+        <td>App and extension</td>
+        <td><a href="https://github.com/lnbits/lnbits">source</a></td>
+        <td>🤖🍎💻</td>
+      </tr>
+      <tr>
+        <td><a href="https://zeusln.com">Zeus</a></td>
+        <td></td>
+        <td><a href="https://zeusln.com/about">info</a> <a href="https://github.com/ZeusLN">source</a></td>
+        <td>🤖🍎</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</section>
+
+<section>
+  <h3>Exchange</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://mostro.network">Mostro</a></td>
+        <td>P2P lightning exchange on Nostr</td>
+        <td><a href="https://github.com/MostroP2P/mostro">info</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/misesdev/emptio">Emptio</a></td>
+        <td>Bitcoin P2P on Nostr [on development]</td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</section>
 ___
 <div>
 <h3>Media Server (Upload Links)</h3>
