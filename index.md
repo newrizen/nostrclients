@@ -446,7 +446,9 @@ ___
   </tbody>
 </table>
 <hr>
+</div>
 
+<div>
 <h3>Download and Upload</h3>
 <table>
   <thead>
@@ -467,7 +469,9 @@ ___
   </tbody>
 </table>
 <hr>
+</div>
 
+<div>
 <h3>Documents</h3>
 <table>
   <thead>
@@ -507,8 +511,6 @@ ___
 </table>
 <hr>
 </div>
-
-___
 
 <div>
   <h3>Forum</h3>
@@ -1273,9 +1275,10 @@ ___
       </tr>
     </tbody>
   </table>
-  
   <hr>
-  
+</div>
+
+<div>
   <h4>Without Nip:</h4>
   <table>
     <thead>
@@ -1307,9 +1310,7 @@ ___
       </tr>
     </tbody>
   </table>
-  
   <hr>
-  
 </div>
 
 <div>
@@ -1362,7 +1363,6 @@ ___
       </tr>
     </tbody>
   </table>
-  
   <hr>
 </div>
 
@@ -1398,7 +1398,6 @@ ___
       </tr>
     </tbody>
   </table>
-  
   <hr>
 </div>
 
@@ -1446,8 +1445,9 @@ ___
       </tr>
     </tbody>
   </table>
+  <hr>
 </div>
-___
+
 <div>
   <h3>Code</h3>
   <table>
@@ -1794,7 +1794,6 @@ ___
 </table>
 <hr>
 </div>
-___
 
 Other open source index:
 [Degoogled Apps](https://tycrek.github.io/degoogle/)
