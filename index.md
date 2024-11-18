@@ -147,8 +147,9 @@ ___
             <td>🤖</td>
         </tr>
     </table>
+    <hr>
+</div>
 
----
 <div>
     <h3>Communities</h3>
     <table>
@@ -207,8 +208,9 @@ ___
             <td>🤖</td>
         </tr>
     </table>
+    <hr>
+</div>
 
----
 <div>
     <h3>Wiki</h3>
     <table>
@@ -237,8 +239,9 @@ ___
             <td>🌐</td>
         </tr>
     </table>
+    <hr>
+</div>
 
----
 <div>
     <h3>Search</h3>
     <table>
