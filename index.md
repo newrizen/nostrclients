@@ -510,250 +510,469 @@ ___
 
 ___
 
-<h3>Forum</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[OddBean](https://oddbean.com) | Hacker News like | [[info]](https://oddbean.com/about) [[source]](https://github.com/hoytech/strfry/tree/web/src/apps/web) | 🌐
-|[LowEnt](https://lowent.xyz) | Forum | [[info]](https://github.com/gzuuus/lowent) | 🌐
-|[Swarmstr](https://swarmstr.com/) | Q&A / FAQ | [[info]](https://github.com/ptrio42/swarmstr.com) | 🌐
-|[Staker News](https://stacker.news/) | Hacker News like | [[info]](https://github.com/stackernews/stacker.news) | 🌐 
-    </tr>
-  </tbody>
-</table>
-<hr>
+<div>
+  <h3>Forum</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://oddbean.com">OddBean</a></td>
+        <td>Hacker News like</td>
+        <td>
+          <a href="https://oddbean.com/about">info</a>
+          <a href="https://github.com/hoytech/strfry/tree/web/src/apps/web">source</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://lowent.xyz">LowEnt</a></td>
+        <td>Forum</td>
+        <td>
+          <a href="https://github.com/gzuuus/lowent">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://swarmstr.com/">Swarmstr</a></td>
+        <td>Q&A / FAQ</td>
+        <td>
+          <a href="https://github.com/ptrio42/swarmstr.com">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://stacker.news/">Staker News</a></td>
+        <td>Hacker News like</td>
+        <td>
+          <a href="https://github.com/stackernews/stacker.news">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
 </div>
----
 
-<h3>Direct Messenges (DM)</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[0xchat](https://0xchat.com) || [[source]](https://github.com/0xchat-app) | 🤖🍎 
-|[Nostr Chat](https://nostrchat.io) || [[source]](https://github.com/NostrChat/NostrChat) | 🌐🍎 
-| [Blowater](https://blowater.deno.dev) || [[source]](https://github.com/BlowaterNostr/blowater) | 🌐 
-| [Anigma](https://anigma.io) | (new nostrgram) - Telegram based [on development] | [[source]](https://github.com/brilliancebitcoin/nostrgram) |
-| [Keychat](https://keychat.io) | Signal based | [[source]](https://github.com/rohanharikr/keychat.online) | [🤖🍎 on development]
+<div>
+  <h3>Direct Messages (DM)</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://0xchat.com">0xchat</a></td>
+        <td></td>
+        <td>
+          <a href="https://github.com/0xchat-app">source</a>
+        </td>
+        <td>🤖🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://nostrchat.io">Nostr Chat</a></td>
+        <td></td>
+        <td>
+          <a href="https://github.com/NostrChat/NostrChat">source</a>
+        </td>
+        <td>🌐🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://blowater.deno.dev">Blowater</a></td>
+        <td></td>
+        <td>
+          <a href="https://github.com/BlowaterNostr/blowater">source</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://anigma.io">Anigma</a></td>
+        <td>(new nostrgram) - Telegram based [on development]</td>
+        <td>
+          <a href="https://github.com/brilliancebitcoin/nostrgram">source</a>
+        </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://keychat.io">Keychat</a></td>
+        <td>Signal based</td>
+        <td>
+          <a href="https://github.com/rohanharikr/keychat.online">source</a>
+        </td>
+        <td>🤖🍎 [on development]</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Reading</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://highlighter.com">Highlighter</a></td>
+        <td>Insights with a highlighted read</td>
+        <td>
+          <a href="https://github.com/pablof7z/highlighter">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://zephyr.coracle.social">Zephyr</a></td>
+        <td>Calming to Read</td>
+        <td>
+          <a href="https://github.com/coracle-social/zephyr">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://flycat.club">Flycat</a></td>
+        <td>Clean and Healthy Feed</td>
+        <td>
+          <a href="https://github.com/digi-monkey/flycat-web">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://nosta.me">Nosta</a></td>
+        <td>Check Profiles [on development]</td>
+        <td>
+          <a href="https://github.com/GBKS/nosta-me">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c">Alexandria</a></td>
+        <td>e-Reader and Nostr Knowledge Base (NKB)</td>
+        <td>
+          <a href="https://github.com/ShadowySupercode/gc-alexandria">source</a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Writing</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://habla.news">Habla</a></td>
+        <td>Blog</td>
+        <td>
+          <a href="https://github.com/verbiricha/habla.news">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://blogstack.io">Blogstack</a></td>
+        <td>Blog</td>
+        <td>
+          <a href="https://github.com/nodetec/blogstack">info</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://yakihonne.com">YakiHonne</a></td>
+        <td>Articles and News</td>
+        <td>
+          <a href="https://github.com/YakiHonne">info</a>
+        </td>
+        <td>🤖🍎🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Lists</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://listr.lol">Listr</a></td>
+        <td>Lists</td>
+        <td>
+          <a href="https://github.com/erskingardner/listr">source</a>
+        </td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/jrc-dev/nostr-potatoes">Nostr Potatoes</a></td>
+        <td>Movies List</td>
+        <td>
+          <a href="https://github.com/jrc-dev/nostr-potatoes">source</a>
+        </td>
+        <td>💻 (numpy)</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Market and Jobs</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://shopstr.store">Shopstr</a></td>
+        <td>Buy and Sell</td>
+        <td><a href="https://github.com/shopstr-eng/shopstr">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://market.nostr.com">Nostr Market</a></td>
+        <td>Buy and Sell</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://plebeian.market">Plebeian Market</a></td>
+        <td>Buy and Sell</td>
+        <td><a href="https://github.com/PlebeianTech/plebeian-market">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://ostrich.work">Ostrich Work</a></td>
+        <td>Jobs</td>
+        <td><a href="https://github.com/erskingardner/ostrich.work">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://nostrocket.org">Nostrocket</a></td>
+        <td>Jobs</td>
+        <td><a href="https://github.com/nostrocket">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Health</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://nosfabrica.com/">NosFabrica</a></td>
+        <td></td>
+        <td></td>
+        <td>🌐🤖🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://lazereyes.nosfabrica.com/">LazerEyes</a></td>
+        <td>Eye prescription by DM</td>
+        <td><a href="https://github.com/vitorpamplona/lazereyes">[source]</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Data Vending Machines - DVM</h3>
+  <p>(NIP90 Data-processing tools)</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://noogle.lol">Noogle</a></td>
+        <td></td>
+        <td><a href="https://github.com/believethehype/nostrdvm/tree/main/ui/noogle">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://vendata.io">Vendata</a></td>
+        <td></td>
+        <td><a href="https://github.com/pablof7z/vendata.io">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://tasktiger.io">TaskTiger</a></td>
+        <td></td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://malware.dvms.app">Malware DVMs</a></td>
+        <td></td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>AI</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://plebai.com">PlebAI</a></td>
+        <td>Text and Image [currently with errors]</td>
+        <td><a href="https://github.com/lightning-digital-entertainment/plebai">[source]</a></td>
+        <td>🌐🤖🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://animalsunset.com">Animal Sunset</a></td>
+        <td>Generate videos by Lightning</td>
+        <td><a href="https://github.com/satoshipuzzles/luma-ai-app">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/pubky/ai-rand">Ai Rand</a></td>
+        <td>Generate text with Pubky by Lightning</td>
+        <td><a href="https://github.com/pubky/ai-rand">[source]</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Games</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://chesstr.pages.dev">Chesstr</a></td>
+        <td>Chess</td>
+        <td><a href="https://github.com/bordalix/chesstr">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/jesterui/jesterui">Jestr</a></td>
+        <td>Chess</td>
+        <td><a href="https://github.com/jesterui/jesterui">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://satoshipuzzles.github.io/Snakestr/">Snakestr</a></td>
+        <td>Snake game</td>
+        <td><a href="https://github.com/satoshipuzzles/Snakestr">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://degmods.com">DEG Mods</a></td>
+        <td>Decentralized Game Mods</td>
+        <td><a href="https://degmods.com/#/about">[info]</a> <a href="https://github.com/Freakoverse/degmods_design">[source]</a></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
+<div>
+  <h3>Customization</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://emojito.meme">Emojito</a></td>
+        <td>Send Funny Stickers to React</td>
+        <td><a href="https://github.com/verbiricha">[creator]</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/antonioconselheiro/eschanostr">Eschanostr</a></td>
+        <td>Customize your Npub</td>
+        <td><a href="https://github.com/antonioconselheiro/eschanostr">[source]</a></td>
+        <td>💻🐧</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+</div>
+
 ___
-
-<h3>Reading</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-| [Highlighter](https://highlighter.com) | Insights with a highlighted read | [[info]](https://github.com/pablof7z/highlighter) | 🌐
-| [Zephyr](https://zephyr.coracle.social) | Calming to Read | [[info]](https://github.com/coracle-social/zephyr) | 🌐
-| [Flycat](https://flycat.club) | Clean and Healthy Feed | [[info]](https://github.com/digi-monkey/flycat-web) | 🌐
-| [Nosta](https://nosta.me) | Check Profiles [on development] | [[info]](https://github.com/GBKS/nosta-me) | 🌐
-| [Alexandria](https://gitworkshop.dev/r/naddr1qvzqqqrhnypzquqjyy5zww7uq7hehemjt7juf0q0c9rgv6lv8r2yxcxuf0rvcx9eqy88wumn8ghj7mn0wvhxcmmv9uqq5stvv4uxzmnywf5kzlpr50c) | e-Reader and Nostr Knowledge Base (NKB) | [[source]](https://github.com/ShadowySupercode/gc-alexandria) |
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
----
-
-<h3>Writing</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Habla](https://habla.news) | Blog | [[info]](https://github.com/verbiricha/habla.news) | 🌐
-|[Blogstack](https://blogstack.io) | Blog | [[info]](https://github.com/nodetec/blogstack) | 🌐
-|[YakiHonne](https://yakihonne.com) | Articles and News | [[info]](https://github.com/YakiHonne) | 🤖🍎🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-
-<h3>Lists</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Listr](https://listr.lol) | Lists | [[source]](https://github.com/erskingardner/listr) | 🌐
-|[Nostr potatoes](https://github.com/jrc-dev/nostr-potatoes) | Movies List | [source](https://github.com/jrc-dev/nostr-potatoes) | 💻(numpy)
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-
-<h3>Market and Jobs</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-| [Shopstr](https://shopstr.store) | Buy and Sell | [[source]](https://github.com/shopstr-eng/shopstr) | 🌐
-| [Nostr Market](https://market.nostr.com) | Buy and Sell || 🌐 
-|[Plebeian Market](https://plebeian.market) | Buy and Sell | [[source]](https://github.com/PlebeianTech/plebeian-market) | 🌐
-|[Ostrich Work](https://ostrich.work) | Jobs | [[source]](https://github.com/erskingardner/ostrich.work) | 🌐
-|[Nostrocket](https://nostrocket.org) | Jobs | [[source]](https://github.com/nostrocket) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-
-<h3>Health</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[NosFabrica](https://nosfabrica.com/) || | 🌐🤖🍎
-|[LazerEyes](https://lazereyes.nosfabrica.com/) | Eye prescription by DM | [[source]](https://github.com/vitorpamplona/lazereyes) |
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
----
-
-<h3>Data Vending Machines - DVM </h3>
-(NIP90 Data-processing tools)
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Noogle](https://noogle.lol) || [[source]](https://github.com/believethehype/nostrdvm/tree/main/ui/noogle) | 🌐 
-|[Vendata](https://vendata.io) || [[source]](https://github.com/pablof7z/vendata.io) | 🌐
-|[TaskTiger](https://tasktiger.io) ||| 🌐 
-|[Malware DVMs](https://malware.dvms.app) ||| 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-
-<h3>AI</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[PlebAI](https://plebai.com) | Text and Image [currently with errors] | [[source]](https://github.com/lightning-digital-entertainment/plebai) | 🌐🤖🍎
-|[Animal Sunset](https://animalsunset.com) | Gererate videos by Lightning | [source](https://github.com/satoshipuzzles/luma-ai-app) | 🌐
-|[Ai Rand](https://github.com/pubky/ai-rand) | Generate text with Pubky by Lightning | [source](https://github.com/pubky/ai-rand) |
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-
-<h3>Games</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Chesstr](https://chesstr.pages.dev) | Chess | [[source]](https://github.com/bordalix/chesstr) | 🌐
-|[Jestr](https://github.com/jesterui/jesterui) | Chess | [[source]](https://github.com/jesterui/jesterui) | 🌐
-|[Snakestr](https://satoshipuzzles.github.io/Snakestr/) | Snake game |  [[source]](https://github.com/satoshipuzzles/Snakestr) | 🌐
-|[DEG Mods](https://degmods.com) | Decentralized Game Mods |  [[info]](https://degmods.com/#/about) [[source]](https://github.com/Freakoverse/degmods_design) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-
-<h3>Customization</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Emojito](https://emojito.meme) | Send Funny Stickers to React | [[creator]](https://github.com/verbiricha) | 🌐
-|[Eschanostr](https://github.com/antonioconselheiro/eschanostr) | Customize your Npub | [[source]](https://github.com/antonioconselheiro/eschanostr) | 💻🐧
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-
+<div>
 <h3>Like other Services</h3>
 <table>
   <thead>
@@ -777,7 +996,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>General Uses</h3>
 <table>
   <thead>
@@ -801,7 +1020,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Places</h3>
 <table>
   <thead>
@@ -822,7 +1041,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Driver and Delivery</h3>
 <table>
   <thead>
@@ -844,7 +1063,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h2>OTHER STUFF</h2>
 ___
 
@@ -873,7 +1092,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Exchange</h3>
 <table>
   <thead>
@@ -894,7 +1113,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Media Server (Upload Links)</h3>
 audio, image and video
 
@@ -944,7 +1163,7 @@ Without Nip:
 <hr>
 </div>
 ___
-
+<div>
 <h3>Donation and payments</h3>
 <table>
   <thead>
@@ -969,7 +1188,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Security</h3>
 <table>
   <thead>
@@ -991,7 +1210,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Extensions</h3>
 <table>
   <thead>
@@ -1015,7 +1234,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Code</h3>
 <table>
   <thead>
@@ -1039,7 +1258,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Relay Check and Backup</h3>
 <table>
   <thead>
@@ -1060,7 +1279,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Bridges and Getways</h3>
 <table>
   <thead>
@@ -1084,7 +1303,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h2>NOT RELATED TO NOSTR</h2>
 ___
 
@@ -1111,7 +1330,7 @@ ___
 <hr>
 </div>
 
-
+<div>
 <h3>Keyboards</h3>
 <table>
   <thead>
@@ -1133,7 +1352,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Personal Documents</h3>
 <table>
   <thead>
@@ -1155,7 +1374,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Front-ends</h3>
 <table>
   <thead>
@@ -1181,7 +1400,7 @@ ___
 <hr>
 </div>
 ___
-
+<div>
 <h3>Other Services</h3>
 <table>
   <thead>
