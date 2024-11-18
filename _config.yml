@@ -1,4 +1,4 @@
-title: Feature Matrix for Nostr Clients
+title: Nostr Clients and Other Stuff
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -9,7 +9,7 @@ plugins:
 minima:
   skin: auto
   social_links:
-    - { platform: github,  user_url: "https://github.com/nostorg" }
+    - { platform: github,  user_url: "https://github.com/newrizen" }
 
 exclude:
   - README.md
