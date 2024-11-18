@@ -1221,6 +1221,248 @@ ___
 </section>
 ___
 <div>
+  <h3>Media Server (Upload Links)</h3>
+  <p>audio, image and video</p>
+  
+  <h4>Nip-96:</h4>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://nostrmedia.com">Nostr Media</a></td>
+        <td>Blossom server with Max 25mb images and 100mb videos</td>
+        <td><a href="https://github.com/nostrbuild/nostr.build">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://nostr.build">Nostr Build</a></td>
+        <td>Max 25mb</td>
+        <td><a href="https://github.com/nostrbuild/nostr.build">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://nostrcheck.me">Nostr Check</a></td>
+        <td></td>
+        <td><a href="https://nostrcheck.me/about/">info</a> <a href="https://github.com/quentintaranpino/nostrcheck-server">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://nostpic.com">NostPic</a></td>
+        <td></td>
+        <td><a href="https://github.com/quentintaranpino/nostrcheck-server">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://files.sovbit.com">Sovbit</a></td>
+        <td></td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://void.cat">Voidcat</a></td>
+        <td></td>
+        <td><a href="https://git.v0l.io/Kieran/void.cat/">source</a></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <hr>
+  
+  <h4>Without Nip:</h4>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://pomf.lain.la/">Pomf</a></td>
+        <td>Upload larger videos max 1 gb</td>
+        <td><a href="https://github.com/pomf/pomf">source</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://catbox.moe">Catbox</a></td>
+        <td>Max 200mb</td>
+        <td><a href="https://github.com/lunaticsm/catbox-uploader">source</a></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="https://x0.at">x0</a></td>
+        <td>Max 222mb</td>
+        <td><a href="https://github.com/Rouji/single_php_filehost">source</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <hr>
+  
+</div>
+
+<div>
+  <h3>Donation and Payments</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://zap.nostraps.org">Zapper</a></td>
+        <td>Easy Zaps</td>
+        <td><a href="https://github.com/nostrband/zapper">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://zapplepay.com/autozap">Autozap</a></td>
+        <td></td>
+        <td><a href="https://github.com/benthecarman/zapple-pay-backend">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/SamSamskies/nostr-zap">Nostr Zap</a></td>
+        <td></td>
+        <td></td>
+        <td>💻(numpy)</td>
+      </tr>
+      <tr>
+        <td><a href="https://creatr.nostr.wine">Creatr</a></td>
+        <td>Creators subscription</td>
+        <td></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://geyzer.fund">Geyzer</a></td>
+        <td>Crowdfunding</td>
+        <td><a href="https://geyser.fund/about">info</a> <a href="https://github.com/geyserfund/geyser-app">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://heya.fund/">Heya!</a></td>
+        <td>Crowdfunding</td>
+        <td><a href="https://github.com/verbiricha/goalz">source</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <hr>
+</div>
+
+<div>
+  <h3>Security</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/guilhermegps/secret-border">Secret Border</a></td>
+        <td>Generate offline keys</td>
+        <td></td>
+        <td>💻(java)</td>
+      </tr>
+      <tr>
+        <td><a href="https://umbrel.com">Umbrel</a></td>
+        <td>Your private relay</td>
+        <td><a href="https://github.com/getumbrel">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://antonioconselheiro.github.io/private-qrcode">Private QRcode</a></td>
+        <td>Read and Generate encrypted QR code</td>
+        <td><a href="https://github.com/antonioconselheiro/private-qrcode">source</a></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <hr>
+</div>
+
+<div>
+  <h3>Extensions</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Description</th>
+        <th>Links</th>
+        <th>Access</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/fiatjaf/nos2x">Nos2x</a></td>
+        <td></td>
+        <td>Account access keys</td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://nsec.app/">Nsec.app</a></td>
+        <td></td>
+        <td><a href="https://github.com/nostrband/noauth">info</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://lume.nu/">Lume</a></td>
+        <td></td>
+        <td><a href="https://github.com/lumehq/lume">info</a> <a href="https://github.com/lumehq/lume">source</a></td>
+        <td>🐧🪟🍎</td>
+      </tr>
+      <tr>
+        <td><a href="https://satcom.app">Satcom</a></td>
+        <td>Share files to discuss</td>
+        <td><a href="https://github.com/jinglescode/web-content-conversation">info</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://browser.nostrs.org">Nostr Browser</a></td>
+        <td></td>
+        <td><a href="https://github.com/jackpotty/nostr-browser">source</a></td>
+        <td>🌐</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/fiatjaf/nostr-browser">Nostr Plugin</a></td>
+        <td>For Browsers</td>
+        <td><a href="https://github.com/fiatjaf/nostr-browser">info</a></td>
+        <td>🧑‍💻🍿</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/fiatjaf/zeus">Zeus</a></td>
+        <td>Relay setup</td>
+        <td><a href="https://github.com/fiatjaf/zeus">info</a></td>
+        <td>🌐</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<div>
 <h3>Media Server (Upload Links)</h3>
 audio, image and video
 
@@ -1634,122 +1876,7 @@ ___
 </table>
 <hr>
 </div>
-
-
-
-<h3>Fundamentals</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|A-2 | Primary FOSS made by UNIVAC (1953) - A-2 is a compiler (like a loader / linker) | [Manual](https://web.archive.org/web/20130104114928/http://bitsavers.informatik.uni-stuttgart.de/pdf/mit/summer_session_1954/Digital_Computers_Advanced_Coding_Techniques_Summer_1954.pdf)
-|Git | Repository Kernel | [[source]](https://git.kernel.org/pub/scm/git/git.git)
-|Linux | OS Kernel| [[source]](https://github.com/torvalds/linux) 
-|Bitcoin | Decentralized cryptocurrency| [[source]](https://github.com/bitcoin)
-|Nostr | Censorship-resistent notes | [[source]](https://github.com/nostr-protocol/nostr)
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-
-<div>
-<h3>Keyboards</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-| [Futo](https://keyboard.futo.org/) | Gboard like | [[source]](https://github.com/futo-org/android-keyboard/releases)| 🤖
-| [Florisboard](https://florisboard.org) | | [[source]](https://github.com/florisboard/florisboard) | 🤖
-| [Heliboard](https://github.com/Helium314/HeliBoard) | Openboard based | [[source]](https://github.com/Helium314/HeliBoard) | 🤖
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
 ___
-<div>
-<h3>Personal Documents</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Joplin](https://joplinapp.org/) | privacy-focused note taking app with sync capabilities | [[source]](https://github.com/laurent22/joplin) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
-|[OnlyOffice](https://www.onlyoffice.com/) | Docs cloud | [[source]](https://github.com/ONLYOFFICE/) | 📱(🤖🍎) - 💻 (🐧🪟🍎)
-|[CryptPad](https://cryptpad.org) | Docs cloud instances | [[source]](http://github.com/cryptpad/cryptpad) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Front-ends</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th>
-      <th>Description</th>
-      <th>Links</th>
-      <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-|[Nitter](https://nitter.poast.org/) | Twitter / X without your data | [[source]](https://github.com/zedeus/nitter) |
-|[NewPipe](https://newpipe.net/) | Youtube, Peertube and others, without account & your data | [[source]](https://github.com/TeamNewPipe/NewPipe) | 🤖
-|[Tubular](https://github.com/polymorphicshade/Tubular) | A NewPipe fork + SponsorBlock + ReturnYoutubeDislike | [[source]](https://github.com/polymorphicshade/Tubular) |
-|[BraveNewPipe](https://github.com/bravenewpipe/NewPipe) | A NewPipe fork + SponsorBlock + BitChute + Rumble | [[source]](https://github.com/bravenewpipe/NewPipe) |
-|[FreeTube](https://freetubeapp.io/) | Youtube frontend for desktop | [source](https://github.com/FreeTubeApp/FreeTube) | 💻 
-|[FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) | Freetube fork for Android | [source](https://github.com/MarmadileManteater/FreeTubeAndroid) | 🤖
-|[Piped](https://piped.video) | Youtube web without you data | [[source]](https://github.com/TeamPiped/Piped) | 🌐
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
-___
-<div>
-<h3>Other Services</h3>
-<table>
-  <thead>
-    <tr>
-      <th>Service</th> <th>Description</th> <th>Links</th> <th>Access</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-<th>[Brave](https://brave.com)</th> <th>Browser</th> <th>[[source]](https://github.com/brave/brave-browser)</th>
-<th>[DuckDuckGo](https://duckduckgo.com)</th> <th>Search</th> <th>[[source]](https://github.com/deedy5/duckduckgo_search)</th> <th>🌐</th>
-<th>[LLMA - Meta](https://github.com/meta-llama)</th> <th>Meta open source AI</th> <th>[[source]](https://github.com/meta-llama)</th>
-<th>[DuckDuckGo AI Chat](https://duckduckgo.com/duckduckgo-help-pages/aichat/)</th> <th>Famous AIs without Login</th> <th>[[source]](https://github.com/duckduckgo/duckduckgo-help-pages/commits/master/_docs/aichat/aichat-index.md)</th> <th>🌐</th>
-<th>[Proton Mail](https://proton.me/mail)</th> <th>Mail</th> <th>[[source]](https://github.com/ProtonMail)</th> <th>🤖</th>
-    </tr>
-  </tbody>
-</table>
-<hr>
-</div>
 
 Other open source index:
 [Degoogled Apps](https://tycrek.github.io/degoogle/)
