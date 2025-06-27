@@ -1771,7 +1771,7 @@ ___
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bravenewpipe/NewPipe">BraveNewPipe</a></td>
+      <td><a href="https://github.com/bravenewpipe/NewPipe">BravePipe</a></td>
       <td>A NewPipe fork + SponsorBlock + BitChute + Rumble</td>
       <td><a href="https://github.com/bravenewpipe/NewPipe">[source]</a></td>
       <td></td>
@@ -1783,7 +1783,7 @@ ___
       <td>💻</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">FreeTubeAndroid</a></td>
+      <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">FreeTube Android</a></td>
       <td>Freetube fork for Android</td>
       <td><a href="https://github.com/MarmadileManteater/FreeTubeAndroid">[source]</a></td>
       <td>🤖</td>
