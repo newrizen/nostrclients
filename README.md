@@ -401,9 +401,9 @@ ___
 |[Nitter](https://nitter.poast.org/) | Twitter / X without your data | [[source]](https://github.com/zedeus/nitter) |
 |[NewPipe](https://newpipe.net/) | Youtube, Peertube and others, without account & your data | [[source]](https://github.com/TeamNewPipe/NewPipe) | 🤖
 |[Tubular](https://github.com/polymorphicshade/Tubular) | A NewPipe fork + SponsorBlock + ReturnYoutubeDislike | [[source]](https://github.com/polymorphicshade/Tubular) |
-|[BraveNewPipe](https://github.com/bravenewpipe/NewPipe) | A NewPipe fork + SponsorBlock + BitChute + Rumble | [[source]](https://github.com/bravenewpipe/NewPipe) |
+|[BravePipe](https://github.com/bravenewpipe/NewPipe) | A NewPipe fork + SponsorBlock + BitChute + Rumble | [[source]](https://github.com/bravenewpipe/NewPipe) |
 |[FreeTube](https://freetubeapp.io/) | Youtube frontend for desktop | [source](https://github.com/FreeTubeApp/FreeTube) | 💻 
-|[FreeTubeAndroid](https://github.com/MarmadileManteater/FreeTubeAndroid) | Freetube fork for Android | [source](https://github.com/MarmadileManteater/FreeTubeAndroid) | 🤖
+|[FreeTube Android](https://github.com/MarmadileManteater/FreeTubeAndroid) | Freetube fork for Android | [source](https://github.com/MarmadileManteater/FreeTubeAndroid) | 🤖
 |[Piped](https://piped.video) | Youtube web without you data | [[source]](https://github.com/TeamPiped/Piped) | 🌐
 ___
 
