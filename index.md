@@ -15,7 +15,7 @@ ___
 ## Legend
 
 🌐 Web - 📱 Mobile - 🤖 Android - 🍎 iPhone <br>
-💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 IOS <br>
+💻 Desktop - 🐧 Linux - 🪟 Windows - 🍏 Mac <br>
 ⏱️ Unfinished
 
 ___
